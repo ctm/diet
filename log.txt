@@ -1,8 +1,8 @@
 To anyone other than myself (or perhaps even to myself if I get even
-more forgetful): this file is primarily intended for my own use.  As such,
-there may be unstated pieces of information that could be useful to anyone
-else.  Off the top of my head, here are a few things that perhaps I should
-mention:
+more forgetful): this file is primarily intended for my own use.  As
+such, there may be unstated pieces of information that could be useful
+to anyone else.  Off the top of my head, here are a few things that
+perhaps I should mention:
 
   I take a daily B-complex supplement, specifically Jarrow Formula's B-Right
 
@@ -16,7 +16,8 @@ mention:
 
   I drink water when I feel like it, which isn't very often when I'm not
   actually running.  I don't record the water I drink but I do record
-  everything else (other than my 5:15am double espresso)
+  everything else (other than my 5:15am double espresso, which I initially
+  didn't log, but do now)
 
   Over time exactly what I've written down has changed slightly, in that
   now I'm logging my starting weight, which is how much I weigh after I've
@@ -28,37 +29,38 @@ mention:
   run.  I typically record how much I've run before I eat, but the general
   pattern is:
 
-    Monday 13.1 miles (with interval work mixed in)
+    Monday 15.5 miles (with interval work mixed in)
     Tuesday 8.9 miles
-    Wednesday 13.1 miles (with a 40# pack)
+    Wednesday 15.5 miles (with a 40# pack)
     Thursday 8.9 miles
-    Friday 13.1 miles
+    Friday 15.5 miles
     Saturday variable number of miles, but typically 4 hours or more
     Sunday bike ride, typically 35.5 miles, but more if Saturday was light
 
   I have extensive stats on my exercising that are not part of this file
 
-  I do core exercises every couple of days, which consists of 100 sit-ups,
-  100 push-ups and 60 unweighted squats.  I break the sit-ups and push-ups
-  into three sets, and am slowly increasing the number in the first two sets
-  with the idea of eventually getting to 2 sets of 50, then possibly moving
-  to a longer set followed by a shorter set.
+  I do core exercises every couple of days, which consists of 100
+  sit-ups, almost 100 push-ups and 100 unweighted squats.  I break the
+  sit-ups and push-ups into three sets, and am slowly increasing the
+  number in the first two sets with the idea of eventually getting to
+  2 sets of 50, then possibly moving to a longer set followed by a
+  shorter set.
     
-As far as I can tell, I'm the healthiest of the five of us in my nuclear
-family (the other four being my wife Sophie, my son Elvis and my twin
-daughters Iris and Margaret).  I base that on my perception of how often
-we get sick, who gets sick first and how long people remain sick, but I do
-not have objective measurements of any of that.  I do appear to be pretty
-healthy though.
+As far as I can tell, I'm the healthiest of the five of us in my
+nuclear family (the other four being my wife, my son (born in 2002)
+and my twin daughters (born in 2004).  I base that on my perception of
+how often we get sick, who gets sick first and how long people remain
+sick, but I do not have objective measurements of any of that.  I do
+appear to be pretty healthy though.
 
-My goal is to get my body fat percentage down to 7.3%.  I have my third
-hydrostatic weighing on Thursday, July 26th.  That'll give me an idea of
-how much more I need to lose.  I am monitoring my performance in my daily
-runs to make sure my weight loss is not interfering with my performance.
-My weight loss *is* interfering with my ability to get stuff done from
-about 6pm to 8pm.  I mostly lose motivation then.  I expect my motivation
-to return when I'm no longer stressing my body by running a calorie
-deficit.
+My goal had been to get my body fat percentage down to 7.3%.  I had my
+third hydrostatic weighing on Thursday, July 26th, 2018.  That gave me
+an idea of how much more I needed to lose.  I am monitoring my
+performance in my daily runs to make sure my weight loss is not
+interfering with my performance.  My weight loss *is* interfering with
+my ability to get stuff done from about 6pm to 8pm.  I mostly lose
+motivation then.  I expect my motivation to return when I'm no longer
+stressing my body by running a calorie deficit.
 
 Initially I was going to try to calculate my calorie intake and my calorie
 expenditure, but I decided that it's better to simply estimate my calorie
@@ -72,8 +74,14 @@ early days.  Since I haven't yet had my third hydrostatic weighing I
 don't know for sure that I've increased the percentage of my weight loss
 which was fat burned, but I think I have.  I'll know soon.
 
-I wrote this preamble on Tuesday, July 24th, long after I started this
-log.
+I wrote this preamble on Tuesday, July 24th, 2018, long after I
+started this log, although I've tweaked it slightly on Monday, June
+3rd, 2019.
+
+I mention products by name, just to be more specific.  I do not have
+any sponsorships or any other form of compensation from anyone or any
+entity.  Much of the food I eat comes from Costco, because it's
+relatively inexpensive and high quality.
 
 Saturday 20180331
 
@@ -16545,9 +16553,9 @@ Tuesday 20190604 weight 161.0 46 bpm @ 5:02 57.0?F @ 6:32 (Heritage Hills)
 100? small grapefruit (not one of the huge Costco ruby ones)
 ??? medium/small whole wheat tortilla
 
-ANTICIPATED
-
 5:00 final non-beer calories
-640 4 oz. mixed nuts
+480 3 oz. mixed nuts
+
+ANTICIPATED
 
 6:15 Taco Tuesday
