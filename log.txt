@@ -86,11 +86,11 @@ relatively inexpensive and high quality.
 Saturday 20180331
 
 533 normal oatmeal:
-    160  1/3 cup coaches oats
-    113 2 tablespoons nutriva hemp
-    120 2 tablespoons nutriva black chia
-     80 silk soy milk
-     60 1/2 tablespoon udos oil
+    160  1/3 cup Coaches Oats (steel cut oatmeal)
+    113 2 tablespoons Nutriva hemp
+    120 2 tablespoons Nutriva black chia
+     80 Silk soy milk
+     60 1/2 tablespoon Udos 3-6-9 Oil
 
 322 large avocado
 
@@ -442,7 +442,7 @@ lunch @ noon
 
 Snack 3pm
  10 9x small dill pickles
-225 5x cutie mandarin oranges
+225 5x Cutie mandarin oranges
 
 Snack 3:38pm
  60 1 oz mixed nuts
@@ -466,7 +466,7 @@ breakfast @ 8:30 (after 8.9 mile run)
 300? 1 cup? tofu/marinara/cauliflower/zucchini
  75? bowl of steamed broccoli
 400 2 cups cooked red beans
-135 3x cutie mandarin oranges
+135 3x Cutie mandarin oranges
 
 Snack 2:46 pm
 120 medium banana
@@ -475,7 +475,7 @@ Snack 2:46 pm
 Dinner 4:30 pm
 650 2 cups cooked black matpe beans
  50? small bowl of steamed broccoli
- 45? 1 cutie mandarin orange
+ 45? 1 Cutie mandarin orange
  
 Snack 6:30 pm
 300? 1 cup? tofu/marinara/cauliflower/zucchini
@@ -537,7 +537,7 @@ Snack 4:15
 Dinner 5:00
 440 2 cups northern beans
 200 2x smallish banana
-150 3x cutie mandarin orange
+150 3x Cutie mandarin orange
 
 ------------------------------------------------------------------------
 Friday 20180413 Starting weight 180
@@ -559,7 +559,7 @@ snack @ 3pm
 
 Dinner 5pm
 100? biggish bowl of steamed cauliflower & broccoli
-200 4x cutie mandarin orange
+200 4x Cutie mandarin orange
 440 2 cups northern beans
 160 1 oz mixed unsalted nuts
 
@@ -763,7 +763,7 @@ lunch @ noon
 
 Snack 3:30
 120  medium banana
- 80  cara cara orange
+ 80  Cara Cara orange
 400? 16.3% ABV Samael's Ale Beer
 
 Dinner 5:00
@@ -800,7 +800,7 @@ Sunday 20180422 Starting weight 174.5
 Lunch noon
 500? around 2.5 cup mixed beans
 120  medium banana
- 80  cara cara orange
+ 80  Cara Cara orange
  50  2 dates and 2 cashews
 
 Snack 3pm
@@ -859,7 +859,7 @@ Lunch noon
 400  2 cups cooked red beans
  50 small salad
 160 1 oz mixed unsalted nuts
-135 3x halos mandarin oranges
+135 3x Halos mandarin oranges
 
 Snack 3pm
 300? largish avocado
@@ -871,7 +871,7 @@ Dinner 5pm
 160  1 oz mixed unsalted nuts
 
 Snack 7pm
-270 6x halos mandarin oranges
+270 6x Halos mandarin oranges
  80 1/2 oz mixed unsalted nuts
 
 Wednesday 20180425 Starting weight 173
@@ -1015,7 +1015,7 @@ Sunday 20180429 Starting weight unknown
 
 noon lunch
 12:15 240 brick of tempeh
-135 3x halos mandarin oranges
+135 3x Halos mandarin oranges
 110 granny smith apple
 138 6 dates
 120 medium banana
@@ -1050,7 +1050,7 @@ Noon lunch
 
 3pm snack
 120 1/2 brick Tempeh (20g protein)
-135 3x halos mandarin oranges
+135 3x Halos mandarin oranges
 
 5pm dinner
 450  2 cups kidney beans (30g protein)
@@ -1089,7 +1089,7 @@ Noon Lunch
 
 5pm Dinner
 400  2 cups cooked red beans
-135 3x halos mandarin oranges
+135 3x Halos mandarin oranges
 
 6:15 Taco Tuesday Beer (@ Rio Bravo)
 312? 10 oz 13.5% ABV Russian Imperial Stout
@@ -1185,7 +1185,7 @@ Noon lunch
      and was exceedingly hungry.
 
 150? 3/4 cup remaining black beans
-240  3x cara cara orange
+240  3x Cara Cara orange
 
 Saturday 20180505 Starting weight unknown
 
@@ -1258,7 +1258,7 @@ Monday 20180507 Starting weight 168.0
 Noon Lunch
 800? around 4 cups mixed beans
  75? large bowl of steamed broccoli
- 80  cara cara orange
+ 80  Cara Cara orange
 
 2:10 Snack
 160  1 oz. mixed nuts
@@ -1272,7 +1272,7 @@ Noon Lunch
 400? around 2 cups mixed beans
 
 7:00 Snack
-240  3x cara cara orange
+240  3x Cara Cara orange
 160  1 oz. mixed nuts
 
 Tuesday 20180508 Starting weight 168.0
@@ -1748,7 +1748,7 @@ left. That will make getting to 156 that much easier.
 
 5:15 dinner
 90 10 oz. strawberries
-240  3x costco oranges
+240  3x Costco oranges
 ?    1 homemade whole wheat tortilla
 160 1 oz. mixed nuts
 
@@ -1768,10 +1768,10 @@ it's Thursday.
  50? green drink
 
 9:15 snack
-240  3x costco oranges
+240  3x Costco oranges
 
 10:30 snack
-240  3x costco oranges
+240  3x Costco oranges
 
 11:00 snack
 140  edamame
@@ -1796,7 +1796,7 @@ noon lunch
 5:00 dinner
 460 2 cups brown lentils
 100 11 oz. strawberries
-240  3x costco oranges
+240  3x Costco oranges
 160 1 oz. mixed nuts
 
 6:30 snack
@@ -1837,12 +1837,12 @@ Stabilized!
 
 5:00 dinner
 275  2 cups pinto beans
-80 costco orange
+80 Costco orange
 50? small bowl of steamed broccoli
 
 6:00 snack
 160 1 oz. mixed nuts
-160 2 costco oranges
+160 2 Costco oranges
 
 7:00 snack
 160 1 oz. mixed nuts
@@ -1887,7 +1887,7 @@ noon lunch
 
 7:00 snack
 160 1 oz. mixed nuts
-160 2 costco oranges
+160 2 Costco oranges
 
 Sunday 20180527 Starting weight 166.25
 
@@ -1912,7 +1912,7 @@ noon lunch
 250 small avocado
 
 4:30 snack
-80 costco orange (the last)
+80 Costco orange (the last)
 160 1 oz. mixed nuts
 
 
@@ -4674,7 +4674,7 @@ noon lunch
 360 package of seitan (entire package b/c cooler not fridge)
 
 5:00 dinner
-400 8 cuties
+400 8 Cuties
 920? 4 cups lentils
 75? bowl of raw broccoli
 138 6 dates
@@ -4714,7 +4714,7 @@ noon lunch
 5:00 dinner
 920 4 cups brown lentils
 75? bowl of raw broccoli
-200 4 cuties
+200 4 Cuties
  70 large peach
 120 banana
 
@@ -5900,7 +5900,7 @@ noon lunch
  75  medium bowl steamed broccoli and cauliflower
  75  large salad
 440  2 cups northern beans w/4 chile pods
-150 3 cuties
+150 3 Cuties
 
 2pm protein
 240 1/2 brick tempeh
@@ -5912,7 +5912,7 @@ noon lunch
 460  1 bowl 2 cups lentils and extra water (w/ 3 chile pods)
 138 6 dates
 120  banana
- 50 1 cutie
+ 50 1 Cutie
 250 edamame
 
 6:30 final calories
@@ -5934,7 +5934,7 @@ the door.
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
 460 1 bowl 2 cups lentils and extra water (w/ 3 chile pods)
-200 4 cuties
+200 4 Cuties
 
 1:30 late salad
 75  large salad
@@ -5943,7 +5943,7 @@ the door.
 440  2 cups northern beans w/o chile pods
 
 4pm fruit snack
-300 6 cuties
+300 6 Cuties
 
 4:30 dinner
 460  1 bowl 2 cups lentils and extra water (w/o chile pods)
@@ -6086,7 +6086,7 @@ during race
 2 x (bun w/2 veggie patties)
 handful of pretzels
 banana
-?8? cuties
+?8? Cuties
 2? bags of chips
 32 oz.? 6.8% ABV beer (Marble IPA)
 ? oz. 10% ABV Mondo Vino beer (Four Noses may be the name)
@@ -7288,7 +7288,7 @@ Tuesday 20181106 Starting weight 155.00 / 153.7 41 bpm, 39.2F (Heritage Hills)
 4:30 dinner
 138 6 dates
 460 1 bowl 2 cups lentils and extra water (w/o chile)
-200 4 cuties
+200 4 Cuties
 
 5:00 final non-beer calories
 200 1.25 oz. mixed nuts
@@ -7361,7 +7361,7 @@ Thursday 20181108 Starting weight 153.00 / 151.3 48 bpm, 34.7F
  75  medium bowl steamed broccoli and cauliflower
  50? 5 green chiles
 460  1 bowl 2 cups lentils and extra water (w/o chile)
-200  4 cuties
+200  4 Cuties
 120  banana
   60 medium gala apple
 
@@ -7446,7 +7446,7 @@ piggishly knowing that I'd be running a 50k the following day.
 
 drive down
   3? apples
-  4? cuties?
+  4? Cuties?
   3? bananas?
   nuts
   dates
@@ -8446,7 +8446,7 @@ Mom's house (dropping off Elvis, updating MacOS)
 4:30 dinner
 440  2 cups northern beans w/o chile
 120 banana
-200  4 cuties
+200  4 Cuties
  60 medium gala apple
 
 6:00 final calories
@@ -8480,7 +8480,7 @@ Sunday 20181202 Starting weight 156.00 / 154.5 48 bpm, 33.3F (Heritage Hills)
 2:30 fruit snack
  60 medium gala apple
 120 banana
-150 3 cuties
+150 3 Cuties
 230 10 dates
 
 3:30 protein snack
@@ -8575,7 +8575,7 @@ Tuesday 20181204 Starting weight 154.75 / 153.1 46 bpm, 21.2F (Heritage Hills)
 
 4:30 dinner
 1000? 4x cups orange lentils
-200 4 cuties
+200 4 Cuties
 
 6:00 final calories
 320 2 oz. mixed nuts
@@ -8623,7 +8623,7 @@ Wednesday 20181205 Starting weight 153.25 / 151.3 45 bpm, 17.8F (Heritage Hills)
 3:30 fruit and fat snack
  60 medium gala apple
 100 grapefruit
-200 4 cuties
+200 4 Cuties
 
 4:30 dinner
 500 2 cups orange lentils w/extra water
@@ -8667,7 +8667,7 @@ Thursday 20181206 Starting weight 158.50 / 156.3 51 bpm, 28.4F (Heritage Hills)
  
 2:30 snack
  60 medium gala apple
-200 4 cuties
+200 4 Cuties
 
 3:30 snack
 160 1 oz. mixed nuts
@@ -8675,7 +8675,7 @@ Thursday 20181206 Starting weight 158.50 / 156.3 51 bpm, 28.4F (Heritage Hills)
 4:30 dinner
 900 3 cups adzuki beans
 225? 3 nut balls
-200 4 cuties
+200 4 Cuties
 
 5:15 final solid calories
 200 1.25 oz. mixed nuts
@@ -8710,7 +8710,7 @@ get around to measuring my HR.
  60 medium gala apple
 
 11:15 snack while boiling water
-200 4 cuties
+200 4 Cuties
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -8726,7 +8726,7 @@ get around to measuring my HR.
 320 2 oz. mixed nuts
 
 4:30 dinner
- 75? small orange (but larger than a cutie)
+ 75? small orange (but larger than a Cutie)
 500 2 cups orange lentils w/extra water
 230 10 dates
 
@@ -8764,7 +8764,7 @@ Saturday 20181208 Starting weight 157.00 / 155.6 48 bpm, 32.0F (Sandia Heights)
 70? 24 oz. rice milk
 
 11:00 pre-lunch snack
-150? two small oranges (but larger than a cutie)
+150? two small oranges (but larger than a Cutie)
  60 medium gala apple
 
 11:30 lunch
@@ -8786,7 +8786,7 @@ Saturday 20181208 Starting weight 157.00 / 155.6 48 bpm, 32.0F (Sandia Heights)
 
 5:15 fruit snack
 120 banana
-150? two small oranges (but larger than a cutie)
+150? two small oranges (but larger than a Cutie)
 
 6:00 final calories
 480 3 oz. mixed nuts
@@ -8805,7 +8805,7 @@ Sunday 20181209 Starting weight 156.00 / 154.9 48 bpm, 25.0F (Heritage Hills)
 8:30 fruit snack
 120 banana
  60 medium gala apple
-150? two small oranges (but larger than a cutie)
+150? two small oranges (but larger than a Cutie)
 
 10:00 protein snack
 600 2 cups adzuki beans, w/ extra water
@@ -8821,7 +8821,7 @@ Sunday 20181209 Starting weight 156.00 / 154.9 48 bpm, 25.0F (Heritage Hills)
 3:00 snack
  40? small salad
  60 medium gala apple
-150? two small oranges (but larger than a cutie)
+150? two small oranges (but larger than a Cutie)
 
 4:30 dinner
 750 3 cups mixed beans
@@ -8862,7 +8862,7 @@ forgot to check when done, but a half hour after finishing it was 38.7F
 180 1/2 package seitan
 120 banana
  60 medium gala apple
-150? two small oranges (but larger than a cutie)
+150? two small oranges (but larger than a Cutie)
 
 3:00 protein snack
 180 1/2 package seitan
@@ -8963,7 +8963,7 @@ and still think I did the right thing.
 120 banana
 
 3:15 fruit snack
-200 4 cuties
+200 4 Cuties
 
 4:30 dinner
 260 20 dates
@@ -9001,7 +9001,7 @@ Thursday 20181213 Starting weight 157.00 / 155.0 52 bpm, 27.5F (Heritage Hills)
 
 1:00 snack
 200 1.25 oz. mixed nuyts
-100 2 cuties
+100 2 Cuties
 
 2:45 protein snack
 175 1/2 brick tempeh
@@ -9049,7 +9049,7 @@ Friday 20181214 Starting weight 155.75 / 154.4 52 bpm, 27.9F (Heritage Hills)
 2:00 fruit snack
 60 gala apple
 120 banana
-100 2 cuties
+100 2 Cuties
 138 6 dates
 
 3:15 fat snack
@@ -9094,7 +9094,7 @@ had a "normal" HR.
 150? a few pieces of fried yucca
 300 medium avocado
 120 banana
-100 2 cuties
+100 2 Cuties
 
 12:30 lunch
 800? Thai Vegan LD11? Yellow Curry lunch special -- no idea how many calories
@@ -9103,7 +9103,7 @@ had a "normal" HR.
 3:00 misc. snack
 150? a few pieces of fried yucca
 120 banana
-100 2 cuties
+100 2 Cuties
 250 package of Sprouts edamame
 
 4:30 dinner
@@ -9201,7 +9201,7 @@ Monday 20181217 Starting weight 156.50 / 154.4 50 bpm, 36.5F (Heritage Hills)
 
 2:15 fruit snack
 60 gala apple
-200 4 cuties
+200 4 Cuties
 
 3:00 beer
 ??? 12 0z. 7.8% ABV Firestone Walker 2018 Velvet Merkin
@@ -9236,7 +9236,7 @@ Tuesday 20181218 Starting weight 155.25 / 153.3 47 bpm, 41.0F (Heritage Hills)
 
 1:30 fruit snack
 120 banana
-100 2 cuties
+100 2 Cuties
 
 3:00 nut snack
 480 3 oz. mixed nuts
@@ -9245,7 +9245,7 @@ Tuesday 20181218 Starting weight 155.25 / 153.3 47 bpm, 41.0F (Heritage Hills)
 440? 2 cups black beans
 230 10 dates
 120 banana
-200 4 cuties
+200 4 Cuties
 
 5:30 final non-liquid calories
 320 2 oz. mixed nuts
@@ -9289,7 +9289,7 @@ Wednesday 20181219 Starting weight 157.50 / 155.1 54 bpm, 35.1F (Heritage Hills)
 11:30 lunch
 440? 2 cups black beans w/2 dried chiles, extra water 
 300 medium avocado
-100 2 cuties
+100 2 Cuties
  75 medium bowl steamed broccoli and cauliflower
 
 1:30 snack
@@ -9680,7 +9680,7 @@ a half hour later
 
 3:30 poker with the girls snack
 600? 2 bowls vegan posole (ate one probably around 3, the other around 3:40)
-200 4 cuties
+200 4 Cuties
 
 4:30 dinner
 460 1 bowl 2 cups lentils and extra water (w/o chile)
@@ -9694,7 +9694,7 @@ a half hour later
 233 11.2 oz  8% ABV Kasteel Rouge
 
 10:20 final calories
-250 5 cuties
+250 5 Cuties
 
 Friday 20181228 Starting weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
 24.3F at end
@@ -9714,7 +9714,7 @@ Friday 20181228 Starting weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
 500? 2 cups mixed (not thoroughly cooked) beans w/ extra water
 
 10:20 still hungry
-200 4 cuties
+200 4 Cuties
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -9722,7 +9722,7 @@ Friday 20181228 Starting weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
 500? 2 cups mixed beans w/ extra water
 
 1:00 snack
-50 one cutie (last one)
+50 one Cutie (last one)
 300? 3? cups grapes (all that remained; I didn't measure, count or weigh them)
 
 1:30 snack
@@ -9914,7 +9914,7 @@ burgers (one w/o bun, one w/ bun) some potato chips, pickles, probably more
 that I can't think of
 
 At home I had green drink, medium bowl of broccoli and cauliflower, beans
-w/3 green chiles, 4 cuties, at least 2 oz. mixed nuts, probably other calorie
+w/3 green chiles, 4 Cuties, at least 2 oz. mixed nuts, probably other calorie
 sources
 
 after 6pm I had chips and New Years Day salsa
@@ -9929,7 +9929,7 @@ Wednesday 20190102 Starting weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
 
 6:30 more calories
 490 1 bowl 2 cups lentils and extra water (w/ 3 chiles)
-150 6 cuties
+150 6 Cuties
 
 7:10 more calories
 320 2 oz. mixed nuts
@@ -9955,7 +9955,7 @@ Wednesday 20190102 Starting weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
  50 small jazz apple
 
 12:45 snack
-200 4 cuties
+200 4 Cuties
 
 1:45
 175 1/2 brick tempeh
@@ -10883,7 +10883,7 @@ Monday 20190121 Starting weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 150? small sweet potato
 
 10:40 fruit snack
-150 3 halos
+150 3 Halos
 120 banana
  60 ?gala? apple
 
@@ -10905,7 +10905,7 @@ Monday 20190121 Starting weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 4:30 dinner
 690 3 cups lentils w/o extra water
  60 gala apple
-150 3 halos
+150 3 Halos
 
 5:30 final calories
 230 10 dates
@@ -10931,7 +10931,7 @@ Tuesday 20190122 Starting weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
 11:30 lunch
 40 small salad
 900? 2 cups anasazi beans w/ extra water
-150 3 halos
+150 3 Halos
 120 banana
 475 12 oz. 17% ABV Dogfish Head Oak Aged Vanilla Worldwide Stout
 
@@ -10941,7 +10941,7 @@ Tuesday 20190122 Starting weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
 
 2:15 fruit snack (while heating edamame)
 100 small banana
-100 2 halos
+100 2 Halos
 
 2:45 protein snack
 250 edamame
@@ -10983,7 +10983,7 @@ Wednesday 20190123 Starting weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
-150 3 halos
+150 3 Halos
 900? 3 cups anasazi beans w/ extra water
 
 1:30 fat and protein snack
@@ -11508,7 +11508,7 @@ Sunday 20190203 Starting weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
 
 6:00 final calories
 260 2 large pears
-300 6 halos
+300 6 Halos
 
 Monday 20190204 Starting weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 50.2F at finish
@@ -11547,7 +11547,7 @@ Monday 20190204 Starting weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
  60 apple
 
 2:45 citrus & nut snack
-300 6 halos
+300 6 Halos
 320 2 oz. mixed nuts
 
 4:30 dinner
@@ -12023,7 +12023,7 @@ Thursday 20190214 Starting weight 161.75 / 160.8 57 bpm, 45.1F (Heritage Hills)
 
 12:15 snack
 115 5 dates
-250 5 halos
+250 5 Halos
 
 1:15 snack
 480 3 oz. mixed nuts
@@ -12058,7 +12058,7 @@ Friday 20190215 Starting weight 163.50 / 161.8 51 bpm, 47.7F (Heritage Hills)
  50? 16 oz. rice milk
 
 8:45 snack
-250 5 halos
+250 5 Halos
 
 9:00 more snack
 60 fuji? apple
@@ -12073,7 +12073,7 @@ Friday 20190215 Starting weight 163.50 / 161.8 51 bpm, 47.7F (Heritage Hills)
 11:30 remainder of lunch
 ? 3.x ladles (all that remained) pinto beans w/salsa & extra water
 230 10 dates
-250 5 halos
+250 5 Halos
 
 noon nut snack
 480 3 oz. mixed nuts
@@ -12624,7 +12624,7 @@ Wednesday 20190227 Starting weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
 ??? 2 ladles mung beans (the rest) 2 ladles mixed beans
-100 2 halos
+100 2 Halos
 
 1:30 protein snack
 175 1/2 brick tempeh
@@ -12709,7 +12709,7 @@ Friday 20190301 Starting weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
 
 1:30 fruit snack
 120 banana
-100 2 halos
+100 2 Halos
 
 3:45 snack
 ??? 3 ladles northern beans
@@ -12775,7 +12775,7 @@ Sunday 20190303 Starting weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 10:00 fruit snack
 230 10 dates
 120 banana
-250 5 halos
+250 5 Halos
 100 2 small apples
 
 11:00 apple while waiting for water to boil
@@ -12792,7 +12792,7 @@ Sunday 20190303 Starting weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 
 3:30 fruit snack
 120 banana
-150 3 halos
+150 3 Halos
 
 4:30 dinner
 4 ladles mung beans, no extra water, and were comparatively dry
@@ -13039,7 +13039,7 @@ Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 rice milk
 
 2 large flour tortillas
-6? cuties
+6? Cuties
 3? bagles?
 120 banana
 
@@ -13119,7 +13119,7 @@ Monday 20190311 Starting weight 164.75 / 163.9 57 bpm, 48.0F (Heritage Hills)
  ??? 3 ladles kidney beans (the remainder), hot sauce and extra water
 
 11:00 snack while heating water
-100 2 cuties
+100 2 Cuties
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -13159,7 +13159,7 @@ Tuesday 20190312 Starting weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
 8:15 fruit snack
  60 apple
 240 2 bananas
-200 4 halos
+200 4 Halos
 260 20 dates
 
 9:00 fat snack
@@ -13180,7 +13180,7 @@ Tuesday 20190312 Starting weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
 ??? 2 ladles northern beans in extra water
 
 3:30 snack
-200 4 halos
+200 4 Halos
 120 banana
 
 4:30 dinner
@@ -13379,7 +13379,7 @@ Tuesday 20190319 Starting weight ???.?? / 165.7 44 bpm, 54.9 (Gold Canyon)
 160 1 oz. mixed nuts
 
 10:30 AZ time snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 160 1 oz. mixed nuts
 
 11:20 AZ time snack
@@ -13441,7 +13441,7 @@ https://www.wunderground.com/weather/us/az/gold-canyon/KAZGOLDC10
 533 std oatmeal
 
 6:45 AZ
-240? 3? cara cara oranges
+240? 3? Cara Cara oranges
 
 (Back to Albuquerque, Mountain Daylight Time)
 
@@ -13670,7 +13670,7 @@ Wednesday 20190327 Starting weight 161.00 / 160.2 50 bpm, 52.0 (Heritage Hills)
  60 apple
 
 1:30 snack
-200 4 cuties
+200 4 Cuties
 ??? 1 ladle lentils w/extra water
 
 3:00 snack
@@ -13710,7 +13710,7 @@ noon lunch continued
 ??? 2 ladles of adzuki beans, extra water
 
 1:30 snack
-160 2 cara cara oranges
+160 2 Cara Cara oranges
 120 banana
 
 3:30 snack
@@ -13740,7 +13740,7 @@ Friday 20190329 Starting weight 1??.?? / 1??.? 54 bpm, 51.0 (Heritage Hills)
  50 green drink
 
 9:15 fruit snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 
 11:00 early lunch
  40 small salad
@@ -13848,7 +13848,7 @@ WTF: Didn't poop until 6:45
 
 11:30 lunch continued
 120 banana
-100 2 cuties
+100 2 Cuties
 ??? 3 ladles vegan posole, w/extra liquid
 ??? bowl of vegan posole extra liquid
 
@@ -14181,7 +14181,7 @@ sweet potato and posole are probably the culprits in my weight gain
 
 10:30 fruit snack
 120 banana
-100 2 haloes
+100 2 Halos
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -14259,7 +14259,7 @@ Boston Marathon start time into consideration)
 
 10:15 fruit snack
 240 two bananas
-160 two cara cara oranges
+160 two Cara Cara oranges
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -14948,7 +14948,7 @@ bring my mileage for the week ending today up to 100).
 2:45 fruit snack
  60 apple
 120 banana
-100 2 cuties
+100 2 Cuties
 
 3:30 fat snack
 250 small avocado
@@ -14985,7 +14985,7 @@ Tuesday 20190430 Starting weight 164.00 / 163.0 43 bpm@4:58, 49.5F@6:15 (Heritag
 1:20 fruit snack
  60 apple
 240 two bananas
-100 two cuties
+100 two Cuties
 
 2:30 nut snack
 200 1.25 oz. mixed nuts
@@ -15144,7 +15144,7 @@ During run, stopped to chat with
 480 3 oz. mixed nuts
 
 6:30 final calories
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 230 10 dates
 
 
@@ -15163,7 +15163,7 @@ HR was rushed
 180 3 tablespoons chia 20 oz. water
 
 9:30 post yoga
-250 5 cuties
+250 5 Cuties
 120 banana
 
 10:30 early lunch
@@ -15228,13 +15228,13 @@ Sunday 20190505 Starting weight 162.00 / 161.25 52 bpm @5:06, 47.7F@5:06 (Biopar
 4:00 carbs
 ??? whole wheat tortilla
 ??? 2 bowls spaghetti (the rest)
-160 2 cara cara oranges
+160 2 Cara Cara oranges
 
 5:00 final? calories
 320 2 oz. mixed nuts
 
 8:45 hungry again
-320 4 cara cara oranges
+320 4 Cara Cara oranges
 ??? 3 1/2? ladles (didn't measure) mixed beans (the rest)
 1 1/2 whole wheat tortillas
 480 3 oz. mixed nuts
@@ -15258,7 +15258,7 @@ cut it short because I needed to sit on the toilet
  50? 16 oz. rice milk
 
 10:30 fruit snack
-160 two cara cara oranges
+160 two Cara Cara oranges
 120 banana
 
 11:30 lunch
@@ -15276,7 +15276,7 @@ cut it short because I needed to sit on the toilet
 2:30 fruit snack
  60 apple
 120 banana
-160 two cara cara oranges
+160 two Cara Cara oranges
 
 3:30 peanut snack
 shelled and ate a ton of peanut; did not measure
@@ -15289,7 +15289,7 @@ shelled and ate a ton of peanut; did not measure
 
 7:43 still hungry
 30 1/4 banana
-80 cara cara orange
+80 Cara Cara orange
 400 20 dates
 
 Tuesday 20190507 Starting weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Heritage Hills)
@@ -15308,7 +15308,7 @@ Tuesday 20190507 Starting weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Herita
  50? 16 oz. rice milk
 
 9:00 fruit snack
-80 cara cara orange
+80 Cara Cara orange
 60 apple
 120 banana
 
@@ -15557,7 +15557,7 @@ Monday 20190513 Starting weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Herit
 
 1:30 fruit snack
 120 banana
-250 5 halos
+250 5 Halos
 
 2:30 more protein
 ??? 4 ladles of mung beans (I think)
@@ -15572,7 +15572,7 @@ Monday 20190513 Starting weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Herit
 
 5:15 final calories
 120 banana
-250 5 halos
+250 5 Halos
 
 Tuesday 20190514 Starting weight 161.50 / 160.6 ?? bpm @ ?:?? ??.?F @ ?:?? (Heritage Hills)
 ??.?F at end
@@ -15588,7 +15588,7 @@ Tuesday 20190514 Starting weight 161.50 / 160.6 ?? bpm @ ?:?? ??.?F @ ?:?? (Heri
 
 pre-assignment calories
 120 2 apples
-250? 5? halos
+250? 5? Halos
 240? 2 bananas
 75? remains of an ancient gel that had opened
 200? ancient (it turned black!) Larabar
@@ -15597,7 +15597,7 @@ pre-assignment calories
 533 normal oatmeal
 140? 48? oz. rice milk
 120 banana
-100? 2? halos
+100? 2? Halos
 
 ?:?? back home
  50? green drink
@@ -15633,7 +15633,7 @@ Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heri
  50? 16 oz. rice milk
 
 10:00 fruit snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -15642,7 +15642,7 @@ Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heri
 
 1:30 fruit snack
 300 15 dates
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 
 3:00 protein & date! snack
 ??? 4 ladles kidney beans
@@ -15660,7 +15660,7 @@ Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heri
 
 7:30 final calories
 60 appl3
-160 2 cara cara oranges
+160 2 Cara Cara oranges
 480 3 oz. mixed nuts
 
 Thursday 20190516 Starting weight 161.25 / 160.2 52 bpm @4:58, ??.?F@?:?? (Heritage Hills)
@@ -15684,7 +15684,7 @@ no internet in the morning, so no temperatures
 
 250 small avocado
 120 banana
-160 2 cara cara oranges
+160 2 Cara Cara oranges
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -15694,14 +15694,14 @@ no internet in the morning, so no temperatures
 
 1:15 snack
 250 small avocado
-350 seven halos
+350 seven Halos
 
 1:45 snack
 20 10 dates
 320 2 oz. mixed nuts
 
 3:15 snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 
 4:00 early dinner
 ??? 4 ladles lentils
@@ -15748,7 +15748,7 @@ two big salads
 6:00 dinner
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
-320 4 cara cara oranges
+320 4 Cara Cara oranges
 533 normal oatmeal
 
 7:30 final calories
@@ -15853,7 +15853,7 @@ Monday 20190520 Starting weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritag
  50? 16 oz. rice milk
 
 10:30 fruit snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 120 banana
 
 11:30 lunch
@@ -15873,7 +15873,7 @@ Monday 20190520 Starting weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritag
 480 3 oz. mixed nuts
 
 4:00 early dinner
-80 cara cara orange
+80 Cara Cara orange
 ??? 3 ladles pinto beans, extra water
 ??? 3 ladles yellow lentils, no extra water
 
@@ -15903,7 +15903,7 @@ HR was a little rushed and was post-caffeine
  75 medium bowl steamed zucchini (no broccoli) and cauliflower
 
 11:30 lunch continued
-80 cara cara orange
+80 Cara Cara orange
  40 small salad
 ??? 2 ladles of pinto beans (the rest), a ton of extra water (the rest)
 
@@ -15952,11 +15952,11 @@ Wednesday 20190522 Starting weight 162.50 / 161.8 48 bpm @5:48, 41.0F@5:38 (Heri
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
- 80 cara cara orange
+ 80 Cara Cara orange
 ??? 4 ladles mixed beans, green chile, no extra water
 
 1:00 snack
-80 cara cara orange (the last)
+80 Cara Cara orange (the last)
 300 medium avocado (the last)
 230 10 dates
 
@@ -16217,7 +16217,7 @@ Tuesday 20190528 weight 163.9 47 bpm @ 5:08 43.5F @ 5:14 (Heritage Hills)
 ??? 3 ladles adzuki beans
 
 5:00 final calories
-320 4 cara cara oranges
+320 4 Cara Cara oranges
 460 20 dates
 
 Wednesday 20190529 weight 162.6 48 bpm @ 6:03 50.7F @ 6:04 (Heritage Hills)
@@ -16257,7 +16257,7 @@ noon more lunch
 640 4 oz. mixed nuts
 
 4:15 dinner
-80 cara cara orange
+80 Cara Cara orange
 ??? 4 ladles lentils
 
 5:00 final calories
@@ -16281,7 +16281,7 @@ have been)
  50? 16 oz. rice milk
 
 9:00 no Cocoa Conspiracy, fruit snack, instead
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 120 banana
 230 10 dates
 
@@ -16295,7 +16295,7 @@ have been)
 230 10 dates
 
 2:00 fruit snack
-240 3 cara cara oranges
+240 3 Cara Cara oranges
 
 2:15 fruit snack continued
 120 banana
@@ -16315,7 +16315,7 @@ have been)
 12 oz 9% ABV North Coast Old Rasputin
 
 8:00 back at home
-480 6 cara cara oranges
+480 6 Cara Cara oranges
 120 banana
 
 Friday 20190531 weight 161.6 48 bpm @ 7:01 53.6F @ 7:02 (Heritage Hills)
@@ -16332,7 +16332,7 @@ Friday 20190531 weight 161.6 48 bpm @ 7:01 53.6F @ 7:02 (Heritage Hills)
  50? green drink
 
 9:15 fruit snack
-160 2 cara cara oranges
+160 2 Cara Cara oranges
 120 banana
 
 10:00 protein snack
@@ -16403,7 +16403,7 @@ addition to my own meal.
 
 3:30 fruit snack
  60 apple
-160 two cara cara oranges
+160 two Cara Cara oranges
 
 4:00 rescheduled lunch veggies
  75 medium bowl steamed broccoli and cauliflower
@@ -16418,7 +16418,7 @@ addition to my own meal.
 640 4 oz. mixed nuts
 
 7:30 fruit final calories
-480 6 cara cara oranges (the rest)
+480 6 Cara Cara oranges (the rest)
 230 10 dates
 
 Sunday 20190602 weight 162.8 52 bpm @ 5:35 53.8F @ 5:06 (Alameda and the River)
@@ -17036,7 +17036,7 @@ sour power
 hot funions
 
 back at car
-533 oatmeal
+533 normal oatmeal
  70? 24 oz. rice milk
  
 Sunday 20190616 weight 163.0 46 bpm @ 6:09 57.1F @ 6:06 (Alameda & River)
@@ -17047,10 +17047,10 @@ HR was late and rushed
 10 double espresso
 
 7:45 post Team RWB ruck run
-533 oatmeal
+533 normal oatmeal
  70? 24 oz. rice milk
 360 3 bananas
-150 3 cuties
+150 3 Cuties
 10? 8 oz. coffee
 
 10:00 post ruck dog walk protein snack
@@ -17094,7 +17094,7 @@ Did not sleep well last night, too much alcohol yesterday.  Ugh.
 10 double espresso
 
 8:30 breakfast (no workout yet)
-533 oatmeal
+533 normal oatmeal
 
 9:30 fat snack
 300 avocado
@@ -17231,7 +17231,7 @@ HR was late and rushed
 
 12:30 late lunch continued
 75 medium bowl steamed broccoli and cauliflower
-250 5 halos
+250 5 Costco mandarins
 
 2:00 protein snack
  60 apple (while heating the beans)
@@ -17272,7 +17272,7 @@ Friday 20190621 weight 160.4 49 bpm @ 5:32 62.6F @ 5:30 (Heritage Hills)
 12:30 fruit snack
 240 2 bananas
  60 apple
-250 5 halos
+250 5 Costco mandarins
 
 1:40 date snack
 230 10 dates
@@ -17339,8 +17339,8 @@ from yesterday.  Today will be interesting.
 533 normal oatmeal
 
 6:53 pre-race bonus calories and meds
-10 dates
- 0 200 mg ibuprofen
+230 10 dates
+  0 200 mg ibuprofen
 
 7:45 pre-run caffeine
  20 quad espresso
@@ -17349,7 +17349,7 @@ from yesterday.  Today will be interesting.
 300 3 scoops tailwind in 20 oz. water
 
 8:45 post 5k race (1st AG, 15 OA)
-533 oatmeal
+533 normal oatmeal
 25? 10? oz. (the rest) rice milk
 
 10:45 non-nut fat snack
@@ -17360,6 +17360,142 @@ from yesterday.  Today will be interesting.
 75 medium bowl steamed broccoli and cauliflower
 40? small salad
  60 apple
-250 5 halos
+250 5 Costco mandarin oranges
 ??? 3 ladles yellow lentils, no chile, no extra water
+
+1:30 snack
+10 10 sliced pickle chips
+??? 4 ladles pinto beans
+
+2:30 snack
+230 10 dates
+
+6:00 Katie's Birthday
+??? chips, salsa, guacamole
+??? 12 oz. 4.6% ABV Corona Extra
+??? been burrito (mistakenly had cheese on it), w/red & green chile
+??? watermelon drink
+
+9:15 "late night" snack
+640 4 oz. mixed nuts
+
+Monday 20190624 weight 163.6 47 bpm @ 5:13 49.8F @ 5:14 (Heritage Hills)
+
+5:15 wake-up
+10 double espresso
+
+7:00 breakfast
+533 normal oatmeal
+100? botched whole milk latte (would have been thrown out, so I drank it instead)
+250 5 Costco mandarins
+
+9:30 fruit snack
+60 apple
+200 4 Costco mandarins
+
+10:00 pre-lunch
+ 50? green drink
+ 345 15 dates
+
+10:45 fat snack
+200 1.25 oz. mixed nuts
+
+11:20 lunch
+75 medium bowl steamed broccoli and cauliflower
+40? small salad
+??? 3 ladles black beans, w a ton of green chile, no extra water
+
+12:15 snack
+115 5 dates
+
+2:00 snack
+??? bowl of spaghetti
+
+2:45 snack
+??? 3? ladles yellow lentils, extra water (was hard to separate the two)
+
+4:00 dinner
+??? 3 ladles pinto beans (the rest)
+30? small amount of watermelon
+
+5:00 final calories
+640 4 oz. mixed nuts
+
+Tuesday 20190625 weight 160.1 46 bpm @ 5:24 54.0F @ 5:27 (Heritage Hills)
+
+5:15 wake-up
+10 double espresso
+
+6:30 pre-breakfast
+ 50? green drink
+
+7:00 breakfast
+533 normal oatmeal
+
+8:15 snack
+ 60 apple
+120 banana
+??? 1/2? ladle (the rest) lentils, extra lentil water
+
+10:00 pre-lunch
+ 345 15 dates
+
+10:50 pre-lunch
+ 60 apple
+40? small salad 
+
+11:15 lunch
+170 kaiser roll
+??? 4 ladles kidney beans, no chile, no extra water
+75 medium bowl steamed broccoli and cauliflower
+
+12:45 snack
+5 dates
+
+1:40 nut snack
+480 3 oz. mixed nuts
+
+2:45 fruit snack
+??? 2 bunches of purple grapes
+
+5:15 late dinner and final calories
+??? a few asparagus stalks
+??? 4 ladles kidney beans, no chile, no extra water
+170 kaiser roll
+??? small amount of watermelon
+640 4 oz. mixed nuts
+
+Wednesday 20190626 weight 161.6 47 bpm @ 4:30 63.0F @ 4:47 (Heritage Hills)
+79.9F at end (forgot to take temp just before running)
+
+5:15 wake-up
+10 double espresso
+
+6:00 pre-run calories
+533 normal oatmeal
+
+6:30 bonus (pre-run) caffeine
+10 double espresso
+
+7:30 pre-run veggies
+ 50? green drink
+
+8:30 post-run calories
+533 normal oatmeal
+ 50? 16 oz. rice milk
+??? bunch of grapes
+ 60 apple
+
+10:30 pre-lunch
+120 banana
+??? 3 ladles kidney beans, w/ lots of green chile, no extra water
+
+ANTICIPATED
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+40? small salad
+??? 4 ladles lentils, no chile, no extra water
+ 60 apple
+230 10 dates
 
