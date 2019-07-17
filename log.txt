@@ -11553,7 +11553,7 @@ Monday 20190204 Starting weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 4:30 dinner
 ??? 3 1/2 ladles (the rest) of lentils
 ??? 3 chunks of beets (cooked with oil, rosemary, wine)
-300 15 dates
+345 15 dates
 
 5:30 final calories
 480 3 oz. mixed nuts
@@ -11604,7 +11604,7 @@ Tuesday 20190205 Starting weight 161.00 / 159.8 48 bpm, 46.0F (Heritage Hills)
 ??? fair amount of regular fries
 
 8:15 back home
-300 15 dates
+345 15 dates
 320 2 oz. mixed nuts
 
 Wednesday 20190206 Starting weight 165.00 / 164.0 59 bpm, 37.9F (Heritage Hills)
@@ -12409,7 +12409,7 @@ Friday 20190223 Starting weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
 
 5:20 final calories
 480 3 oz. mixed nuts
-300 15 dates
+345 15 dates
 
 Saturday 20190223 Starting weight 164.00 / 163.5 52 bpm, 26.8F (Heritage Hills)
 
@@ -12713,7 +12713,7 @@ Friday 20190301 Starting weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
 
 3:45 snack
 ??? 3 ladles northern beans
-300 15 dates
+345 15 dates
 
 4:30 dinner
 ??? 4 ladles lentils
@@ -12787,7 +12787,7 @@ Sunday 20190303 Starting weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 ??? 3 ladles northern beans with a bunch of beats
 
 1:30 snack
-300 15 dates
+345 15 dates
 480 3 oz. mixed nuts
 
 3:30 fruit snack
@@ -12833,7 +12833,7 @@ very small buckwheat pancake
 ??? 1 ladle northern beans (the rest), 3 ladles mung beans, extra water
 
 1:45 snack
-300 15 dates
+345 15 dates
 
 2:30 snack
 320 2 oz. mixed nuts
@@ -15423,7 +15423,7 @@ Thursday 20190509 Starting weight 163.0 / 161.4 55 bpm @5:01, 47.5F@6:30 (Herita
 120 banana
 
 5:46 final calories
-300 15 dates
+345 15 dates
 
 Friday 20190510 Starting weight 160.00 / 159.1 52 bpm @4:55, 45.9F@5:48 (Heritage Hills)
 
@@ -15641,7 +15641,7 @@ Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heri
  40 small salad
 
 1:30 fruit snack
-300 15 dates
+345 15 dates
 240 3 Cara Cara oranges
 
 3:00 protein & date! snack
@@ -18053,9 +18053,7 @@ Tuesday 20190709 weight 158.8 45 bpm @ 5:08 57.9F @ 5:10 (Heritage Hills)
 ??? 3 ladles lentils, extra water, no chile
 
 5:00 final calories
-3 oz. mixed nuts
-
-ANTICIPATED
+480 3 oz. mixed nuts
 
 Wednesday 20190710 weight 156.9 47 bpm @ 4:57 60.4F @ 5:54 (Heritage Hills)
 75.6F at end (weight 155.3)
@@ -18081,12 +18079,327 @@ Wednesday 20190710 weight 156.9 47 bpm @ 4:57 60.4F @ 5:54 (Heritage Hills)
 10:30 protein snack
 175  1/2 package of tofu
 
-ANTICIPATED
-
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
 40? small salad
 ??? 3 ladles lentils, no chile, extra water
+250 small avocado
 
 1:30 protein snack
 175  1/2 package of tofu
+
+2:45 fruit snack
+ 60 apple
+240 two bananas
+ 75 nectarine
+
+4:00 dinner
+ 80 orange
+??? 3 ladles lentils, no chile, extra water
+
+4:40 final calories
+480 3 oz. mixed nuts
+
+6:00 RubiABQ
+15 12 oz. 0% ABV Margarita HH
+
+Thursday 20190711 weight 158.0 46 bpm @ 4:30 66.4F @ 6:30 (Heritage Hills)
+??.?F at end (forgot to record)
+
+5:15 wake-up
+10 double espresso
+
+5:45 - 6:30 during-core protein and liquid
+180 3 tablespoons chia in 16 oz. water
+
+?:?? post 8.9 mile run breakfast
+533 normal oatmeal
+ 50? 16 oz. rice milk
+ 50? green drink
+
+?:?? Cocoa Conspiracy @ Michael Thomas
+300? 20 oz. quad soy decaf latte
+
+11:45 late lunch
+ 75 medium bowl steamed broccoli and cauliflower
+40? small salad
+175 1/2 brick tempeh
+240 two bananas
+ 60 apple
+ ?? small peach
+160 two oranges
+125 1/2 small avocado (not yet ripe enough to eat)
+115 5 dates
+
+1:30 more protein
+175 1/2 brick tempeh
+
+3:00 nut snack
+200 1.25 oz. mixed nuts
+
+4:00 dinner
+?30? small chip and guacamole
+200 1.25 oz. mixed nuts
+
+4:30
+??? 16 oz. 4.5% ABV Unibroue À Tout le monde
+
+ANTICIPATED
+
+Friday 20190712 weight 156.7 45 bpm @ 4:21 ??.?F @ ?:?? (Heritage Hills)
+72.9F at end (forgot to check this morning before I ran)
+
+5:15 wake-up
+10 double espresso
+
+6:10 - 7:30 during 8.9 mile run
+360 2x 3 tablespoons chia in 16 oz. water
+
+7:30 post run breakfast
+533 normal oatmeal
+ 50? 16 oz. rice milk
+ 50? green drink
+
+9:00 protein snack
+??? 2 1/2 ladles black beans, lots of extra water, no chile
+
+10:15 fruit snack
+160 two oranges
+ 60 apple
+240 two bananas 
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+40? small salad
+??? 3 ladles black beans, extra water, no chile
+
+12:30 snack
+ 345 15 dates
+
+2:00 grilled veggies
+??? bowl of grilled veggies
+
+3:00 nut & veggie snack
+200 1.25 oz. mixed nuts
+??? bowl grilled veggies
+
+4:00 dinner
+80 orange
+??? ~2 ladles (the rest) black beans, extra water, no chile
+
+5:00 final calories
+480 3 oz. mixed nuts
+??? bowl grilled veggies
+
+Saturday 20190713 weight 158.7 44 bpm @ 3:49 ??.?F @ ?:?? (Heritage Hills)
+
+5:15 wake-up
+10 double espresso
+
+6:30 no-fiber calories
+??? 2 bowls spaghetti
+175  1/2 package of tofu
+
+8:30 accidental fiber (forgot to ask Sophie to skip making 'em) + more calories
+ 50? green drink
+40? small salad
+??? 1/2 bowl? (remaining) spaghetti
+480 3 oz. mixed nuts
+
+10:00 calories
+??? bowl of spaghetti
+
+10:40 more calories and protein
+??? bowl of spaghetti
+175  1/2 package of tofu
+
+11:45 SAR calories
+200 2x gels
+500? big vegan sugar muffin
+
+before, during and after SAR mission
+?1500? big bag of spaghetti
+~640 ~4 oz. mixed nuts (two full handfuls)
+300 3x 100 calorie gels (misc.)
+210 Chocolate Coconut Chew Larabar
+
+~7:00 back home
+12 oz. 8.5% ABV Founders Dirty Bastard
+80 orange
+
+8:00 more oranges
+160 2 oranges
+
+
+Sunday 20190714 weight 160.7 46 bpm @ 4:44 72.1 @ 4:48 (Near North Valley)
+80+ at end (forgot to check)
+
+
+5:15 wake-up
+10 double espresso
+
+5:50 pre-race calories
+533 normal oatmeal
+
+6:50 pre-race bonus calories and meds
+230 10 dates
+  0 200 mg ibuprofen
+
+7:15 pre-run caffeine
+ 20 quad espresso
+
+8:00 - 8:45 during 10k race
+600 6 scoops tailwind in 20 oz. water
+
+8:45 post race
+533 normal oatmeal
+70? 24 oz. rice milk
+
+10:15 back home
+250 small avocado
+160 two oranges
+120 banana
+
+11:30 lunch
+100? big bowl of steamed broccoli
+ 50? green drink
+??? 3 ladles pinto beans, extra water, no chile
+
+3:00 nut snack
+320 2 oz. mixed nuts
+
+4:00 dinner
+??? 2 ladles pinto beans, extra water
+125 half a (bad) avocado (threw away the other half)
+??? two bunches of grapes
+ 60 (not particularly good) apple
+
+5:00 final calories
+320 2 oz. mixed nuts
+ 
+Monday 20190715 weight 161.4 41 bpm @ 7:58 76.3F @ 8:01 (Heritage Hills)
+83.3F at end
+
+5:15 wake-up
+10 double espresso
+
+7:00? bonus caffeine (forgot to write it down when I took it)
+10 double espresso
+
+9:45 post 8.9 mile run breakfast
+533 normal oatmeal
+ 50? 16 oz. rice milk
+ 50? green drink
+
+10:50 tiny fruit snack
+120 banana
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+40? small salad
+
+12:30 lunch continued
+115 5 dates
+??? 2 ladles pinto beans, extra water
+
+1:30 still hungry
+115 5 dates
+
+2:30 nut snack
+200 1.25 oz. mixed nuts
+
+4:00 dinner
+??? 2 ladles mixed beans, extra water
+
+4:30 snack
+115 5 dtes
+
+5:00 final calories
+320 2 oz. mixed nuts
+
+Tuesday 20190716 weight 159.6 47 bpm @ 5:11 71.4F @ 7:00 (Heritage HJills)
+84.4F at end
+
+5:15 wake-up
+10 double espresso
+
+5:55 - ?:?? during core
+180 3 tablespoons chia in 20 oz. water
+
+6:45 bonus caffeine
+100? double espresso horrible milk (non-vegan!) latte (botched, trash)
+
+8:45 post 8.9 mile run breakfast
+533 normal oatmeal
+ 50? 16 oz. rice milk
+ 50? green drink
+
+10:00 fruit snack
+60 two plums
+80 orange
+75 nectarine
+70 peach
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+115 5 dates 
+??? 2 ladles pinto beans, extra water
+
+12:45 snack
+60 apple
+
+2:00 fruit snack
+240 3 oranges
+ 30 plum
+ 60 apple
+
+3:00 nut snack
+200 1.25 oz. mixed nuts
+
+4:00 dinner
+??? 2 ladles mixed beans, extra water, no chile
+
+5:00 final calories
+200 1.25 oz. mixed nuts
+
+Wednesday 20190717 weight 158.8 46 bpm @ 4:29 69.1F @ 6:26 (Heritage Hills)
+77.7F at end
+
+5:15 wake-up
+10 double espresso
+
+5:45 analgesics
+92 4 dates
+0 200 mg ibuprofen
+
+6:03 bonus caffeine
+20 quad espresso
+
+6:30 - 9:00 during 13.1 mi 44-41.5# pack run
+1320 4x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
+
+9:15 post run calories
+533 normal oatmeal
+ 50? 16 oz. rice milk
+
+9:45 protein snack
+225 half brick of tofu
+
+10:35 more protein snack
+225 half brick of tofu
+
+10:45 more calories
+ 50? green drink
+??? two homemade vegan rolls 
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+??? 3 ladles pinto beans, extra water
+
+12:50 tiny snack
+??? small amount (the rest) of calabacitas
+
+ANTICIPATED
+ 
