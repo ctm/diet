@@ -509,7 +509,7 @@ Beer 6pm
 315 12 oz. Ten Fidy
 
 Late night snack 8pm
-225 25x kalamata olives
+190 25x kalamata olives
  50? home tortilla
 
 ------------------------------------------------------------------------
@@ -529,7 +529,7 @@ Snack 1:30
 100? biggish bowl of steamed cauliflower & broccoli
 
 Snack 3:15
-200 20x kalamata olives
+152 20x kalamata olives
 
 Snack 4:15
  75 cup of pineapple (raw, not in syrup) probably less than a cup
@@ -595,7 +595,7 @@ Lunch
  50  2 dates and 2 cashews
 
 Snack 3:05
- 45 5x kalamata olives
+ 38 5x kalamata olives
 
 Snack 3:45
 120 medium banana
@@ -806,7 +806,7 @@ Lunch noon
 Snack 3pm
 120 medium banana
 160 1 oz mixed unsalted nuts
-135 15x kalamata olives
+114 15x kalamata olives
 
 Dinner 4:55
 800? around 4 cups mixed beans
@@ -2602,7 +2602,7 @@ noon lunch
 160  1 oz. mixed nuts
 
 7:00 snack
-180 20 kalamata olives
+152 20 kalamata olives
 
 Saturday 20180616 Starting weight  160.25
 
@@ -2927,7 +2927,7 @@ noon lunch
 5:00 dinner
 440  2 cups white beans
 200? salad with avocado and perhaps oil based dressing
-180 20 kalamata olives
+152 20 kalamata olives
 120 banana
 
 Thursday 20180628 Starting weight 163.5
@@ -3364,7 +3364,7 @@ noon lunch
 320 2 oz. mixed nuts
 
 6:45 final calories
-180 20 kalamata olives
+152 20 kalamata olives
 
 Tuesday 20180710 Starting weight 158.5, 49 bpm
 
@@ -3775,7 +3775,7 @@ post-work beer
 690 3 cups brown lentils
 
 5:30 fat snack
-270 30 kalamative olives
+228 30 kalamative olives
 
 6:20 getting close to end of day snack
 120 banana
@@ -4595,7 +4595,7 @@ noon lunch
 500? 2 cups mixed beans
 138 6 dates
  60 apple
-135 15 kalamata olives
+114 15 kalamata olives
 
 6:30 final calories
 320 2 oz. mixed nuts
@@ -4608,7 +4608,7 @@ Monday 20180813 Starting weight 151.75 / 149.9, 47 bpm, 67F
  50? green drink
 
 8:30 fat snack
-216 24 kalamata olives
+182 24 kalamata olives
 
 10:30 tiny taper snack
 60 apple
@@ -9171,7 +9171,7 @@ Sunday 20181216 Starting weight 158.25 / 156.3 48 bpm, 24.6F (Alameda & River)
  75 medium bowl steamed broccoli and cauliflower
 
 noon lunch
-100 11 kalamata olives (the remaining ones,
+ 83 11 kalamata olives (the remaining ones,
                         3 had pits and I wound up breaking a tooth)
 500? 2 cups mixed beans w/ extra water                        
 
@@ -21460,7 +21460,7 @@ Sunday 20190929 weight 159.7 (didn't take HR or exercise)
 ??? final lqrge quinoa stuffed red bell pepper
 
 4:00 dinner
-90 10 kalamata olives
+76 10 kalamata olives
 ??? 4 ladles lentils, extra water, no chile
 
 4:30 almost final calories
@@ -25016,7 +25016,7 @@ Sunday 20181216 Starting weight 158.25 / 156.3 48 bpm, 24.6F (Alameda & River)
  75 medium bowl steamed broccoli and cauliflower
 
 noon lunch
-100 11 kalamata olives (the remaining ones,
+84 11 kalamata olives (the remaining ones,
                         3 had pits and I wound up breaking a tooth)
 500? 2 cups mixed beans w/ extra water                        
 
@@ -37305,7 +37305,7 @@ Sunday 20190929 weight 159.7 (didn't take HR or exercise)
 ??? final lqrge quinoa stuffed red bell pepper
 
 4:00 dinner
-90 10 kalamata olives
+76 10 kalamata olives
 ??? 4 ladles lentils, extra water, no chile
 
 4:30 almost final calories
@@ -39944,22 +39944,122 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 ??? two handfuls of grapes
 
 4:30 dinner
- 76 20 kalamata olives
+152 20 kalamata olives
 ??? 2 ladles lentils, no chile, extra water
 
 5:00 final calories
 640 4 oz. mixed nuts
 
-Sunday 20191124 weight 156.5 43 bpm @ 6:03 28.4F @ 5:42 (Alameda & the River)
+Sunday 20191124 weight 156.5 43 bpm @ 6:03 27.3F @ 7:05 (Alameda & the River)
 https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
-??.?F at end
+45.4F hour and twenty minutes after end
 
 5:15 wake-up
 10 double espresso
 
-ANTICIPATED
-
 8:30 post Team RWB exercise (likely a 3 mile 40# ruck run)
 533 normal oatmeal
 70? 24 oz. rice milk
-??? ? cups Starbucks coffee
+??? 2 cups Starbucks coffee
+
+10:00 fruit snack
+60 apple
+80 orange
+
+10:20 green snacks
+50? green drink
+280 2x 8 oz. bag edamame
+
+11:30 lunch
+ 40? small salad
+ 75 medium bowl steamed broccoli and cauliflower
+??? 2 ladles mixed beans, La Victoria Medium Salsa, extra water
+
+12:45 fat snack
+228 30 kalamata olives
+
+1:45 fruit snack
+ 60 apple
+
+2:00 play-testing fuel
+330 330ml (11.2 oz) 11% ABV Kasteel Donker
+315 330ml (11.2 oz) 10.7% ABV Gulden Draak 9000
+
+3:30 nut snack
+480 3 oz. mixed nuts
+
+4:00 early dinner
+??? 4 vegan tamales
+
+5:00 final calories
+640 4 oz. mixed nuts
+
+Monday 20191125 weight 155.6 43 bpm @ 4:48 28.0F @ 6:23 (Heritate Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+40.3F at end
+
+5:15 wake-up
+10 double espresso
+
+6:15 pre-run caffeine
+10 double espresso
+
+6:30 - 8:30 during 13.1 mile run
+180 3 tablespoons chia in 20 oz. water
+
+9:00 breakfast (post 13.1 mile run)
+533 normal oatmeal
+ 50? green drink
+ 50? 16 oz. rice milk
+
+9:20 bonus caffeine (Margaret didn't drink hers)
+10 double espresso
+
+10:15 protein snack
+280 2x 8 oz. bag edamame
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+??? 2 ladles mixed beans, La Victoria Medium, extra water
+
+12:30 fruit snack
+ 60 apple
+160 two oranges 
+120 banana
+
+1:30 protein snack
+??? 3 ladles lentils, La Victoria Medium, extra water
+
+2:45 fruit snack
+ 60 apple
+ 53 7 (the rest) kalamata olives
+120 banana
+
+3:30 nut snack
+320 2 oz. mixed nuts
+
+4:30 dinner
+??? 3 ladles mixed beans, no chile, extra water
+
+5:00 final calories
+640 4 oz. mixed nuts
+
+Tuesday 20191126 weight 155.6 44 bpm @ 4:55 28.2F @ 6:02 (Heritate Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+28.6F at end
+
+5:15 wake-up
+10 double espresso
+
+7:45 post 8.9 mile run (but pre core workout) breakfast
+533 normal oatmeal
+ 50? green drink
+ 50? 16 oz. rice milk
+
+ANTICIPATED
+
+?:?? fruit snack
+60 apple
+160 two oranges
+
