@@ -40196,8 +40196,8 @@ noon  showers    46F  53% 0.01 inches 19 mph S
 10 double espresso
 
 6:30 low-fiber (for tomorrow) breakfast
-??? bowl of spaghetti with 1 tablespoon of Udo's 3-6-9
-??? bowl of spaghetti, no oil
+435 bowl of spaghetti with 1 tablespoon of Udo's 3-6-9
+315 bowl of spaghetti, no oil
 
 8:15 more calories
 120 banana
@@ -40213,7 +40213,7 @@ noon  showers    46F  53% 0.01 inches 19 mph S
 20 quad espresso
 
 noon post-race calories
-??? 3 bowls of spaghetti, no oil
+945 3 bowls of spaghetti, no oil
 400 brick of tofu
 16 oz. 6% ABV Tractor Brewing Mil Mustachio Stout
 16 oz. 5.6% ABV Double Plow Oatmeal Stout
@@ -40225,10 +40225,22 @@ noon post-race calories
 5:00 final calories
 320 2 oz. mixed nuts
 
-ANTICIPATED
+8:15 post-final calories
+315 bowl of spaghetti
 
-Saturday 20191130 weight 15?.? 4? bpm @ ?:?? ?.?F @ ??:?? (Alameda & the River)
+Saturday 20191130 weight 157.3 46 bpm @ 4:30 29.5F @ 6:24 (Alameda & the River)
 https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
+
+predicted as of 6:25
+time  conditions temp precipitation  wind
+7:00  sunny      29F  0% 0 inches     9 mph wnw
+8:00  sunny      30F  0% 0 inches    12 mph wnw
+9:00  sunny      33F  0% 0 inches    15 mph wnw
+10:00 sunny/wind 34F  0% 0 inches    20 mph wnw
+11:00 sunny/wind 36F  0% 0 inches    20 mph wnw
+noon  sunny      37F  0% 0 inches    19 mph wnw
+1:00  sunny/wind 38F  0% 0 inches    20 mph wnw
+2:00  sunny      38F  0% 0 inches    18 mph wnw
 
 5:15 wake-up
 10 double espresso
@@ -40243,8 +40255,101 @@ during race
 
 30 3x double espresso
 1200 4x 300 calories Tailwind in 20 oz. water
-1200? 3x large slize vegan apple pie
+1200? 3x large slice vegan apple pie
 
 post-race
 533 normal oatmeal
-??? ? oz. 14.5% ABV Bow and Arrow ?Hazelnut Imperial Stout?
+70? 24 oz. rice milk
+??? 16 oz. 14.5% ABV Bow and Arrow ?Hazelnut Imperial Stout?
+4 (or more) big handfuls of kettle chips
+1 (or two) big handful(s) of generic fritos
+1 big handful of dried fruit / nut combo
+6 (or more) little pickles
+
+3:45 back home
+6? oz. 14.5% ABV Bow and Arrow ?Hazelnut Imperial Stout?
+??? bowl of vegan posole
+
+Sunday 20191201 weight 157.3 42 bpm @ 4:35 25.6F @ 7:28 (Alameda & the River)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
+
+5:15 wake-up
+10 double espresso
+
+8:45 post Team RWB 40# 3.18 mi run
+533 normal oatmeal
+70? 24 oz. rice milk
+? 2 cups Dunkin' Donuts coffee
+
+9:45 protein snack
+??? 3 ladles kidney beans, extra water
+??? bowl of vegan posole water (i.e., w/o the hominy)
+ 50? green drink
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+??? bowl of quinoa, cous-cous, w/veggies broiled in veggie broth
+??? 2 1/2 vegan tamales
+
+2:00 play-testing fuel
+?? 16.9 oz. 7.4% ABV Weihenstephaner Korbinian 
+
+3:15 fruit snack
+ 60 apple
+160 two oranges
+120 banana
+
+4:30 dinner
+??? 2 ladles pinto beans, La Victoria Medium, extra water
+
+5:00 final calories
+480 3 oz. mixed nuts
+
+Monday 20191202 weight 158.9 43 bpm @ 4:37 25.2F @ 6:07 (Heritage Hills)
+https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
+??:?.F at end
+
+5:15 wake-up
+20 quad espresso
+
+5:55 pre-run calories
+533 normal oatmeal
+
+8:15 more calories
+533 normal oatmeal
+
+10:15 more calories
+??? 2 ladles lentils, mixed beans, La Victoria Medium, extra water
+
+11:30 lunch
+ 75 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+ 50? weird green drink (wasn't green)
+??? 2 ladles kidney beans, La Victoria Medium, no extra water (or heat; I was hungry)
+??? 3 vegan tamales
+360 2 1/4 oz. mixed nuts
+
+2:15 fruit snack
+160 two oranges
+
+4:00 early dinner?
+??? bowl 2 ladles vegan posole (mostly hominy)
+
+Tuesday 20191203 weight 157.3 43 @ 4:57 26.1F @ 6:56 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
+42.6F at end
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+
+5:15 wake-up
+10 double espresso
+
+8:30 post 6 mile run breakfast
+533 normal oatmeal
+ 50? green drink
+70? 24 oz. rice milk
+
+10:00 protein snack
+??? 2 ladles kidney beans, some (rest of bottle) La Victoria Medium, extra water
+
+ANTICIPATED
