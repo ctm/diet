@@ -4687,7 +4687,7 @@ Wednesday 20180815 Starting weight 15?.?? / 150.0, 46 bpm, ??F (Leadville)
 Did not have access to home balance scale.
 
 5:30 breakfast (before run)
-800 1 1/2 standard oatmeal (ate an entire zip-loc container, made 2 days ago)
+800 1 1/2 normal oatmeal (ate an entire zip-loc container, made 2 days ago)
 
 7:00 rice milk
  50? 16 oz. rice milk
@@ -4727,7 +4727,7 @@ Did not have access to home balance scale.
 
 7:00 breakfast (after 2.19 mile run)
 120 banana
-800 1 1/2 standard oatmeal (ate an entire zip-loc container, made 3 days ago)
+800 1 1/2 normal oatmeal (ate an entire zip-loc container, made 3 days ago)
 
 7:15 Best Electrolyte Energy Replacement
 375 11.2 oz 12% ABV Aventinus Eisbock
@@ -6137,7 +6137,7 @@ double espresso
 200 2x 20mg caffeinated gels
 
 6:30 post 13.1 mile breakfast
-500? standard oatmeal, except w/ water instead of soy milk
+500? normal oatmeal, except w/ water instead of soy milk
 
 breakfast with dad
 ? 2 cups coffee
@@ -6165,7 +6165,7 @@ Tuesday 20181002 Starting weight 15?.?? / 155.8, 43 bpm, 71F (Gold Canyon, AX)
 ? double espresso
 
 6:30 post 8.9 mile breakfast
-500? standard oatmeal, except w/ water instead of soy milk
+500? normal oatmeal, except w/ water instead of soy milk
 
 8:15 breakfast with dad
 ? 2 cups of coffee
@@ -10496,7 +10496,7 @@ Sunday 20190113 Starting weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
 10 double espresso
 
 7:30 no exercise calories
-533 standard oatmeal
+533 normal oatmeal
 200? bowl of homemade vegan soup (no idea what's in it, so no idea of calories)
 
 8:15
@@ -12763,7 +12763,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 10 double espresso
 
 5:35 pre-run calories
-533 standard oatmeal
+533 normal oatmeal
 
 6:30 pre-run caffeine
 20 quad espresso
@@ -12772,7 +12772,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 600 2x 3 scoops tailwind in 20 oz. water
 
 8:15 post-run calories
-533 standard oatmeal
+533 normal oatmeal
  25? 8? oz. rice milk (all that remained)
 
 10:30 green drink
@@ -13062,7 +13062,7 @@ Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 10 double espresso
 
 5:30 pre-run calories
-533 standard oatmeal
+533 normal oatmeal
 
 7:15 pre-run caffeine
 30 3 double espressos
@@ -13070,7 +13070,7 @@ Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 8:00 - 9:00 during race
 300 3 scoops tailwind in 20 oz. water
 
-533 standard oatmeal
+533 normal oatmeal
 rice milk
 
 2 large flour tortillas
@@ -13098,7 +13098,7 @@ Sunday 20190310 ?forgot to log everything?
 10 double espresso
 
 6:10 trying to resync (w/ DST) my stomach calories 
-533 standard oatmeal
+533 normal oatmeal
 
 8:30 snack
  50? green drink
@@ -13109,7 +13109,7 @@ Sunday 20190310 ?forgot to log everything?
 
 noon post 3.5 mile run calories
 
-533 standard oatmeal
+533 normal oatmeal
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
  70? 24 oz. rice milk
@@ -18899,7 +18899,7 @@ Tuesday 20190730 weight 158.6 47 bpm @ 4:17 88.3F @ 4:44 (Mountainbrook Village)
 10 double espresso
 
 7:00 after 8.9 mile run
-950 2x standard oatmeal minus the Udo's 3-6-9
+950 2x normal oatmeal minus the Udo's 3-6-9
 5? Keurig coffee
 
 8:30 bonus caffeine
@@ -18930,7 +18930,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE421
 10 double espresso
 
 7:30 breakfast
-950 2x standard oatmeal minus the Udo's 3-6-9
+950 2x normal oatmeal minus the Udo's 3-6-9
 
 9:00 - 10:00 during run into GVR
 660 2x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
@@ -18955,7 +18955,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE521
 10 double espresso
 
 7:00 breakfast
-870 2x standard oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
+870 2x normal oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
 
 9:30 snack
 80 1/2 oz. mixed nuts (the rest, after bagging 8 oz. for latet)
@@ -26341,7 +26341,7 @@ Sunday 20190113 Starting weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
 10 double espresso
 
 7:30 no exercise calories
-533 standard oatmeal
+533 normal oatmeal
 200? bowl of homemade vegan soup (no idea what's in it, so no idea of calories)
 
 8:15
@@ -28605,7 +28605,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 10 double espresso
 
 5:35 pre-run calories
-533 standard oatmeal
+533 normal oatmeal
 
 6:30 pre-run caffeine
 20 quad espresso
@@ -28614,7 +28614,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 600 2x 3 scoops tailwind in 20 oz. water
 
 8:15 post-run calories
-533 standard oatmeal
+533 normal oatmeal
  25? 8? oz. rice milk (all that remained)
 
 10:30 green drink
@@ -28903,7 +28903,7 @@ Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 10 double espresso
 
 5:30 pre-run calories
-533 standard oatmeal
+533 normal oatmeal
 
 7:15 pre-run caffeine
 30 3 double espressos
@@ -28911,7 +28911,7 @@ Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 8:00 - 9:00 during race
 300 3 scoops tailwind in 20 oz. water
 
-533 standard oatmeal
+533 normal oatmeal
 rice milk
 
 2 large flour tortillas
@@ -28939,7 +28939,7 @@ Sunday 20190310 ?forgot to log everything?
 10 double espresso
 
 6:10 trying to resync (w/ DST) my stomach calories 
-533 standard oatmeal
+533 normal oatmeal
 
 8:30 snack
  50? green drink
@@ -28950,7 +28950,7 @@ Sunday 20190310 ?forgot to log everything?
 
 noon post 3.5 mile run calories
 
-533 standard oatmeal
+533 normal oatmeal
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
  70? 24 oz. rice milk
@@ -34740,7 +34740,7 @@ Tuesday 20190730 weight 158.6 47 bpm @ 4:17 88.3F @ 4:44 (Mountainbrook Village)
 10 double espresso
 
 7:00 after 8.9 mile run
-950 2x standard oatmeal minus the Udo's 3-6-9
+950 2x normal oatmeal minus the Udo's 3-6-9
 5? Keurig coffee
 
 8:30 bonus caffeine
@@ -34771,7 +34771,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE421
 10 double espresso
 
 7:30 breakfast
-950 2x standard oatmeal minus the Udo's 3-6-9
+950 2x normal oatmeal minus the Udo's 3-6-9
 
 9:00 - 10:00 during run into GVR
 660 2x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
@@ -34796,7 +34796,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE521
 10 double espresso
 
 7:00 breakfast
-870 2x standard oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
+870 2x normal oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
 
 9:30 snack
 80 1/2 oz. mixed nuts (the rest, after bagging 8 oz. for latet)
@@ -44926,7 +44926,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ838
 10 double espresso
 
 5:30 pre-run calories & analgesic
-533 standard oatmeal
+533 normal oatmeal
   0 200mg ibuprofen
 
 6:30 pre-run caffeine
@@ -44936,7 +44936,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ838
 600 2x 3 scoops tailwind in 20 oz. water
 
 8:15 post-run calories
-533 standard oatmeal
+533 normal oatmeal
  37? 12? oz. (the rest) rice milk
 
 10:30 green drink
@@ -45306,7 +45306,7 @@ https://www.wunderground.com/weather/us/nm/los-lunas/KNMLOSLU27
 300 3 scoops tailwind in 20 oz. water
 
 9:15 post-race calories
-533 standard oatmeal
+533 normal oatmeal
  70? 24 oz. rice milk
 
 9:45 more protein
@@ -45325,9 +45325,86 @@ https://www.wunderground.com/weather/us/nm/los-lunas/KNMLOSLU27
 3:05 protein snack
 ??? 4 ladles lentils, no chile, no extra water
 
+4:00 late salad & fruit
+ 40 small salad
+??? small handful (the rest) grapes 
+320 4 cara cara oranges
+ 60 apple
+120 banana
+
+5:00 nut snack
+720 4 oz. mixed nuts
+
+7:30 date snack
+460 20 dates
+
+9:45 late night PB/SB&J
+??? Peanut Butter, Sunflower Butter & Jelly (on 2 slices of pumpernickle)
+
+11:15 date snack
+460 20 dates
+
+Sunday 20200308 weight 165.3 49 bpm @ 4:58 48.8F @ 6:15 (Alameda & River)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
+
+First day of Daylight Saving Time
+
+5:15 wake-up
+10 double espresso
+
+7:45 post Team RWB walk breakfast
+533 normal oatmeal
+ 70? 24 oz. rice milk
+??? 2 cups Starbucks coffee
+
+9:00 back home
+??? 2 ladles adzuki beans, no chile, extra water
+
+9:30 because they were in my goodie bag
+ 60 crunchmaster multi-seed crackers
+220  Bob's Red Mill Peanut Butter Chocolate & Oats
+
+11:30 lunch
+ 50 small bowl steamed broccoli and cauliflower
+??? crisp-bread with hummus and olive 
+ 50 medium salad
+??? 2 ladles adzuki beans, no chile, extra water
+
+1:30 fruit snack
+ 60 apple
+240 3 cara cara oranges
+120 banana
+
+3:30 protein snack
+??? 2 ladles adzuki beans, no chile, no extra water
+
+4:30 dinner
+??? 2 ladles adzuki beans, no chile, no extra water
+345 15 dates
+
+5:00 final calories
+720 4 oz. mixed nuts
+
+Monday 20200309 weight 164.1 48 bpm @ 5:10 37.4F @ 6:12 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+34.7 1/2 hour after end (forgot to record temperature at end)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
+
+5:15 wake-up
+10 double espresso
+
+6:15 bonus caffeine
+10 double espresso
+
+7:00 - 7:30 during 3.27 mile 41.5# (3 intervals) run calories
+150 1 1/2 scoops Tailwind in 10 oz. water
+
+7:45 post-run calories
+533 normal oatmeal
+ 50? 16 oz. rice milk
+ 50? green drink
+
 ANTICIPATED
 
- 40 small salad
-
-320 4 cara cara oranges
-120 banana
+9:30 protein snack
+??? 4 ladles lentils, no chile, no extra water
