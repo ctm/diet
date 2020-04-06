@@ -46497,7 +46497,7 @@ I forgot to take it when I got up and only realized while I was eating.
 230 10 dates
 160 two cara cara oranges
 
-Wednesday 20200401 165.9 52 bpm @ 5:10 55.4F @ 8:06 (Heritage Hills)
+Wednesday 20200401 weight 165.9 52 bpm @ 5:10 55.4F @ 8:06 (Heritage Hills)
 https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 65.3F at end
 
@@ -46526,7 +46526,229 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 ??? 3 ladles mung beans, Andrew's Insanity Sauce, extra water
  50 medium bowl steamed broccoli and cauliflower
 
-ANTICIPATED
-
 12:30 lunch continued
  50 medium salad
+
+2:00 forgotten oatmeal found in the fridge
+533 normal oatmeal
+
+3:00 fruit snack
+60 apple
+120 banana
+160 two oranges (one cara cara)
+
+4:15 dinner
+??? 1 ladle mung beans (the rest), 2 ladles mixed beans, Pace Hot Salsa,
+    no extra water
+
+5:00 nut snack
+720 4 oz. mixed nuts
+
+7:30 "late night" protein
+??? 3 ladles mixed beans, Pace Hot Salsa, no extra water
+
+9:00 final calories
+345 15 dates
+
+Thursday 20200402 weight 167.0 48 bpm @ 5:33 49.6F @ 5:37 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+68.7F at end
+
+I did not sleep well last night due to a combination of the caffeine,
+all the salsa I ate and the state of my poker software.  In particular,
+I added logging to the database and it had several issues, all of which
+were fairly easily fixed, so although I tried to resist temptation, I
+wound up fixing them all except one and then going back to bed.
+
+Forgot to look at the temp before I started, but it was probably over 60
+
+5:15 wake-up
+10 double espresso
+
+7:45 post core, pre-run breakfast
+533 normal oatmeal
+
+9:30 pre-run liquid
+ 50? green drink
+
+11:00 post-run liquid
+50? 16 oz. rice milk
+
+11:30 lunch
+??? 3 ladles mixed beans, Pace Hot Salsa, extra water
+ 50 medium bowl steamed broccoli and cauliflower
+
+12:30 more calories
+??? 3 ladles mixed beans, no chile, no extra water
+ 60 apple
+
+1:15 more lunch
+ 50 medium salad
+400? 2x medium homemade chapati
+
+2:30 fruit snack
+??? bowl of pineapple
+160 two cara cara oranges
+120 banana
+
+4:45 late dinner
+400? 2x medium homemade chapati
+??? 3 ladles mixed beans, no chile, no extra water
+
+5:00 nut snack
+720 4 oz. mixed nuts
+
+7:30 final calories
+230 10 dates
+??? two medium bunches of grapes
+
+Friday 20200403 weight 165.7 51 bpm @ 5:10
+
+5:15 wake-up
+10 double espresso
+
+6:45 accidental bonus caffeine
+ 7 most of a double espresso (timer turned espresso machine off when I was
+                              making my double shot for tomorrow)
+
+10:45 post 15.68 mile run breakfast
+ 50? green drink
+50? 16 oz. rice milk
+533 normal oatmeal
+
+11:30 lunch
+ 50 medium bowl steamed broccoli and cauliflower
+125 medium salad w/avocado
+ 60 apple
+120 banana
+??? 3 ladles mixed beans, lots of Andrew's Insanity Sauce, no extra water
+
+1:00 fruit snack
+120 banana
+160 two cara cara oranges
+230 10 dates
+
+3:45 protein
+??? 3 ladles mixed beans, lots of Andrew's Insanity Sauce, no extra water
+
+4:45 late dinner
+??? 2 1/2? (the rest) ladles mixed beans, lots of Andrew's Insanity Sauce,
+    no extra water
+
+5:00 nut snack
+810 4 1/2 oz. mixed nuts (accidentally put too much in, didn't want to take out)
+
+7:30 sopapillas
+??? 3 sopapillas
+
+Saturday 20200404 weight 165.7 48 bpm @ 4:34 35F @ 7:30 (truck thermometer)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ838
+49F at end
+
+5:15 wake-up
+10 double espresso
+
+5:45 pre-run calories
+533 normal oatmeal
+240 2x mini bagels
+
+6:51 bonus caffeine
+100 Roctane Chocolate Coconut gel 35mg caffeine (ancient from SAR pack)
+100 Roctane Cherry Lime 35mg caffeine (ancient from SAR pack)
+10 double espresso
+
+7:39 during ?.? mile run/hike
+600 2x (3 scoops Tailwind in 20 oz. water)
+
+9:30 post run recovery food
+533 normal oatmeal
+ 70? 20 oz. rice milk
+
+11:00 snack
+ 60 apple
+??? 4 ladles lentils, Andrew's Insanity Sauce, no extra water 
+
+11:30 lunch
+ 50 medium bowl steamed broccoli and cauliflower
+
+2:00 misc. eating
+ 50 medium salad
+300 avocado
+120 banana
+160 two cara cara oranges
+230 10 dates
+
+4:15 early dinner
+??? 4 ladles lentils, no chile, no extra water (undercooked because I forgot
+    to put the lid on the pot.  I expected them to be undercooked, but I had
+    never done the experiment before.  Now I know)
+
+5:00 nut snack
+720 4 oz. mixed nuts
+
+7:30 final calories
+240 two bananas
+
+Sunday 20200405 weight 167.5 49bpm @ 5:08 43.1F @ 5:08 (Alameda & River)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
+??.?F at end
+
+5:15 wake-up
+10 double espresso
+
+9:00 post 35.5 mile bike ride
+533 normal oatmeal
+ 70? 20 oz. rice milk
+
+10:15 protein snack
+??? 4 ladles lentils, Andrew's Insanity Sauce, no extra water
+
+11:30 lunch
+ 50 medium bowl steamed broccoli and cauliflower
+ 50 medium salad
+
+12:45 fruit snack
+ 75? nectarine
+120 banana
+ 60 apple
+160 two oranges 
+
+2:00 date snack
+230 10 dates
+
+3:15 snack
+360 3 mini bagels
+
+4:15 dinner
+360 3 mini bagels
+
+5:00 nut snack
+720 4 oz. mixed nuts
+
+6:00 poker fuel
+210? 3 oz.? Canadian Mist
+
+Monnday 20200406 weight 165.7 47 bpm @ 5:04 48.0F @ 5:27 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+54.3F at end
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
+
+5:15 wake-up
+10 double espresso
+
+5:45 bonus caffeine
+10 double espresso
+
+6:50 bonus caffeine during 15.66 mile run
+10 double espresso
+
+8:50 post 15.66 mile run breakfast
+533 normal oatmeal
+ 50? green drink
+50? 16 oz. rice milk
+
+9:30 protein snack
+180 1/2 package seitan
+
+ANTICIPATED
+
