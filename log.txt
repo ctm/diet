@@ -2975,7 +2975,7 @@ noon lunch
 450 2 cups corn soup (*total* guess on soup)
 
 1:30 snack
-150? 2 bowls of salad with avacodos in it
+150? 2 bowls of salad with avocados in it
 
 5:00 dinner
 440 2 cups white beans
@@ -3334,7 +3334,7 @@ Monday 20180709 Starting weight 158
  533 normal oatmeal
 
 11:35 pre-lunch snack
-150? salad with avacodo (hard to estimate caloric content)
+150? salad with avocado (hard to estimate caloric content)
 
 noon lunch
  75? medium to large bowl of steamed broccoli and cauliflower
@@ -3357,7 +3357,7 @@ noon lunch
  60 small apple
 
 5:00 dinner
-150? salad with avacodo (hard to estimate caloric content)
+150? salad with avocado (hard to estimate caloric content)
 600? ~3 cups brown lentils
  80 orange
 
@@ -53387,6 +53387,47 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 533 normal oatmeal
 50? green drink
  50? 16 oz. rice milk
+
+11:30 beginning of lunch
+ 50 medium bowl steamed broccoli and cauliflower
+50? small salad
+
+noon lunch continued
+??? 4 ladles lentils, lots of Tabasco, extra water
+
+2:00 fruit snack
+ 80 orange
+120 banana
+ 60 apple
+
+3:00 snack
+300 large avocado
+230 10 dates
+
+5:00 nut snack
+360 2 oz. mixed nuts
+
+Tuesday 20200915 weight 162.9 44 bpm @ 5:02 (forgot to look at temperature)
+73.8F half hour after finishing
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+
+5:15 wake-up
+10 double espresso
+
+6:15 - 8:00 extra water
+0 14 oz.? ice water
+
+NOTE: didn't have protein during or immediately after core, nor did I
+have extra caffeine during.  Will be interesting to see how I do on
+Thursday's core.
+
+8:10 pre-run caffeine
+10 double espresso
+
+9:52 post 8.9 mile breakfast
+533 normal oatmeal
+ 50? 16 oz. rice milk
+50? green drink
 
 ANTICIPATED
 
