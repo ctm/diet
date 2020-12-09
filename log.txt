@@ -12,15 +12,18 @@ perhaps I should mention:
   I started taking them again.  I'm not convinced they help, but I think
   there's a better chance that they help then that they hurt.
 
-  I have a double espresso, pretty much at 5:15am every morning.  I make it
-  the day before and if I get up before 5:15, I don't drink it until my 5:15
-  alarm goes off.  If I am awoken by my alarm, I grab it off my dresser and
-  drink it.
+  I have a double espresso or more, pretty much at 5:15am every
+  morning.  I make it the day before and if I get up before 5:15, I
+  don't drink it until my 5:15 alarm goes off.  If I am awakened by my
+  alarm, I grab it off my dresser and drink it.
 
-  I drink water when I feel like it, which isn't very often when I'm not
-  actually running.  I don't record the water I drink but I do record
-  everything else (other than my 5:15am double espresso, which I initially
-  didn't log, but do now)
+  I drink water when I feel like it, which isn't very often when I'm
+  not actually running.  I didn't record the water I drink but I did
+  record everything else (other than my 5:15am double espresso, which
+  I initially didn't log, but do now).  I now mostly record my water
+  consumption, although most of my water comes from the food I eat
+  since I typically prepare lentils and/or beans in two or three cups
+  of water.
 
   Over time exactly what I've written down has changed slightly, in that
   now I'm logging my starting weight, which is how much I weigh after I've
@@ -30,24 +33,32 @@ perhaps I should mention:
   I typically exercise before I eat any calories, although I make an exception
   on Wednesdays (when I'm doing a pack run) and Saturdays when I do my "long"
   run.  I typically record how much I've run before I eat, but the general
-  pattern is:
+  pattern from mid November through mid March is:
 
-    Monday 15.5 miles (with interval work mixed in)
+    Monday 13.1 miles (with interval work mixed in)
     Tuesday 8.9 miles
-    Wednesday 15.5 miles (with a 40# pack)
+    Wednesday some distance (with a 40# pack)
     Thursday 8.9 miles
-    Friday 15.5 miles
-    Saturday variable number of miles, but typically 4 hours or more
+    Friday 13.1 miles
+    Saturday either long flat pack run or 5 miles up the mountain and back
+             down again with a pack
     Sunday bike ride, typically 35.5 miles, but more if Saturday was light
+                      unless it's cold enough for there to be ice or I'm
+                      exercising with Team RWB.  So, I really don't ride
+                      my bike much during these months
 
   I have extensive stats on my exercising that are not part of this file
 
-  I do core exercises every couple of days, which consists of 100
-  sit-ups, almost 100 push-ups and 100 unweighted squats.  I break the
-  sit-ups and push-ups into three sets, and am slowly increasing the
-  number in the first two sets with the idea of eventually getting to
-  2 sets of 50, then possibly moving to a longer set followed by a
-  shorter set.
+  I do core exercises twice a week, which consists of at least
+  100 sit-ups, at least 100 push-ups and 100 unweighted squats.  I
+  break the sit-ups and push-ups into currently two sets, and am
+  slowly increasing the number in the first two sets with the idea of
+  eventually getting to 2 sets of 50, then possibly moving to a longer
+  set followed by a shorter set.  Over the years I tend to build up my
+  core to where I'm doing > 50 sit-ups in the first set and > 50
+  push-ups in the first set, but then something causes me to slack off
+  and I have to drop way back.  My body really doesn't want to keep
+  much non-leg muscle on, unless I'm consistent.
     
 As far as I can tell, I'm the healthiest of the five of us in my
 nuclear family (the other four being my wife, my son (born in 2002)
@@ -58,12 +69,22 @@ appear to be pretty healthy though.
 
 My goal had been to get my body fat percentage down to 7.3%.  I had my
 third hydrostatic weighing on Thursday, July 26th, 2018.  That gave me
-an idea of how much more I needed to lose.  I am monitoring my
+an idea of how much more I needed to lose.  I had been monitoring my
 performance in my daily runs to make sure my weight loss is not
-interfering with my performance.  My weight loss *is* interfering with
-my ability to get stuff done from about 6pm to 8pm.  I mostly lose
+interfering with my performance.  My weight loss *was* interfering with
+my ability to get stuff done from about 6pm to 8pm.  I mostly lost
 motivation then.  I expect my motivation to return when I'm no longer
 stressing my body by running a calorie deficit.
+
+The above paragraph doesn't really say much about what happened
+between mid 2018 and now (December 9th, 2020), but it's been
+interesting and informative.  I typically play a poker tournament at
+6:05 Mountain time and if I'm cutting weight my body prioritizes my
+morning and evening and slows down significantly in between which is
+not optimal for writing code.  Luckily, I'm not currently cutting
+weight, but when I hit that cylcle in my training again I'll have to
+watch how it affects my work.  Most likely I'll have to forego the
+daily poker tournament.
 
 Initially I was going to try to calculate my calorie intake and my calorie
 expenditure, but I decided that it's better to simply estimate my calorie
@@ -79,7 +100,8 @@ which was fat burned, but I think I have.  I'll know soon.
 
 I wrote this preamble on Tuesday, July 24th, 2018, long after I
 started this log, although I've tweaked it slightly on Monday, June
-3rd, 2019.
+3rd, 2019.  I recently updated it on December 9th, 2020, but I did so
+very quickly and there's not guarantee it's particularly accurate.
 
 I mention products by name, just to be more specific.  I do not have
 any sponsorships or any other form of compensation from anyone or any
@@ -40570,7 +40592,7 @@ been 156.7
 200 2x ancient gels, each with 35 mg caffeine (eating the really old ones)
 
 8:45 post-run breakfast
-533 normal oatmeal
+500? normal oatmeal, but w/o Udo's oil
 50? 16 oz. rice milk
 
 9:20 more calories
@@ -40606,7 +40628,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 200 two fairly old gels (35mg caffeine & 0mg)
 
 8:30 post run breakfast
-533 normal oatmeal
+500? normal oatmeal, but w/o Udo's oil
 50? 16 oz. rice milk
  50? green drink
 
@@ -40657,7 +40679,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 5:33 pre-run breakfast
-533 normal oatmeal
+500? normal oatmeal, but w/o Udo's oil
 
 6:25 pre-run caffeine
 20 quad espresso
@@ -40669,7 +40691,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
  70? 20 oz. rice milk
 
 9:45 back home post-run recovery food
-533 normal oatmeal
+500? normal oatmeal, but w/o Udo's oil
 
 10:50 fruit (and salad) snack
 240 two bananas
@@ -40715,7 +40737,7 @@ before my alarm, so I was still measuring my HR when the alarm went off
 10 double espresso
 
 8:15 after ??.? mile run (no calories, no water)
-533 normal oatmeal
+500? normal oatmeal, but w/o Udo's oil
  50? 16 oz. rice milk
  50? green drink
 
@@ -40739,10 +40761,156 @@ before my alarm, so I was still measuring my HR when the alarm went off
 1:45 date snack
 345 15 dates
 
-ANTICIPATED
-
-4:45 dinner
-??? 2/3rd cup black beans, no chile, prepared in 3 cups of water
+4:00 early dinner
+??? 2/3rd cup black beans, La Victoria Medium, prepared in 3 cups of water
 
 5:00 nut snack
-340 2 oz. mixed nuts
+680 4 oz. mixed nuts
+
+Monday 20201207 weight 155.1 46 bpm @ 4:54 22.8 @ 6:19 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+37.0F at end
+
+5:15 wake-up
+10 double espresso
+
+5:45 pre-run calories
+??? two big globs (3 tbsp?)  of honey (too thick to easily measure; I used
+    a teaspoon to get some out but had to twist the spoon repeatedly to
+    wrap some of the tail up and around)
+
+6:30 pre-run caffeine
+10 double espresso
+
+during run calories
+300 20 oz. water 3 scoops Tailwind
+
+8:45 post-run calories
+500? normal oatmeal, but w/o Udo's oil
+ 50? 16 oz. rice milk
+ 50? green drink
+
+9:30 fruit snack
+120 banana
+400? (probably fewer calories) 8 mandarins
+
+11:30 lunch
+??? 2/3rd cup (dry) lentils, no Tabasco (or chile), prepared in 2 cups of water
+ 50  medium bowl steamed broccoli and cauliflower
+ 50? small salad
+
+noon lunch continued
+??? 2x (medium homemade whole wheat tortilla, with a fair amount of peanut butter)
+
+2pm? Celebrating Jeff's Birthday
+6.25 oz 10.5% ABV Chimay Reserve Barrel Aged
+6.0 oz. 6% ABV White Dragon's Milk
+5.1 oz 10.3% ABV Guinness Barrel 
+5.1 oz 9.5% ABV Westmalle
+5.1 oz 6% ABV Duchesse de Bourgogne
+6 oz 7.5% ABV Pranqster
+
+5pm? dinner
+??? two samosas
+??? bunch of dense Indian chips
+??? large bowl of Indian food
+
+6:00 back home
+345 15 dates
+
+7:45 nut snack
+510 3 oz. mixed nuts
+
+47 bpm @ 4:54
+
+Tuesday 20201208 weight 157.0 46 bpm @ 4:58 24.8F @ 6:41 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+35.2F at end
+
+5:15 wake-up
+10 double espresso
+
+during and post core exercise
+0 28 oz.? ice water
+
+8:00 post-core, post-run calories
+500? normal oatmeal, but w/o Udo's oil
+ 50? 16 oz. rice milk
+ 50? green drink
+
+9:15 protein snack
+225 1/2 package tofu, lots of La Victoria Medium
+
+10:00 fruit snack
+200? 4 mandarins
+??? tow handfuls of loose purple grapes
+
+10:30 apple snack
+50 small (mealy) gala apple
+
+11:00 date snack
+230 10 dates
+
+11:30 lunch
+??? 2/3rd cup (dry) lentils, no Tabasco (or chile), prepared in 2 cups of water
+ 50  medium bowl steamed broccoli and cauliflower
+ 50? small salad
+
+1:30 snack
+240 two bananas
+
+2:30 snack
+??? large bowl of vegan pumpkin soup
+??? medium homemade whole wheat tortilla, with a fair amount of peanut butter
+
+4:30 dinner
+??? mixed bean soup (2/3rd cups in 3 cups water), no salsa or Tabasco
+
+5:00 nut snack
+680 4 oz. mixed nuts
+
+Wednesday 20201209 weight 157.7 47 bpm @ 5:10 31.3F @ 6:05 (Heritage Hills)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+32.2F at end
+
+HR was rushed.  Weight is up due to all my eating previously.  I
+wonder if the lack of oil in my oatmeals is causing me to be hungry
+more.  I'll get some Udo's "soon".
+
+5:15 wake-up
+20 quad espresso
+
+5:35 pre-run breakfast (would have liked 5:30, but didn't prepare it previously)
+500? normal oatmeal, but w/o Udo's oil
+
+6:10 pre-run caffeine (one half hour before running)
+20 quad espresso
+
+6:40 - 7:47 during 40.5# run (civil twilight is 6:36)
+300 20 oz. water w/ 3 scoops Tailwind (had two bottles, but only consumed
+    a little more than one)
+
+8:00 post-run breakfast
+500? normal oatmeal, but w/o Udo's oil
+ 50? 16 oz. rice milk
+
+9:20 liquid and fruit snack
+300? 6 mandarin oranges
+ 50 small gala apple
+ 50? green drink
+
+9:45 protein snack
+200 1/2 package seitan
+
+10:50 early beginning of lunch
+??? ten bean soup (2/3rd cups in 3 cups water), 60 squirts of Tabasco
+
+ANTICIPATED
+
+11:30 end of lunch
+ 50  medium bowl steamed broccoli and cauliflower
+ 50? small salad
+
+1:30 protein snack
+200 1/2 package seitan
+
