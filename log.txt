@@ -66550,7 +66550,7 @@ Weight was 160.8 after my run
 
 10:00 snack
  30 other half of red apple
-  0? 4 red hot chilli peppers
+  0? 4 hot chili peppers
 
 10:50 fruit snack
 ??? small bowl (the rest) of strawberries
@@ -66598,3 +66598,119 @@ Weight 160.1 after running
 10:10 post-run recovery liquids
 ??? green drink (w/ whole red apple)
  35? 12 oz.? (the rest) rice milk
+
+11:00 leftover rice
+??? leftover rice from making rice milk
+
+11:30 lunch
+50 medium bowl steamed broccoli and cauliflower
+ 50? small salad
+??? lentils (2/3rd cups in 2 cups water), 10 squirts of Tabasco
+
+12:30 abnormally post-lunch recovery food
+1066 2x normal oatmeal
+
+3:00 hungry again
+??? 10 saltines, peanut butter and mustard
+
+3:20 still hungry
+~300 large bowl of microwave sweet corn
+
+4:30 dinner
+200 1/2 brick tempeh, some (the rest) ghost pepper salsa
+
+5:00 nut snack and final solid calories
+340 2 oz. mixed nuts
+
+6:00 poker fuel
+??? 11.2 oz. 9% ABV Kuri Kuro
+
+Thursday 20220113 weight 162.3 46 bpm @ 5:25 36.0F @ 8:07 (Heritage Hills)
+https://www.wunderground.com/forecast/us/nm/albuquerque/KNMALBUQ429
+50.2F at end
+
+Woke to my alarm at 5:15.  Decided to put off the caffeine for 15
+minutes so I could poop and take my heart rate and then start my core
+exactly 15 minutes late.  However, I wound up pooping twice and still
+missed 5:30 by 18 seconds acording to my Ambit's seconds display.
+
+Did a deploy after my core exercises and had trouble due to
+ws.devctm.com's certificate expiring.  I fixed that and then wrote up
+three different GitHub issues to prevent it from causing so much
+trouble in the future.  That meant I started running very late.
+
+weight 161.1 after "run" and peeing.
+
+5:30:18 LATE wake-up
+10 double espresso
+
+8:00- 11:15 during 15.5 mile "run"
+0 21 oz. water (had 40 with me)
+
+11:35 post-run recovery
+??? green drink (w/ whole red apple)
+ 50? 16 oz. rice milk
+1066 2x normal oatmeal
+
+12:15 late lunch
+50 medium bowl steamed broccoli and cauliflower
+ 50? small salad
+??? lentils (2/3rd cups in 2 cups water), 10 squirts of Tabasco
+
+1:00 fruit snack
+240 two bananas
+
+2:20 waiting for corn to microwave
+??? 4 saltines with 4 hot chili peppers
+
+2:25 corn snack
+~300 large bowl of microwave sweet corn
+
+2:45 still hungry
+~300 large bowl (the rest) of microwave sweet corn
+
+4:07 early dinner
+??? 8 saltines with peanut butter and La Victoria medium salsa
+
+4:50 date snack
+115 5 dates
+
+5:00 nut snack and final calories
+340 2 oz. mixed nuts
+
+Friday 20220114 weight 162.2 43 bpm @ 4:41 41.9F @ 7:01 (Tierra Monte)
+https://www.wunderground.com/dashboard/pws/KNMALBUQ991?cm_ven=localwx_pwsdash
+45F at end (truck thermometer, which read 39F at start)
+
+I did my mountain "run" today so I can do a 12-hour timed race around
+Albuquerque Academy tomorrow.  My right knee is giving me a little
+trouble so I chose to do it very slowly. As such, I did it fasted,
+without extra caffeine, with random music (rather than my BMDM
+playlist), no ice hat and fairly late in the day.  My stats were
+horrible, but at least I got time on my feet and practice not falling.
+
+5:15 wake-up
+10 double espresso
+
+7:30 - 10:30 during 9.52 mile 35.8# "run"
+0 22 oz. water
+
+11:20 recovery liquids and food
+??? green drink (w/ whole green apple)
+ 50? 16 oz. rice milk
+1066 2x normal oatmeal
+
+noon (late) lunch
+50 medium bowl steamed broccoli and cauliflower
+ 50? small salad
+??? lentils (2/3rd cups in 2 cups water), 10 squirts of Tabasco
+
+12:45 fruit snack
+160 two naval oranges
+ 60 red apple
+
+ANTICIPATED
+
+?:?? protein snack
+200 1/2 brick tempeh, some (the rest?) La Victoria medium salsa
+
