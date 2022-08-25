@@ -19,10 +19,10 @@ through higher weights first, so let's plan on getting to 173.5 first
 and see how my performance behaves as I get there, since that's about
 what I'll get to as I go into my taper for Cruel Jewel.
 
-April 18th
+April 18th, 2018
 
 I've already dropped to 175 without any performance loss.  Assuming I
-lost purely body fat (and I don't know how safe that assuption is), in
+lost purely body fat (and I don't know how safe that assumption is), in
 theory I'm now at 18.6% BF.  However, because I didn't actually
 cross-calibrate my scale to the scale(s) they use at UNM, I could be off
 by a few pounds.  As such, it probably makes sense to get my BF tested
@@ -30,7 +30,7 @@ again shortly after Cruel Jewel, both to see how much lean body mass I
 lost (or gained!) as well as to cross-calibrate the scales.
 
 
-May 10th
+May 10th, 2018
 
 Found my body fat page.
 
@@ -70,9 +70,7 @@ with a 30 pound pack at about the same weight I was running before
 I lost my weight!
 
 
-
-
-June 4th BF page
+June 4th BF page, 2018
 
 Body Weight: 159.6
 Fat Weight: 23.3
@@ -97,12 +95,12 @@ Our scale weighs 2.2 pounds high.  It had me at 162 when the scale at UNM
 had me at 159.8.  NOTE: my weight above is listed as 159.6 because I took
 a leak after weighing myself at 159.8 and after that leak I weighed 159.6.
 
-June 13th
+June 13th, 2018
 
 Just adding the 2.2 to 145 to show that my target is 147.25 *ON OUR SCALE*
 meaning I have 12.5 more pounds to lose, which would be about six weeks
 
-July 2nd
+July 2nd, 2018
 
 Haven't weighed as little as I did on June 13th, but might tomorrow
 morning, depending on how big my poop is.  So, still about six weeks
@@ -110,7 +108,7 @@ out, but Baldy 50k may interfere w/ weight loss as well as any
 tapering I do before Leadville and Leadville itself.  May be harder to
 hit my goal by Tahoe 200 than I was thinking a month ago.
 
-July 6th
+July 6th, 2018
 
 Tied my low weight of 158.5, but I don't think it's an anomaly.  I suspect
 I'll be < 159 tomorrow, too, whereas I bounced from 158.5 to 161 overnight
@@ -129,9 +127,7 @@ I'll either still be trying to lose or only have stabilized recently
 by the time my races start to pick up in September (Wounded Warrior
 half, Tour de Cheapskates, AA50k, Mt. Taylor).
 
-
-
-July 26th
+July 26th, 2018
 
 I got hydrostatically weighed again
 
@@ -149,13 +145,13 @@ do in about a month, although with BARGE and Leadville coming up, it may
 be a little tricky.
 
 
-November 9th
+November 9th, 2018
 
 I got hydrostatically weighed yesterday
 
 Test Date Body  Fat Weigh Fat Free Weight Body Fat Method
           Weight (lbs)        (lbs)          %
-11/8/2018 152.6   14.0        138.6         9.15   Hydrostaic weighing
+11/8/2018 152.6   14.0        138.6         9.15   Hydrostatic weighing
 
 So, to get to 7.3% BF, I need to get to 149.5 pounds. However, since I
 was weighed in the afternoon, on a Thursday, after I had normal post-run
@@ -180,9 +176,9 @@ moved between 7/26 and 11/8.
 
 November 22nd (Thanksgiving)
 
-Since I'm now doing three pack runs a week and am badk to core exercises,
+Since I'm now doing three pack runs a week and am back to core exercises,
 I actually expect to gain muscle (especially since I gained muscle the
-last two periods before hydrodtatic weighing). If I gain .54 pounds more
+last two periods before hydrostatic weighing). If I gain .54 pounds more
 muscle between now and my next hydrostatic weighing, I will only need to
 be 150.1, so that is my new goal.
 
@@ -197,5 +193,67 @@ Saturday 20181110 Starting weight 151.50 / 150.1 47 bpm, 28.6F (Alameda & River)
 Friday 20181109 Starting weight 151.50 / 149.9 47 bpm, 23.7F
 
 So, assuming I can not go overboard today (Thanksgiving) or tomorrow
-(Black Friday Turkey Trots) or Saturday (Bosque Boogie), I will probabaly
+(Black Friday Turkey Trots) or Saturday (Bosque Boogie), I will probably
 get to 150.1 again fairly soon and hit it occasionally.
+
+August 25th, 2022, nearly four years since my last one
+
+Test Date Body  Fat Weigh Fat Free Weight Body Fat Method
+          Weight (lbs)        (lbs)          %
+8/25/2022 148.9   13.4        135.5         8.98   Hydrostaic weighing
+
+So, according to this, my fat free weight was 3.1 pounds lighter than
+my fat free weight on November 8th, 2018, which is both the most
+recent time I've been hydrostatically weighed and also my previous
+lowest percentage body fat (9.15%).  In theory, I've lost 3.1 pounds
+of muscle, but back my core exercises were:
+
+10, 15, 20 SU
+10, 15, 20 PU
+45 SQ
+
+and today my core exercises were
+
+100 SU
+100 "dynamic planks"
+100 SQ
+38, 28, 30, 24, 20, 20, 20, 23, 10 PU
+
+and I believe my upper body looks like it has more muscle than it used
+to back in 2018 (although my memory is notoriously poor).  On the
+other hand, I haven't done a lot of consistent training and relatively
+little with my pack over the last few months, so there's a chance that
+I've gained muscle up top and lost even more in my legs, but there's
+also a big testing difference in that I fasted since yesterday early
+evening this time, whereas on 11/8/2018 I had normal oatmeal at 7:15,
+a vegan burrito and a quad soy decaff cappuccino at 9:00.  So *my
+guess* is that some of that food was counted as fat free weight.
+
+From my 2018.txt:
+
+Thursday 20181108 Starting weight 153.00 / 151.3 48 bpm, 34.7F
+
+From 2022.txt:
+
+Thursday 20220825 weight 152.1 65.5F 78% humidity @ 7:21 (Sevano Circle)
+
+In 2018 I was using two scales, the first number, 153.00, is what I weighed
+on our old balance and the second number, 151.3, is what I weighed on our
+electronic scale.  The electronic scale was a better value (and eventually I
+got rid of the balance).
+
+So in in 2018, I weighed 151.3 in the morning, but 152.6 by the time I
+was hydrostatically weighed.  This morning I weighed 152.1, but was
+down to 148.9 by the time I was hydrostatically weighed.
+
+Bottom line is that I wouldn't mind gaining some more muscle, but I don't
+think I lost as much as it appears.
+
+I have to concentrate on getting Craft Poker Co. up and running, so I
+have to do something to battle my post-lunch sleepiness.  It seems to
+be worst after I have my popcorn at 2pm, so although that's been
+helping keep me losing weight, I think shifting to 300 calories of
+nuts may be a better (but more expensive) choice.
+
+I think I also need to cut back on the beer, although I'll be doing
+some celebratory drinking due to Creede.
