@@ -131,7 +131,7 @@ July 26th, 2018
 
 I got hydrostatically weighed again
 
-Test Date Body  Fat Weigh Fat Free Weight Body Fat Method
+Test Date Body Fat Weight Fat Free Weight Body Fat Method
           Weight (lbs)        (lbs)          %
 7/26/2018 151.4   14.7        136.7         9.74   Hydrostaic weighing
 
@@ -149,7 +149,7 @@ November 9th, 2018
 
 I got hydrostatically weighed yesterday
 
-Test Date Body  Fat Weigh Fat Free Weight Body Fat Method
+Test Date Body Fat Weight Fat Free Weight Body Fat Method
           Weight (lbs)        (lbs)          %
 11/8/2018 152.6   14.0        138.6         9.15   Hydrostatic weighing
 
@@ -198,7 +198,7 @@ get to 150.1 again fairly soon and hit it occasionally.
 
 August 25th, 2022, nearly four years since my last one
 
-Test Date Body  Fat Weigh Fat Free Weight Body Fat Method
+Test Date Body Fat Weight Fat Free Weight Body Fat Method
           Weight (lbs)        (lbs)          %
 8/25/2022 148.9   13.4        135.5         8.98   Hydrostaic weighing
 
