@@ -205,7 +205,7 @@ deficit in part due to all the nuts.  OTOH, I'm not sure that I'm supposed
 to subtract the BMR portion of the day
 
 ------------------------------------------------------------------------
-Monday 20180402 Starting weight 184
+Monday 20180402 weight 184
 
 Back from my 13.1 mile run, 9:15am
 600 normal oatmeal
@@ -240,7 +240,7 @@ TOTAL: approx. 2925
 However, I also did push-ups and sit-ups along the way
 
 ------------------------------------------------------------------------
-Tuesday 20180403 Starting weight 183.5
+Tuesday 20180403 weight 183.5
 
 Back from my 6.55 mile run, 7:45am
 
@@ -278,7 +278,7 @@ to have *gained* any weight and I feel pretty good the morning after (and
 am looking forward to some speed work)
 
 ------------------------------------------------------------------------
-Wednesday 20180404 Starting weight 183.5
+Wednesday 20180404 weight 183.5
 
 I already know in advance that my snack is coming from the ARR free food
 at 7pm, so I need to time things accordingly
@@ -327,7 +327,7 @@ lot!), but overall I think my estimates are so loose that it's not
 worth the time for me to sum them up and estimate my deficit, *as long
 as I carefully restrict myself and keep watching the numbers*.
 ------------------------------------------------------------------------
-Thursday 20180405 Starting weight 182
+Thursday 20180405 weight 182
 
 breakfast @ 9:15 after running a slow 8.9 miles
  35 rice milk (didn't have a full glass)
@@ -361,7 +361,7 @@ snack 8:10
  60 huge cucumber salad
 
 ------------------------------------------------------------------------
-Friday 20180406 Starting weight 182.5 (yesterday was lighter exercise +
+Friday 20180406 weight 182.5 (yesterday was lighter exercise +
                                 Haskell group + Anodyne: weight gain!)
 
 breakfast @ 9:40 (after 13.1 mile run)
@@ -389,7 +389,7 @@ snack @ 7pm
  50 medium orange
 
 ------------------------------------------------------------------------
-Saturday 20180407 Starting weight 181
+Saturday 20180407 weight 181
 
 snack during 15.6 mile run (probably started eating around 7am)
 480 3 oz mixed nuts
@@ -423,7 +423,7 @@ snack 7:00pm
  50 medium orange
 
 ------------------------------------------------------------------------
-Sunday 20180408 Starting weight 180.5
+Sunday 20180408 weight 180.5
 
 breakfast @ 8:30
 533 normal oatmeal (after 35.5 mile bike ride)
@@ -451,7 +451,7 @@ snack @ 6:46
 322 1 large avocado
 
 ------------------------------------------------------------------------
-Monday 20180409 Starting weight 180
+Monday 20180409 weight 180
 
 160 1 oz nuts while doing today's 13.1 mile run (w/ 12x 75 sec intervals)
 
@@ -479,7 +479,7 @@ Dinner 4:45
 138 6 dates
 
 ------------------------------------------------------------------------
-Tuesday 20180410 Starting weight 180
+Tuesday 20180410 weight 180
 
 breakfast @ 8:30 (after 8.9 mile run)
 
@@ -507,7 +507,7 @@ Snack 6:30 pm
 138 6 dates
 
 ------------------------------------------------------------------------
-Wednesday 20180411 Starting weight 179.75
+Wednesday 20180411 weight 179.75
 
 breakfast @ 9:10 (after 13.1 mile run)
 533 normal oatmeal
@@ -538,7 +538,7 @@ Late night snack 8pm
  50? home tortilla
 
 ------------------------------------------------------------------------
-Thursday 20180412 Starting weight 180.5 (too much beer and late night snack)
+Thursday 20180412 weight 180.5 (too much beer and late night snack)
 
 breakfast @ 9:00 (after 8.9 mile run)
 
@@ -565,7 +565,7 @@ Dinner 5:00
 150 3x Cutie mandarin orange
 
 ------------------------------------------------------------------------
-Friday 20180413 Starting weight 180
+Friday 20180413 weight 180
 
 breakfast @ 9:10 (after 13.1 mile run)
 533 normal oatmeal
@@ -592,7 +592,7 @@ Snack 7pm
 180 8 dates
 
 ------------------------------------------------------------------------
-Saturday 20180414 Starting weight 179.8
+Saturday 20180414 weight 179.8
 (hiking pack weighed 16.5 pounds at start and 12 at end)
 
 during hike
@@ -607,7 +607,7 @@ during hike
 
 
 ------------------------------------------------------------------------
-Sunday 20180415 Starting weight 178.25
+Sunday 20180415 weight 178.25
 
 breakfast @ 9:45
 533 normal oatmeal (after 35.5 mile bike ride)
@@ -638,7 +638,7 @@ Snack 7:05
 300 avocado
 
 ------------------------------------------------------------------------
-Monday 20180416 Starting weight 177.25
+Monday 20180416 weight 177.25
 
 breakfast @ 9:20
 533 normal oatmeal (after 13.1 mile run)
@@ -669,7 +669,7 @@ Snack 6:30
 160 1 oz mixed unsalted nuts
 
 ------------------------------------------------------------------------
-Tuesday 20180417 Starting weight 177
+Tuesday 20180417 weight 177
 
 breakfast @ 8:20
 533 normal oatmeal (after 8.9 mile run)
@@ -694,7 +694,7 @@ Taco Tuesday beer 6:20
 ? 16 oz. Steel Bender Stout 6% ABV
 
 ------------------------------------------------------------------------
-Wednesday 20180418 Starting weight 175 (expect no loss or gain tomorrow)
+Wednesday 20180418 weight 175 (expect no loss or gain tomorrow)
 
 I didn't plan on having three pints yesterday, but one of the Team RWB
 members forgot that he was having surgery the next day and ordered a
@@ -735,7 +735,7 @@ Snack 7pm
 160 1/3rd brick of tempeh
 
 ------------------------------------------------------------------------
-Thursday 20180419 Starting weight 175.25
+Thursday 20180419 weight 175.25
 
 My quarter pound weight gain is not too surprising, since I had lost
 two pounds in the prior day.  The two pound loss was probably
@@ -770,7 +770,7 @@ Dinner 5:00
 135? 1 1/2 cups mixed veggies
 
 ------------------------------------------------------------------------
-Friday 20180420 Starting weight 175
+Friday 20180420 weight 175
 
 breakfast @ 8:10
 533 normal oatmeal (after 13.1 mile run)
@@ -797,7 +797,7 @@ Dinner 5:00
 Snack 11:45pm
 160 - 320 handful of nuts because I was cold and wanted to feed the furnace
 
-Saturday 20180421 Starting weight unknown
+Saturday 20180421 weight unknown
 
 This was the Cedro Peak 50k.  I skipped breakfast and accidentally didn't
 eat my avocado, because I never touched my Cedro Peak drop bag.  I had
@@ -816,7 +816,7 @@ had olive left.
 500? beer
 
 
-Sunday 20180422 Starting weight 174.5
+Sunday 20180422 weight 174.5
 
 10:15 breakfast
 533 normal oatmeal (after 35.5 mile bike ride)
@@ -842,7 +842,7 @@ Snack 7pm
 160 1 oz mixed unsalted nuts
 138 6 dates
 
-Monday 20180423 Starting weight 174.25
+Monday 20180423 weight 174.25
 
 breakfast @ 9:00
 533  normal oatmeal (after 13.1 mile run)
@@ -871,7 +871,7 @@ Dinner 5pm
 Snack 7:15 (didn't notice when 7:00 came around)
 160 1 oz mixed unsalted nuts
 
-Tuesday 20180424 Starting weight 174
+Tuesday 20180424 weight 174
 
 Breakfast @ 8:00 (roughly; forgot to write it down)
 533  normal oatmeal (after 8.9 mile run)
@@ -899,7 +899,7 @@ Snack 7pm
 270 6x Halos mandarin oranges
  80 1/2 oz mixed unsalted nuts
 
-Wednesday 20180425 Starting weight 173
+Wednesday 20180425 weight 173
 
 breakfast @ 9:15
 533 normal oatmeal (after 13.1 mile run w/intervals)
@@ -928,7 +928,7 @@ Beer 6pm @ RubiABQ
 Beer 8:15 @ BeerJS
 ?? some gose 16 oz, 4.5% ABV
 
-Thursday 20180426 Starting weight 171.5
+Thursday 20180426 weight 171.5
 I may have overcompensated for the beer by eating too lightly yesterday or
 it could just be whatever source of randomness in weight fluctation just
 happened to favor me today.
@@ -994,7 +994,7 @@ NOTE: Friday, Saturday and Sunday are all even more inaccurate than
       I suspect I didn't lose any weight at ESCAPE and I won't be too
       surprised (although I'll be disappointed) if I gained weight.
 
-Friday 20180427 Starting weight 171.5
+Friday 20180427 weight 171.5
 171.5 (taken at 5:05, did not have a full poop yet)
 
 8:30 Breakfast (after getting up at 4am and driving, not exercising)
@@ -1013,7 +1013,7 @@ Dinner 6:30
 960 Cuban Coconut Rice & Black Beans
 
 
-Saturday 20180428 Starting weight unknown
+Saturday 20180428 weight unknown
 
 7:30 Breakfast (after 6.5 mile 32# pack run)
 533  normal oatmeal (after 8.9 mile run)
@@ -1032,7 +1032,7 @@ noon Lunch
 880 Pad Thai
 100 big salad
 
-Sunday 20180429 Starting weight unknown
+Sunday 20180429 weight unknown
 
 8:15 breakfast (after 8.1 mile 32# pack run)
 533  normal oatmeal (after 8.9 mile run)
@@ -1055,7 +1055,7 @@ beer 3:10pm
  75? 3xalmond stuffed olives
  75? bowl of steamed broccoli
 
-Monday 20180430 Starting weight 172.5
+Monday 20180430 weight 172.5
 
 I gained a pound over the ESCAPE weekend instead of continuing with my
 weight loss.  I suspected that would happen.  Oh well.  If I hadn't
@@ -1090,7 +1090,7 @@ core exercise (100 push-ups, 100 sit-ups and 60 squats), so perhaps
 having some extra isn't too bad.
 
 
-Tuesday 20180501 Starting weight 170
+Tuesday 20180501 weight 170
 
 SAR Mission last night. Chose not to eat, which was fine.
 
@@ -1121,7 +1121,7 @@ Noon Lunch
 250? 10 oz 10.5% ABV Barleywine (with bad smell)
 250? 16 oz 6%? ABV Chocolate Porter
 
-Wednesday 20180502 Starting weight 170
+Wednesday 20180502 weight 170
 
 Not too surprising that I didn't lose weight after a seemingly 2.5
 pound loss the previous day.  However, I didn't gain any, even though
@@ -1150,7 +1150,7 @@ Noon Lunch
 150 pretzel with hummus
  30 5x pringles
 
-Thursday 20180503 Starting weight 171
+Thursday 20180503 weight 171
 
 Should have skipped the tamales since they were largely empty
 calories.  Should have had less pineapple and strawberries, since
@@ -1183,7 +1183,7 @@ rather than "I need to eat something because my hunger is distracting"
 6:00 beer
 335? Petrus 16 oz. 8.5% ABV
 
-Friday 20180504 Starting weight 170.75
+Friday 20180504 weight 170.75
 
 7:00 Breakfast
 533  normal oatmeal (after 6.55 mile run)
@@ -1212,7 +1212,7 @@ Noon lunch
 150? 3/4 cup remaining black beans
 240  3x Cara Cara orange
 
-Saturday 20180505 Starting weight unknown
+Saturday 20180505 weight unknown
 
 Elevation Insanity
 
@@ -1237,7 +1237,7 @@ approximately 20,698 ft.
 1,332 2.5x  baggies of fortified oatmeal
   100?  2x? bottles of rice milk
 
-Sunday 20180506 Starting weight unknown (was in hurry to get to the zoo)
+Sunday 20180506 weight unknown (was in hurry to get to the zoo)
 
 Run for the Zoo half marathon
 
@@ -1270,7 +1270,7 @@ rode my bike with Steve for 50 minutes
  75? large bowl of steamed broccoli
 300? around 1 1/2 cup mixed beans
 
-Monday 20180507 Starting weight 168.0
+Monday 20180507 weight 168.0
 
 7:30 Breakfast
 533  normal oatmeal (after 6.55 mile run, w 6x 75 second all-out intervals)
@@ -1300,7 +1300,7 @@ Noon Lunch
 240  3x Cara Cara orange
 160  1 oz. mixed nuts
 
-Tuesday 20180508 Starting weight 168.0
+Tuesday 20180508 weight 168.0
 
 No loss and maybe a tiny gain, but that's not too surprising after
 such a big loss, especially with eating the mystery calorie pizza and
@@ -1332,7 +1332,7 @@ Noon Lunch
 240  3x Cara Cara oranges
 160 1 oz. mixed nuts
 
-Wednesday 20180509 Starting weight 167.8
+Wednesday 20180509 weight 167.8
 
 Not quite down to 167.75, but definitely a little under 168.0.
 Tonight is RubiABQ, so that may make further losses difficult.  OTOH,
@@ -1369,7 +1369,7 @@ Noon Lunch
 
 FORGOT TO WRITE DOWN BEER CONSUMED
 
-Thursday 20180510 Starting weight 167.5
+Thursday 20180510 weight 167.5
 
 1:00 Breakfast after running 4.45 mi
 Breakfast was late because we had a SAR mission that had us drive up north
@@ -1394,7 +1394,7 @@ my taper 4.45 mile run.
 360 3x medium banana
 138 6 dates
 
-Friday 20180511 Starting weight 167.75
+Friday 20180511 weight 167.75
 
 Beer with food was probably what did me in.  That SAR mission certainly
 threw off my schedule.  There's a chance that by eating so late my weight
@@ -1432,7 +1432,7 @@ Noon Lunch
 6:00 snack
 120 6x almond stuffed olives
 
-Saturday 20180512 Starting weight 167.25
+Saturday 20180512 weight 167.25
 
 9:00 Breakfast after racing half marathon
 533  normal oatmeal
@@ -1460,7 +1460,7 @@ Saturday 20180512 Starting weight 167.25
 120 medium banana
  40 2x almond stuffed olives
 
-Sunday 20180513 Starting weight 167
+Sunday 20180513 weight 167
 
 7:00 Breakfast (after 12 mile bike ride: 1/4 distance taper)
 533  normal oatmeal
@@ -1497,7 +1497,7 @@ Noon lunch
 480 3 oz. mixed nuts
  80 4x almond stuffed olives
 
-Monday 20180514 Starting weight 166.5
+Monday 20180514 weight 166.5
 FWIW, my plan is to not drop any more weight between now and Thursday morning,
 which will be the last day I have access to our home scales before I get back
 on Monday.  I am not going to fret if I lose a little or even gain a little
@@ -1541,7 +1541,7 @@ Noon lunch
 7:00 snack
 160 1 oz. mixed nuts
 
-Tuesday 20180515 Starting weight 167.75
+Tuesday 20180515 weight 167.75
 
 Wow. I was just trying not to lose any weight and I went overboard and
 gained a pound and a quarter.  Oh well.  Live and learn.  Part of that
@@ -1576,7 +1576,7 @@ Noon lunch
 7pm snack
 160 1 oz. mixed nuts
 
-Wednesday 20180516 Starting weight 165.25
+Wednesday 20180516 weight 165.25
 
 Wow. Overcompensated.  Yesterday's low weight may have just been extra
 food in the gut.  Oh well.
@@ -1616,7 +1616,7 @@ Noon lunch
  40? Ate a couple ancient perpeteum tablets to make sure they were still good
 480?  Ate a bunch of nuts as I was packaging nuts in baggies
 
-Thursday 20180517 Starting weight 167
+Thursday 20180517 weight 167
 
 NOTE: weight taken at 4:15 after a mini-poop. Probably true weight is closer
 to 166.5
@@ -1648,7 +1648,7 @@ entire brick of seitan
 some mandarin oranges
 some nuts
 
-Friday 20180518 Starting weight unknown
+Friday 20180518 weight unknown
 
 I did not take notes Friday through Sunday, which was Cruel Jewel weekend.
 I'm sure I forgot things.
@@ -1663,7 +1663,7 @@ a stack of Lays version of Pringles.  One aid station had hummus, which
 I ate on mini prezels, oh yeah, I ate mini pretzels elsehwere.  I drank
 coke starting about 8pm.  I had coffee sometime.
 
-Saturday 20180519 Starting weight unknown
+Saturday 20180519 weight unknown
 
 On the course, ate a bunch of oranges, watermelon, bananas, my second
 avocado (I took two), pickles and often a handful of skittles and
@@ -1671,9 +1671,9 @@ a stack of Lays version of Pringles.  One aid station had hummus avocado
 pinwheels (i.e. wrapped in a flour tortilla).  I ate all they had (they
 said they could make more, so I wasn't shorting anyone else).
 
-Sunday 20180520 Starting weight unknown
+Sunday 20180520 weight unknown
 
-Monday 20180521 Starting weight unknown
+Monday 20180521 weight unknown
 5:15 am Mountain (I was in Eastern, but keeping NM time, more or less)
 500? normal oatmeal (missing hemp seeds; forgot to pack them)
 180 large? fuji apple (didn't weigh it)
@@ -1705,7 +1705,7 @@ some chips and hummus
 Above is horribly incomplete.  It was too inconvenient for me to get my
 laptop out and log everything as I did it and I was still tired from CJ100
 
-Tuesday 20180522 Starting weight 172
+Tuesday 20180522 weight 172
 
 8:00? Didn't write it down, but before I did any exercising
 575 normal oatmeal (doubled up the udo's oil)
@@ -1736,7 +1736,7 @@ Tuesday 20180522 Starting weight 172
 4:30 snack
 320 2 oz mixed nuts
 
-Wednesday 20180523 Starting weight 168.5
+Wednesday 20180523 weight 168.5
 
 Yay. My post CJ100 weight is dropping back to around what it was before I
 left. That will make getting to 156 that much easier.
@@ -1780,7 +1780,7 @@ left. That will make getting to 156 that much easier.
 6:25 snack
 138 6 dates
 
-Thursday 20180524 Starting weight 165.5
+Thursday 20180524 weight 165.5
 
 Hadn't planned on losing weight while I still have this cold, however I
 don't think I understand the weight gain and loss associated with CJ100.
@@ -1827,7 +1827,7 @@ noon lunch
 6:30 snack
 160 1 oz. mixed nuts
 
-Friday 20180525 Starting weight 165.5
+Friday 20180525 weight 165.5
 
 Stabilized!
 
@@ -1872,7 +1872,7 @@ Stabilized!
 7:00 snack
 160 1 oz. mixed nuts
 
-Saturday 20180526 Starting weight 165.5
+Saturday 20180526 weight 165.5
 
 Weight *might* be slightly high, because I pooped before the caffeine hit
 but then ate breakfast immediately.
@@ -1914,7 +1914,7 @@ noon lunch
 160 1 oz. mixed nuts
 160 2 Costco oranges
 
-Sunday 20180527 Starting weight 166.25
+Sunday 20180527 weight 166.25
 
 Weight gain not too surprising considering Thai Vegan + all the beer +
 minimal exercise.
@@ -1947,7 +1947,7 @@ noon lunch
 6:45 snack
 138 6 dates
 
-Monday 20180528 Starting weight 164.5
+Monday 20180528 weight 164.5
 
 200? Tailwind in my water as I did 8.9 miles (including 8x 75 sec intervals)
 
@@ -1980,7 +1980,7 @@ Noon Lunch
 6:30 snack
 138 6 dates
 
-Tuesday 20180529 Starting weight 164.5
+Tuesday 20180529 weight 164.5
 
 No loss, no gain.  That beer was strong.
 
@@ -2014,7 +2014,7 @@ noon lunch
 6:30 snack
 138 6 dates
 
-Wednesday 20180530 Starting weight 164
+Wednesday 20180530 weight 164
 
 6:00 - 8:30 Training run
 600 6 scoops of Tailwind during my 12.2 mile 40# 130bpm pack run
@@ -2055,7 +2055,7 @@ noon lunch
 8:15 snack
 200? some pretzel 
 
-Thursday 20180531 Starting weight 164.5
+Thursday 20180531 weight 164.5
 
 Not too surprising that I gained .5 back, with all the beer yesterday
 evening.  Disappointing, but not too surprising.  OTOH, my legs feel
@@ -2089,7 +2089,7 @@ noon lunch
 16 oz. 4.8% ABV Breckinridge Stout
 26? oz. Abbaye De Saint Bon-Chien (BFM) 11.0% ABV (split two bottles)
 
-Friday 20180601 Starting weight 163.5
+Friday 20180601 weight 163.5
 
 8:45 Breakfast
 533 normal oatmeal
@@ -2128,7 +2128,7 @@ Noon lunch
 200 2 small to medium bananas
 ? handful of grapes
 
-Saturday 20180602 Starting weight unknown
+Saturday 20180602 weight unknown
 
 Crest Trail hike.  TODO: write more (including why my pack was so light)
 
@@ -2149,7 +2149,7 @@ during hike
 ? grapes
 50? green drink
 
-Sunday 20180603 Starting weight 162.5
+Sunday 20180603 weight 162.5
 
 8:45 breakfast
 533 normal oatmeal
@@ -2179,7 +2179,7 @@ noon lunch
 7:00 snack
 160  1 oz. mixed nuts
 
-Monday 20180604 Starting weight 162.75
+Monday 20180604 weight 162.75
 
 Not surprising that I gained weight with all that eating yesterday.
 However, I got rid of the nut butter and the extra food may have helped me
@@ -2211,7 +2211,7 @@ skipped lunch due to hydrostatic weighing
 6:45 snack
 160  1 oz. mixed nuts
 
-Tuesday 20180605 Starting weight 162
+Tuesday 20180605 weight 162
 
 Not too surprising I lost a lot of weight considering I needed to fast
 for four hours yesterday.
@@ -2250,7 +2250,7 @@ noon lunch
 8 oz 12.5% ABV barleywine
 8 oz ?% ABV cherry wheat
 
-Wednesday 20180606 Starting weight 163
+Wednesday 20180606 weight 163
 
 Not too surprising that I gained weight after that beer and the extra
 protein I had.  Finding a happy medium may be tricky, although I don't
@@ -2290,7 +2290,7 @@ noon lunch
 6:00 snack
 160  1 oz. mixed nuts
 
-Thursday 20180607 Starting weight 163.5
+Thursday 20180607 weight 163.5
 
 Gained a half pound.  Not too surprising considering all the extra protein
 I ate (and that much of that protein came with non-protein calories).  OTOH,
@@ -2326,7 +2326,7 @@ noon lunch
 6:00 beer
 ? 16 oz. 8% Cascade Sour
 
-Friday 20180608 Starting weight 163.5
+Friday 20180608 weight 163.5
 
 Disappointing that I didn't lose weight, but I was feeling great on this
 morning's run and set a PR for 13.1 miles @ 130bpm: 2:15:47 (10:21 min/mile)
@@ -2361,7 +2361,7 @@ ton of chips and salsa
 450 2 cups cooked quinoa
 160  1 oz. mixed nuts
 
-Saturday 20180609 Starting weight 165
+Saturday 20180609 weight 165
 
 Due to pigging out yesterday I was overweight, but in theory that would give
 me plenty of energy during the Chimney Melon 50k. In reality I wound up with
@@ -2401,7 +2401,7 @@ FWIW, I had made two containers of oatmeal, but forgot to put them in
 the cooler, so I wasn't able to eat oatmeal at the truck between loops
 1 and 2.
 
-Sunday 20180610 Starting weight 158.5
+Sunday 20180610 weight 158.5
 
 I got called to a search and rescue mission, so that interfered with my
 food logging.
@@ -2425,7 +2425,7 @@ my dinner was very watery beans with some quinoa and maybe more
 I ate at least three oranges after Sophie came back from Costco:
 at least one soon after she came back and two right after dinner
 
-Monday 20180611 Starting weight 161
+Monday 20180611 weight 161
 
 So, I lost 1.75 pounds in the last week and definitely had more chia
 while exercising.  Does the smaller weight loss and the increased
@@ -2475,7 +2475,7 @@ noon lunch
 7:00 snack
 160  1 oz. mixed nuts
 
-Tuesday 20180612 Starting weight 160.75
+Tuesday 20180612 weight 160.75
 
 5:41 pre-workout
 120 2 tablespoons chia in water
@@ -2511,7 +2511,7 @@ noon lunch
 7:00 snack
 160  1 oz. mixed nuts
 
-Wednesday 20180613 Starting weight 159.75
+Wednesday 20180613 weight 159.75
 
 5:47 pre-work out
 180 3 tablespoons chia in 16 oz. cold water
@@ -2551,7 +2551,7 @@ noon lunch
 8:00 pizza disposal -- shouldn't have had that late at night
 ? 2 small slices of vegan pizza
 
-Thursday 20180614 Starting weight 162
+Thursday 20180614 weight 162
 
 Not surprising I gained weight, especially with the four slices of
 pizza, although they were small.  OTOH, my glycogen stores are
@@ -2586,7 +2586,7 @@ After coming back from my run I weighed 157.5.  I ran 8.9 miles at a
         shared a small amount (4 oz.?) with Dustin (Commodious), but don't even
         remember the size of the bottle.
 
-Friday 20180615 Starting weight  160.5
+Friday 20180615 weight  160.5
 
 5:30 pre-workout
 180 3 tablespoons chia in 16 oz. cold water
@@ -2629,7 +2629,7 @@ noon lunch
 7:00 snack
 152 20 kalamata olives
 
-Saturday 20180616 Starting weight  160.25
+Saturday 20180616 weight  160.25
 
 5:30 pre-workout
 180 3 tablespoons chia
@@ -2663,7 +2663,7 @@ noon lunch
 160  1 oz. mixed nuts
 
 
-Sunday 20180617 Starting weight  161.5
+Sunday 20180617 weight  161.5
 
 Beer for breakfast yesterday was probably the killer.  Who knew?
 
@@ -2693,7 +2693,7 @@ noon lunch
 210 2 cups black beans & red beans
  80 orange
 
-Monday 20180618 Starting weight  161
+Monday 20180618 weight  161
 
 6:00 pre work-out
 180 3 tablespoons chia
@@ -2727,7 +2727,7 @@ noon lunch
 7:00 snack
 160  1 oz. mixed nuts
 
-Tuesday 20180619 Starting weight  162
+Tuesday 20180619 weight  162
 
 Surprising gain, seeing how I thought I ate basically what I ate a week
 prior.  I'm guessing I underestimated the calorie content of the northern
@@ -2768,7 +2768,7 @@ noon lunch
 beer
 ton of french fries
 
-Wednesday 20180620 Starting weight  162.5
+Wednesday 20180620 weight  162.5
 
 Not surprising, gained weight with the fries
 
@@ -2816,7 +2816,7 @@ ADJUSTED CLOCK TO PACIFIC
 180 Seasonal Greens Salad
  60 small apple
 
-Thursday 20180621 Starting weight unknown (at Jeanne's house)
+Thursday 20180621 weight unknown (at Jeanne's house)
 
 6:30? breakfast (after running 8.9 miles)
 533 normal oatmeal
@@ -2848,22 +2848,22 @@ noon snack? more food
 
 ... TODO: backfill *SOME* vacation info
 
-Friday 20180622 Starting weight unknown
+Friday 20180622 weight unknown
 
 ? breakfast
 533 normal oatmeal (after running ? miles, including ?:?? 1/4 mile on track)
 
-Saturday 20180623 Starting weight unknown
+Saturday 20180623 weight unknown
 
 ? breakfast
 533 normal oatmeal (after running ? miles, including 6:00 mile on track)
 
-Sunday 20180624 Starting weight unknown
+Sunday 20180624 weight unknown
 
 ? breakfast
 533 normal oatmeal (after running 14 miles, including 5:57 mile on track)
 
-Monday 20180625 Starting weight unknown
+Monday 20180625 weight unknown
 
 8:00 breakfast (after running 15 miles, including 12x intervals)
 533 normal oatmeal
@@ -2895,7 +2895,7 @@ restaurant is).  I got a "protein bowl" and a corn soup and also ate
 some of other people's food.  In short, I pigged out, much like all
 the other evenings.
 
-Tuesday 20180626 Starting weight unknown
+Tuesday 20180626 weight unknown
 
 6:30 breakfast (after running 9 miles)
 533 normal oatmeal
@@ -2922,7 +2922,7 @@ Tuesday 20180626 Starting weight unknown
 5:00 MOUNTAIN TIME (i.e., two hours after lunch)
 533 normal oatmeal
 
-Wednesday 20180627 Starting weight 164
+Wednesday 20180627 weight 164
 
 7:00 - 8:30 during pack run
 540 9 tablespoons chia in 60 oz. cold water
@@ -2955,7 +2955,7 @@ noon lunch
 152 20 kalamata olives
 120 banana
 
-Thursday 20180628 Starting weight 163.5
+Thursday 20180628 weight 163.5
 
 7:30 breakast
 533 normal oatmeal
@@ -2979,7 +2979,7 @@ noon lunch
 6:00 beer
 1080? 2x 16.9 oz 12.1% ABV Barrel-aged Old Rasputin
 
-Friday 20180629 Starting weight 161.5
+Friday 20180629 weight 161.5
 
 7:00 - 7:30 during 13.1 mile run
 180 3 tablespoons chia
@@ -3010,7 +3010,7 @@ noon lunch
 240 2x banana
 160 1 oz. mixed nuts
 
-Saturday 20180630 Starting weight 160.75
+Saturday 20180630 weight 160.75
 
 5:25 pre run
 180 3 tablespoons chia
@@ -3050,7 +3050,7 @@ Saturday 20180630 Starting weight 160.75
 450 2 cups corn soup (*total* guess on soup)? -- finished it off
 (probably shouldn't have had the soup)
 
-Sunday 20180701 Starting weight 160
+Sunday 20180701 weight 160
 
 8:10 breakfast (post-bike)
 533 normal oatmeal
@@ -3090,7 +3090,7 @@ noon lunch
 7:00 final protein/fat snack
 320 2 oz. mixed nuts
 
-Monday 20180702 Starting weight 160.25
+Monday 20180702 weight 160.25
 
 Did not have a poop as big as I normally do, although I pooped yesterday
 afternoon, so it's unclear what's going to happen on my morning run, but
@@ -3131,7 +3131,7 @@ noon lunch
 6:50 final protein/fat snack
 320 2 oz. mixed nuts
 
-Tuesday 20180703 Starting weight 160
+Tuesday 20180703 weight 160
 
 6:00 breakfast (after 8.9 mile run)
 533 normal oatmeal
@@ -3165,7 +3165,7 @@ noon lunch
 6:45 Taco Tuesday beer
 ? 2x 8 oz.? 12.5%? ABV barrel aged imperial stouts
 
-Wednesday 20180704 Starting weight 161.25
+Wednesday 20180704 weight 161.25
 
 pre-run
 180 3 tablespoons of chia in 16 oz. of water
@@ -3210,7 +3210,7 @@ post Team RWB run
 6:45 last call for calories
 240 1.5 oz mixed nuts
 
-Thursday 20180705 Starting weight 161
+Thursday 20180705 weight 161
 
 7:30 breakfast (after 8.9 mile run)
 533 normal oatmeal
@@ -3242,7 +3242,7 @@ Thursday 20180705 Starting weight 161
 6:00 beer
 750? 2x 16 oz. 9.4% ABV Brother Thelonious
 
-Friday 20180706 Starting weight 158.5
+Friday 20180706 weight 158.5
 
 7:00 - 7:45 during 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -3278,7 +3278,7 @@ noon lunch
 6:30 zoo
 2 glasses red wine
 
-Saturday 20180707 Starting weight 159
+Saturday 20180707 weight 159
 
 Did not have my normal 1 pound poop.  Perhaps it was the wine.
 
@@ -3305,7 +3305,7 @@ Did not have my normal 1 pound poop.  Perhaps it was the wine.
 7:30 late dinner
 820 Backpacker's Pantry Chana Masala
 
-Sunday 20180708 Starting weight unknown
+Sunday 20180708 weight unknown
 
 before run
  533 normal oatmeal
@@ -3349,7 +3349,7 @@ on drive home
 6:30 final calories
 100? large bowl of steamed broccoli and cauliflower
 
-Monday 20180709 Starting weight 158
+Monday 20180709 weight 158
 
 7:00 - 7:45 During 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -3391,7 +3391,7 @@ noon lunch
 6:45 final calories
 152 20 kalamata olives
 
-Tuesday 20180710 Starting weight 158.5, 49 bpm
+Tuesday 20180710 weight 158.5, 49 bpm
 
 7:15 breakfast (after 8.9 mile run)
 533 normal oatmeal
@@ -3423,7 +3423,7 @@ noon lunch
 post dinner drink
 ? 1 1/2 shot Bombay Saphire gin
 
-Wednesday 20180711 Starting weight 159.5, 49 bpm, 69F
+Wednesday 20180711 weight 159.5, 49 bpm, 69F
 
 6:00 - 8:30 during run (69F - 76F)
 1170 4 20 oz. bottles of water, 4 w/ 3 tablespoons chia, 3 w/ 1.5 scoop tailwind
@@ -3465,7 +3465,7 @@ BEER
 
 800? 5? oz. mixed nuts (could be as much as 10 oz.!)
 
-Thursday 20180712 Starting weight 163.25, 53 bpm, 70F
+Thursday 20180712 weight 163.25, 53 bpm, 70F
 
 Not surprising I gained weight after pigging out yesterday at the Dead
 & Company show.  With luck, most of it will disappear by tomorrow
@@ -3496,7 +3496,7 @@ noon lunch
 138 6 dates
  80 orange
 
-Friday 20180713 Starting weight 159.25, 54 bpm, 63F
+Friday 20180713 weight 159.25, 54 bpm, 63F
 
 7:45 - 8:15 during 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -3529,7 +3529,7 @@ noon lunch
 6:30 last calorie snack
 200 1.25 oz mixed nuts
 
-Saturday 20180714 Starting weight 158.75, 49 bpm, 63F
+Saturday 20180714 weight 158.75, 49 bpm, 63F
 
 5:45 breakfast
 533 normal oatmeal
@@ -3553,7 +3553,7 @@ after second loop
 533 normal oatmeal
 70? 24 oz. rice milk
 
-Sunday 20180715 Starting weight 157.75, 52 bpm, 64F
+Sunday 20180715 weight 157.75, 52 bpm, 64F
 
 8:30 breakfast after 35.5 mile bike ride
 533 normal oatmeal
@@ -3585,7 +3585,7 @@ noon rest of lunch
 640 4? oz. mixed nuts
 60 granny smith apple
 
-Monday 20180716 Starting weight 157.25, 52 bpm, 66F
+Monday 20180716 weight 157.25, 52 bpm, 66F
 
 7:15 - 8:00 During 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -3618,7 +3618,7 @@ noon lunch
 320 2 oz. mixed nuts
  70 large peach
 
-Tuesday 20180717 Starting weight 156.75, 47 bpm, 62F
+Tuesday 20180717 weight 156.75, 47 bpm, 62F
 
 7:45 post 8.9 mile run breakfast
  533 normal oatmeal
@@ -3651,7 +3651,7 @@ Dinner 4:30
 360? 3x vegan tacos
 175 12 oz. Ace pear cider
 
-Wednesday 20180718 Starting weight 156.5, 47 bpm, 68F
+Wednesday 20180718 weight 156.5, 47 bpm, 68F
 
 6:00 - 8:30 during run (68F - 78F)
 1320 4x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop tailwind)
@@ -3685,7 +3685,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Thursday 20180719 Starting weight 156.25, 48 bpm, 71F
+Thursday 20180719 weight 156.25, 48 bpm, 71F
 
 7:30 breakfast (after 8.9 mile 130bpm run)
 533 normal oatmeal
@@ -3721,7 +3721,7 @@ noon lunch
 8:00 post pool late-night snack
 320 4x oranges
 
-Friday 20180720 Starting weight 154.5, 51 bpm, 69F
+Friday 20180720 weight 154.5, 51 bpm, 69F
 
 7:00 - 7:45 during 13.1 mile run (69F - 79F)
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -3762,7 +3762,7 @@ noon lunch
 180 3x oranges
 138 6 dates
 
-Saturday 20180721 Starting weight 155.25, 50 bpm*, 72F
+Saturday 20180721 weight 155.25, 50 bpm*, 72F
 
 Started an hour earlier; my poop was smaller than expected.
 *Didn't take time to let it settle; would have been lower.
@@ -3810,7 +3810,7 @@ post-work beer
 120 banana
 320 2 oz. mixed nuts
 
-Sunday 20180722 Starting weight 158.00, 49 bpm, 71F
+Sunday 20180722 weight 158.00, 49 bpm, 71F
 
 Yipes.  I ate way too much yesterday to combat the perceived effort of
 doing trail building.  I'm sure a bunch of that weight will disappear by
@@ -3854,14 +3854,14 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Monday 20180723 Starting weight 156.00, 50 bpm, 80F
+Monday 20180723 weight 156.00, 50 bpm, 80F
 
 As a test, I wore my HRM for about 12 minutes while in bed with the
 lights off from 5:03 to 5:15 before I had my daily double espresso.
 The average, once I settled down was 49, the lowest was 46.  There was
 a three minute span whose average was 48.
 
-By contrast, the 50bpm in the Starting weight line was taken the way I
+By contrast, the 50bpm in the weight line was taken the way I
 normally take my resting HR, which is after I've had my double
 espresso and made Sophie's cappuccino and my cereal.  I put my HRM on
 and lie back in the La-Z-Boy chair and actively try to calm down and
@@ -3922,7 +3922,7 @@ noon lunch
 320 2 oz. mixed nuts
 69 3 dates
 
-Tuesday 20180724 Starting weight 153.50, 45 bpm, 66F
+Tuesday 20180724 weight 153.50, 45 bpm, 66F
 
 FWIW, I put on my HRM for a half hour starting at 4:33, figuring I'd
 get back to sleep, but I didn't. My average HR for that time was 53,
@@ -3963,7 +3963,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20180725 Starting weight 153.50, 47 bpm, 68F
+Wednesday 20180725 weight 153.50, 47 bpm, 68F
 
 I wore my HRM from 03:28 to 05:15 and there was 30 minute span where
 my average HR was 48, so I think that suggests that the quick way I'm
@@ -4000,7 +4000,7 @@ noon lunch
  50 small apple
 320 2 oz. mixed nuts
 
-Thursday 20180726 Starting weight 153.75, 45 bpm, 74F
+Thursday 20180726 weight 153.75, 45 bpm, 74F
 
 7:00 breakfast (after 8.9 mile 130bpm run)
 533 normal oatmeal
@@ -4025,7 +4025,7 @@ Thursday 20180726 Starting weight 153.75, 45 bpm, 74F
 6:45 last minut calories
 480 3 oz. mixed nuts
 
-Friday 20180727 Starting weight 152.75, 51 bpm, 64F
+Friday 20180727 weight 152.75, 51 bpm, 64F
 
 Surprised by my high HR.  Too much beer yesterday.  I shouldn't have
 had the Brother Thelonious after the BB.
@@ -4075,7 +4075,7 @@ had the Brother Thelonious after the BB.
 7:00 final calories
 138 6 dates
 
-Saturday 20180728 Starting weight 153.00, 49 bpm, 59F
+Saturday 20180728 weight 153.00, 49 bpm, 59F
 
 I couldn't get back to sleep after 2:30, so I got up at 3:30 (alarm
 was set at 3:55) and took my double espresso.  The scale is really
@@ -4097,7 +4097,7 @@ of oatmeal, and 70? of rice milk. On the way back I had approximately
 finish I had 70? of rice milk and 100? of oatmeal.  Before bed I had 120
 of banana.
 
-Sunday 20180729 Starting weight 151.50, ?? bpm, 66F
+Sunday 20180729 weight 151.50, ?? bpm, 66F
 
 Never got bpm.  Got called on SAR mission before I had a chance to measure
 it.  I took a bunch of my leftover calories from yesterday with me and also
@@ -4117,7 +4117,7 @@ crust (just the crust) and some pickles
 6:00 dinner
 500 2 cups mixed beans
 
-Monday 20180730 Starting weight 153.50, 53 bpm, 71F
+Monday 20180730 weight 153.50, 53 bpm, 71F
 
 HR was high probably because I had a second double espresso, mostly
 just for kicks, but because I might be up a little late playing poker
@@ -4164,7 +4164,7 @@ extra food and a more or less rest day yesterday.
 ?post tournament munchies
 320? 2 oz. of mixed nuts (might have been *much* more)
 
-Tuesday 20180731 Starting weight 155.00 (scale says 152.8),  56? bpm, 71F
+Tuesday 20180731 weight 155.00 (scale says 152.8),  56? bpm, 71F
 
 Using different scale, so I adjusted my weight to what it would read if
 we were at home.  Huge (1.5 pound) gain due to drinking and eating nuts
@@ -4193,7 +4193,7 @@ probably due to the drinking. Definitely started with a 5.
 TODO: fill in yesterday's nuts & dates & beer (2?, 3?) and late night
 lentils and veggies
 
-Wednesday 20180801 Starting weight 154.8 (scale says 152.6),  ? bpm, 89F
+Wednesday 20180801 weight 154.8 (scale says 152.6),  ? bpm, 89F
 
 Got in "late" last night after coming in 8th in the Dealer's Choice tourney.
 Only 7 places paid.  I definitely went to bed after 10pm, but I think it
@@ -4237,7 +4237,7 @@ post tourney
 chocolate tacos
 75? large apple
 
-Thursday 20180802 Starting weight 156.6 (scale says 154.4),  54 bpm, 84F
+Thursday 20180802 weight 156.6 (scale says 154.4),  54 bpm, 84F
 
 post run
 500? Modified oatmeal (4 tbs chia, no hemp or soy)
@@ -4268,7 +4268,7 @@ TONS OF STUFF I DIDN'T WRITE DOWN
 
 Kasteel Rouge
 
-Friday 20180803 Starting weight 155.1 (scale says 152.9),  54 bpm, 81F
+Friday 20180803 weight 155.1 (scale says 152.9),  54 bpm, 81F
 
 Didn't spend much time letting HR settle.  Like my other HR readings in
 Las Vegas, this one was taken on the toilet, rather than lieing back on
@@ -4282,7 +4282,7 @@ dates I had brought with me.  When I got back home, I think I ate
 other stuff, but I could be mistaken.  I'm pretty sure I didn't have
 any alcohol to drink.
 
-Saturday 20180804 Starting weight 152.5 / 150.5, 51 bpm, 49F (Santa Fe, Ski)
+Saturday 20180804 weight 152.5 / 150.5, 51 bpm, 49F (Santa Fe, Ski)
 
 IIRC, my bpm was 46 sitting on the can in the outhouse.  FWIW, I didn't
 record my calories until the next day and so all the info here are just
@@ -4304,7 +4304,7 @@ estimates
 533 normal oatmeal
 70? 24 oz. rice milk
 
-Sunday 20180805 Starting weight 151.0 / 148.9, 56 bpm, 64F (Alameda and the River)
+Sunday 20180805 weight 151.0 / 148.9, 56 bpm, 64F (Alameda and the River)
 
 6:45 - 8:45 during 35.5 bike ride
 180 3 tablespoons chia in water
@@ -4341,7 +4341,7 @@ noon lunch
 6:00 final calories
 160 1 oz. mixed nuts
 
-Monday 20180806 Starting weight 151.75 / 149.7, 52 bpm, 71F
+Monday 20180806 weight 151.75 / 149.7, 52 bpm, 71F
 
 8:30 - 9:15 During 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -4375,7 +4375,7 @@ noon lunch
 7:00 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20180807 Starting weight 151.5 / 149.4, 52 bpm, 68F
+Tuesday 20180807 weight 151.5 / 149.4, 52 bpm, 68F
 
 8:00 post run breakfast (after 8.9 mile run)
  533 normal oatmeal (from Sunday's SAR mission)
@@ -4412,7 +4412,7 @@ noon lunch
 7:00 late night, slightly(?!) intoxicated snacking
 500? unknown amount of mixed nuts (probablyl *more* than 500 calories)
 
-Wednesday 20180808 Starting weight 150.0 / 148.5, 54 bpm, 67F
+Wednesday 20180808 weight 150.0 / 148.5, 54 bpm, 67F
 
 6:30 - 9:00 during run (67F - 80F)
 1320 4x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop tailwind)
@@ -4449,7 +4449,7 @@ noon lunch
 7:00 final calories
 300? two slices of vegan pizza
 
-Thursday 20180809 Starting weight 151.75 / 149.4, 50 bpm, 63F
+Thursday 20180809 weight 151.75 / 149.4, 50 bpm, 63F
 
 Had two double espressos this morning instead of one.  I did so
 because I had put extra beans in the coffee grinder and then thought,
@@ -4503,7 +4503,7 @@ when I'm pacing.
 6:00 beer
 560 16 oz. 15% ABV dogfish head something or other
 
-Friday 20180810 Starting weight 154.00 / 152.0, 53 bpm, 63F
+Friday 20180810 weight 154.00 / 152.0, 53 bpm, 63F
 
 Yesterday's pizza was almost undoubtedly the killer.  Going to be hard to
 hit my goal by Leadville.  FWIW, it looks like I ate about 4,300 calories
@@ -4548,7 +4548,7 @@ noon lunch
 7:00 final calories
 160 1 oz. mixed nuts
 
-Saturday 20180811 Starting weight 152.50 / 151.0, 48 bpm, 57F
+Saturday 20180811 weight 152.50 / 151.0, 48 bpm, 57F
 
 6:05 - 7:20 during 8.56 mile 40# pack run
 660 2x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop tailwind)
@@ -4591,7 +4591,7 @@ Saturday 20180811 Starting weight 152.50 / 151.0, 48 bpm, 57F
 7:00 final snack
 160 1 oz. mixed nuts
 
-Sunday 20180812 Starting weight 152.50 / 150.9, 49 bpm, 56F (Alameda & River)
+Sunday 20180812 weight 152.50 / 150.9, 49 bpm, 56F (Alameda & River)
 
 7:00 breakfast
 533 normal oatmeal
@@ -4625,7 +4625,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Monday 20180813 Starting weight 151.75 / 149.9, 47 bpm, 67F
+Monday 20180813 weight 151.75 / 149.9, 47 bpm, 67F
 
 6:30 breakfast
 533 normal oatmeal
@@ -4661,7 +4661,7 @@ Monday 20180813 Starting weight 151.75 / 149.9, 47 bpm, 67F
 6:30 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20180814 Starting weight 152.00 / 151.2, 45 bpm, 63F
+Tuesday 20180814 weight 152.00 / 151.2, 45 bpm, 63F
 
 Weird weight difference today, but I was in a hurry to get out the door.
 I didn't get on the big balance scale until after my tiny pack run (2.21
@@ -4707,7 +4707,7 @@ noon lunch
 7:00 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20180815 Starting weight 15?.?? / 150.0, 46 bpm, ??F (Leadville)
+Wednesday 20180815 weight 15?.?? / 150.0, 46 bpm, ??F (Leadville)
 
 Did not have access to home balance scale.
 
@@ -4746,7 +4746,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Thursday 20180816 Starting weight 15?.?? / 149.4, 45 bpm, 44F (Leadville)
+Thursday 20180816 weight 15?.?? / 149.4, 45 bpm, 44F (Leadville)
 
 Did not have access to home balance scale.
 
@@ -4796,7 +4796,7 @@ noon lunch
 7:30 beer w/ Pete
 ? 1/2 ? oz. bottle 10.5% ABV Avery Coconut Porter aged in Bourbon Barrels
 
-Friday 20180817 Starting weight 15?.?? / 150.7, ?? bpm, 38F (Leadville)
+Friday 20180817 weight 15?.?? / 150.7, ?? bpm, 38F (Leadville)
 
 6:45 breakfast (after running 3.3? miles)
 533 normal oatmeal
@@ -4820,7 +4820,7 @@ ate a pluot or two.  I ate a nectarine or two, three or four peaches.
 
 
 
-Saturday 20180818 Starting weight 15?.?? / 153.0, ?? bpm, 44F (Leadville)
+Saturday 20180818 weight 15?.?? / 153.0, ?? bpm, 44F (Leadville)
 
 Not surprising that I gained so much weight.  Assuming this guarantees
 that my glycogen stores are topped up, I'm OK with it.  I expect I'll
@@ -4828,7 +4828,7 @@ lose a bunch as I pace Jeff today, although the post race drinking
 will probably mean I don't lose very much and so I'll still have a bit
 of a hole to climb out of.
 
-Sunday 20180819 Starting weight 15?.?? / 1??.?, ?? bpm, ??F (Leadville)
+Sunday 20180819 weight 15?.?? / 1??.?, ?? bpm, ??F (Leadville)
 
 I was out pacing Jeff on the Leadville Trail 100 race, so I didn't get a
 chance to get any measurements, but the water froze at our campsite, so
@@ -4838,7 +4838,7 @@ Ate a bunch of crap while pacing, starting with a bunch of potato chips
 at the Winfield station before leaving.  I had to poop outside twice and
 in a porta potty at least once (probably more than that)
 
-Monday 20180820 Starting weight ??? / 156.5, 54 bpm, 34F (Leadville)
+Monday 20180820 weight ??? / 156.5, 54 bpm, 34F (Leadville)
 
 Not too surprising after all the drinking and being completely off my diet
 for a few days.  Disappointing.
@@ -4857,7 +4857,7 @@ Lauren.  Right before going to bed I think I ate the rest of the seitan,
 a sprig of kale and either some dates or some nuts.
 
 
-Tuesday 20180821 Starting weight ??? / ???.?, ?? bpm, ??F (Denver)
+Tuesday 20180821 weight ??? / ???.?, ?? bpm, ??F (Denver)
 
 Slept at Dave and Lauren's.  Didn't want to disturb anyone by getting my
 scale out and didn't think to check the temperature.  However, I also didn't
@@ -4873,7 +4873,7 @@ whole bunch (5? 6?) of bananas.  At home I had an Avery sour ale aged
 in tequila barrels (meh) and an Ayinger Celebrator.  Had two or three
 avocados, too.
 
-Wednesday 20180822 Starting weight 156.0 / 154.2, 54 bpm, 66F (home)
+Wednesday 20180822 weight 156.0 / 154.2, 54 bpm, 66F (home)
 
 Was raining when I got up, so I didn't do a pack run.  I took some
 time to fill in text for some of the days I didn't log in real time
@@ -4917,7 +4917,7 @@ noon lunch
 7:00 final calories
 360 8 2 oz. figs
 
-Thursday 20180823 Starting weight 153.50 / 151.8, 50 bpm, 59F
+Thursday 20180823 weight 153.50 / 151.8, 50 bpm, 59F
 
 HR was taken before caffeine, but I also didn't wait very long for it
 to settle.
@@ -4959,7 +4959,7 @@ to settle.
 ??? 22 oz. Black Butte 12.2%? (11.6%?) ABV
 ??? 16 oz. ? 8.5% ABV
 
-Friday 20180824 Starting weight 152.75 / 150.6, 59 bpm, 63F
+Friday 20180824 weight 152.75 / 150.6, 59 bpm, 63F
 
 High HR due to last night's drinking? Not low battery; I changed it
 before getting that reading.
@@ -5010,7 +5010,7 @@ before getting that reading.
 6:30 final calories
 138 6 dates
 
-Saturday 20180825 Starting weight 153.00 / 151.2, 51 bpm, 58F (Canyon Estates)
+Saturday 20180825 weight 153.00 / 151.2, 51 bpm, 58F (Canyon Estates)
 
 Took weight at about 3:40am.  Had good sized poop, but it didn't weigh that
 much.  May have another in me.  Didn't wait long to try to get a lower HR
@@ -5043,7 +5043,7 @@ beer munchies
 100 large bowl steamed broccoli and cauliflower
 180? 2 huge peaches
 
-Sunday 20180826 Starting weight 152.50 / 150.7, 45 bpm, 60F (Alameda & River)
+Sunday 20180826 weight 152.50 / 150.7, 45 bpm, 60F (Alameda & River)
 
 7:00 post 17.93 mile bike ride
 533 normal oatmeal
@@ -5075,7 +5075,7 @@ chips and salsa
 320 2 oz. mixed nuts
 
 
-Monday 20180827 Starting weight 15?.?? / 150.1, 52 bpm, 65F (Heritage Hills)
+Monday 20180827 weight 15?.?? / 150.1, 52 bpm, 65F (Heritage Hills)
 
 7:15 breakfast (after 6.56 mile run)
 533 normal oatmeal
@@ -5113,7 +5113,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20180828 Starting weight 152.00 / 150.5, 50 bpm, 60F (Heritage Hills)
+Tuesday 20180828 weight 152.00 / 150.5, 50 bpm, 60F (Heritage Hills)
 
 6:45 breakfast (after 3.28 mile run, back from Affordable Automotive)
 533 normal oatmeal
@@ -5149,7 +5149,7 @@ noon lunch
 320 2 oz. mixed nuts
 138 6 dates
 
-Wednesday 20180829 Starting weight 151.00 / 149.0, 48 bpm, 57F (Heritage Hills)
+Wednesday 20180829 weight 151.00 / 149.0, 48 bpm, 57F (Heritage Hills)
 
 8:30 breakfast (after 6.56 mile 40# pack run)
 533 normal oatmeal
@@ -5193,7 +5193,7 @@ noon lunch
 ? 12 oz. Cezanne 10.5% ABV
 ? 12 oz. Cezanne 10.5% ABV
 
-Thursday 20180830 Starting weight 153.00 / 150.8, 50 bpm, 67F (Heritage Hills)
+Thursday 20180830 weight 153.00 / 150.8, 50 bpm, 67F (Heritage Hills)
 
 7:15 breakfast (after 4.46 mile run)
 533 normal oatmeal
@@ -5225,7 +5225,7 @@ noon lunch
 
 800 32 oz. Karbach Brandy, You're a Fine Girl, 10% ABV beer
 
-Friday 20180831 Starting weight 151.25 / 149.8, 55 bpm, 67F (Heritage Hills)
+Friday 20180831 weight 151.25 / 149.8, 55 bpm, 67F (Heritage Hills)
 
 Took HR after second (rare) double espresso of the morning.
 
@@ -5265,7 +5265,7 @@ noon lunch
 6:24 final calories (six minutes early, because I was in the kitchen)
 320 2 oz. mixed nuts
 
-Saturday 20180901 Starting weight 151.0 / 149.5, 48 bpm, 65F (Alameda & River)
+Saturday 20180901 weight 151.0 / 149.5, 48 bpm, 65F (Alameda & River)
 
 Changed HRM battery (dodgy Sunbeam); that may account for lower
 reading.  I decided to do my Saturday run yesterday, which meant I
@@ -5314,7 +5314,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Sunday 20180902 Starting weight 151.5 / 150.1, 49 bpm, 55F (Heritage Hills)
+Sunday 20180902 weight 151.5 / 150.1, 49 bpm, 55F (Heritage Hills)
 
 Three beers yesterday probably contributed to my weight gain.  Who knew?
 
@@ -5353,7 +5353,7 @@ noon lunch
 6:20 final calories
 320 2 oz. mixed nuts
 
-Monday 20180903 Starting weight 153.0 / 151.9, 46 bpm, 56F (Alameda & the river)
+Monday 20180903 weight 153.0 / 151.9, 46 bpm, 56F (Alameda & the river)
 
 7:15 breakfast (after 8.91 mile bike ride)
 533 normal oatmeal
@@ -5392,7 +5392,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20180904 Starting weight 151.25 / 149.5, 45 bpm, 61F (Heritage Hills)
+Tuesday 20180904 weight 151.25 / 149.5, 45 bpm, 61F (Heritage Hills)
 
 7:15 breakfast (after 3.28 mile 40# pack run @ 130bpm)
  50? green drink
@@ -5433,7 +5433,7 @@ noon lunch
 8:00 off diet crazy calorie snack
 960 6 oz. mixed nuts
 
-Wednesday 20180905 Starting weight 154.00 / 152.2
+Wednesday 20180905 weight 154.00 / 152.2
 
 4:00 pre-flight breakfast
 600? normal oatmeal, except didn't have 1/3rd cup measuring cup, so probably
@@ -5455,7 +5455,7 @@ beer:
        
 400 11.2 oz. Bommen & Granaten (Brouwerij De Molen) 15.2% ABV
 
-Thursday 20180906 Starting weight ??? / 152.7
+Thursday 20180906 weight ??? / 152.7
 
 Revised my weight down from 153.9 to 152.7 after I had a 7am (local time)
 poop.  My guess is fruit for dinner was a contributing factor.
@@ -5471,13 +5471,13 @@ poop.  My guess is fruit for dinner was a contributing factor.
 500 12 oz. 18% ABV Dogfish Head 120 Minute IPA
 333 16 oz. 9% ABV Brewer's Cabinet Dirty Wookie
 
-Friday 20180907 Starting weight ??? / 155.5, 46 bpm, 54F (Homewood CA)
+Friday 20180907 weight ??? / 155.5, 46 bpm, 54F (Homewood CA)
 
 Eating a large pizza didn't help my weight loss, but it probably didn't
 hurt my performance for a 200 miler.
 
 
-Thursday 20180913 Starting weight 164 / 162.6, 47 bpm
+Thursday 20180913 weight 164 / 162.6, 47 bpm
 
 Feet and legs still swollen from Tahoe 200.  Balance weight (164) is
 from before I ate, but I forgot to record my electronic scale weight
@@ -5526,7 +5526,7 @@ noon lunch
 275 12 oz. 9% Old Rasputin
 400 16 oz. Karbach Brandy, You're a Fine Girl, 10% ABV beer
 
-Friday 20180914 Starting weight 157.0 / 155.1, 52 bpm, 59F
+Friday 20180914 weight 157.0 / 155.1, 52 bpm, 59F
 
 Took HR after second double espresso, so may be slightly higher than it
 would have been otherwise.  Nice to see the weight coming off.
@@ -5569,7 +5569,7 @@ would have been otherwise.  Nice to see the weight coming off.
 160 1 oz. mixed nuts
 100? fig and pear
 
-Saturday 20180915 Starting weight 155 / 153.3, 50 bpm, 64F
+Saturday 20180915 weight 155 / 153.3, 50 bpm, 64F
 
 7:15 breakfast
 533 normal oatmeal
@@ -5604,7 +5604,7 @@ tortilla
 
 dinner: sweet potato fries and some sort of tofu curry
 
-Sunday 20180916 Starting weight 156 / 154.9, 56 bpm, 60F (Alemeda and the River)
+Sunday 20180916 weight 156 / 154.9, 56 bpm, 60F (Alemeda and the River)
 
 Third can of beer was too much last night.  Also went out to eat, which
 contributed to weight gain.
@@ -5625,7 +5625,7 @@ during 100 mile bike ride
 6:10 final calories
 320 2 oz. mixed nuts
 
-Monday 20180917 Starting weight 154.0 / 152.7, 48 bpm, 68F
+Monday 20180917 weight 154.0 / 152.7, 48 bpm, 68F
 
 HR was before my espresso.
 
@@ -5666,7 +5666,7 @@ HR was before my espresso.
 6:30 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20180918 Starting weight 151.00 / 149.8, 47 bpm, 71F
+Tuesday 20180918 weight 151.00 / 149.8, 47 bpm, 71F
 
 HR taken before espresso.
 
@@ -5706,7 +5706,7 @@ HR taken before espresso.
 266? 16 oz. 6% ABV Blue Bullet Stout stout
 400? chips & fries (snacking off of other people's plates)
 
-Wednesday 20180919 Starting weight 150.75 / 148.7, 48 bpm, 72F
+Wednesday 20180919 weight 150.75 / 148.7, 48 bpm, 72F
 
 HR after espresso.
 
@@ -5751,7 +5751,7 @@ noon lunch
 6:00 final calories
 320 2 oz. mixed nuts
 
-Thursday 20180920 Starting weight 150.00 / 148.1, 48 bpm, 58F
+Thursday 20180920 weight 150.00 / 148.1, 48 bpm, 58F
 
 Was raining this morning and I was also fiddling around with QNap backup,
 so I didn't go out then.
@@ -5791,7 +5791,7 @@ noon lunch
 180 half package of seitan
 320 2 oz. mixed nuts
 
-Friday 20180921 Starting weight 149.00 / 147.9, 46 bpm, 54F
+Friday 20180921 weight 149.00 / 147.9, 46 bpm, 54F
 
 HR was before espresso.
 
@@ -5844,7 +5844,7 @@ handful of nuts
 handful of dates
 1 vanilla gel
 
-Saturday 20180922 Starting weight ? / ?, ?? bpm, ??F
+Saturday 20180922 weight ? / ?, ?? bpm, ??F
 
 ?:?? final lap fuel
 12 oz. 12.5% ABV Founders KBS
@@ -5865,7 +5865,7 @@ beer (AMRC, americano, ?, gose)
 6 vegan Korean tacos
 bowl of Marcia's food (black eyed peas)
 
-Sunday 20180923 Starting weight 154.00 / 152.2, 48 bpm, 56F
+Sunday 20180923 weight 154.00 / 152.2, 48 bpm, 56F
 
 8:00 during run chia
 180 3 tablespoons chia in 20 oz. during my 12.2 mile run
@@ -5908,7 +5908,7 @@ Sunday 20180923 Starting weight 154.00 / 152.2, 48 bpm, 56F
 6:30 final calories
 320 two oz. mixed nuts
 
-Monday 20180924 Starting weight 153.75 / 152.2, 46 bpm, 61F 
+Monday 20180924 weight 153.75 / 152.2, 46 bpm, 61F 
 
 8:15 during 13.1 mile run
 480 3 scoops of Tailwind, w/ 3 tablespoons chia in 20 oz. water
@@ -5943,7 +5943,7 @@ noon lunch
 6:30 final calories
 320 two oz. mixed nuts
 
-Tuesday 20180925 Starting weight 152.00 / 150.7, 50 bpm, 59F
+Tuesday 20180925 weight 152.00 / 150.7, 50 bpm, 59F
 
 HR probably high in part due to impatience on my part.  I want to get out
 the door.
@@ -5976,7 +5976,7 @@ the door.
 6:00 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20180926 Starting weight 150.25 / 148.5, 43 bpm, 57F
+Wednesday 20180926 weight 150.25 / 148.5, 43 bpm, 57F
 
 HR was before espresso with plenty of time to get the lowest reading.
 
@@ -6019,7 +6019,7 @@ noon pre-lunch
 333 20 oz. 6.2% La Cumbre Oktoberfest
 400 20 oz. 7.5% La Cumbre Malpais Stout
 
-Thursday 20180927 Starting weight 149.75 / 148.5, 51 bpm, 57F
+Thursday 20180927 weight 149.75 / 148.5, 51 bpm, 57F
 
 7:30 post 8.9 mile run breakfast
  50? green drink
@@ -6057,7 +6057,7 @@ noon lunch
 6:00 beer
 ??? 18 oz. 12.5% ABV 2018 KBS on tap
 
-Friday 20180928 Starting weight 151.50 / 149.9, 49 bpm, 54F
+Friday 20180928 weight 151.50 / 149.9, 49 bpm, 54F
 
 7:15 during 13.1 mile run
 180 3 tablespoons chia in 20 oz. water
@@ -6093,7 +6093,7 @@ rest of day
 
  1/2 Corbinian, 4 oz. mixed nuts, 12 dates, 2 gels
 
-Saturday 20180929 Starting weight ? / ?, ? bpm, ??F
+Saturday 20180929 weight ? / ?, ? bpm, ??F
 
 Camped Friday night near Mt. Taylor start.  May have checked my HR, but
 didn't have laptop to record it.
@@ -6128,7 +6128,7 @@ DCM the following day.
 6:00 double espresso
 ~9:30 double espresso
 
-Sunday 20180930 Starting weight 157.75 / 156.5, ?? bpm, ??F
+Sunday 20180930 weight 157.75 / 156.5, ?? bpm, ??F
 
 4:15 caffeine
 double espresso
@@ -6153,7 +6153,7 @@ cup of black coffee
 6:30 snack
 300? chocolate covered sunflower seeds
 
-Monday 20181001 Starting weight 15?.?? / 156.0, 40 bpm, 71F (Gold Canyon, AX)
+Monday 20181001 weight 15?.?? / 156.0, 40 bpm, 71F (Gold Canyon, AX)
 
 4:15 caffeine
 double espresso
@@ -6184,7 +6184,7 @@ breakfast with dad
 200? glass of wine
 150? chocolate covered sunflower seeds (remainder)
 
-Tuesday 20181002 Starting weight 15?.?? / 155.8, 43 bpm, 71F (Gold Canyon, AX)
+Tuesday 20181002 weight 15?.?? / 155.8, 43 bpm, 71F (Gold Canyon, AX)
 
 4:15 caffeine
 ? double espresso
@@ -6215,7 +6215,7 @@ Tuesday 20181002 Starting weight 15?.?? / 155.8, 43 bpm, 71F (Gold Canyon, AX)
 5:00? inflight snack
 Southwest pretzels
 
-Wednesday 20181003 Starting weight 157.25 / 155.5, 47 bpm, 58F (Heritage Hills)
+Wednesday 20181003 weight 157.25 / 155.5, 47 bpm, 58F (Heritage Hills)
 
 5:15 espresso
 double espresso
@@ -6264,7 +6264,7 @@ noon lunch
 7:00 - 8:30 final calories
 30? various peppers @ ARR meeting
 
-Thursday 20181004 Starting weight 155.00 / 153.7, 41 bpm, 59F
+Thursday 20181004 weight 155.00 / 153.7, 41 bpm, 59F
 
 HR was at 4:45, before espresso
 
@@ -6326,7 +6326,7 @@ noon lunch
 8:00 "drunken" snack
 ? don't remember exactly what I ate, but I ate *something*
 
-Friday 20181005 Starting weight 154.00 / 153.0, 49 bpm, 51F
+Friday 20181005 weight 154.00 / 153.0, 49 bpm, 51F
 
 7:45 - 8:35 during 13.1 mile run (69F - 79F)
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -6377,7 +6377,7 @@ noon lunch
 6:30 final calories
 160 1 oz. mixed nuts
 
-Saturday 20181006 Starting weight 152.75 / 151.5, 43 bpm, 55F (Balloon Park)
+Saturday 20181006 weight 152.75 / 151.5, 43 bpm, 55F (Balloon Park)
 
 3:18 Good morning, AIBF
 ? double espresso
@@ -6411,7 +6411,7 @@ Saturday 20181006 Starting weight 152.75 / 151.5, 43 bpm, 55F (Balloon Park)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Sunday 20181007 Starting weight 154.50 / 152.8, 43 bpm, 61F (Balloon Park)
+Sunday 20181007 weight 154.50 / 152.8, 43 bpm, 61F (Balloon Park)
 
 3:15 espresso
 10 double espresso
@@ -6494,7 +6494,7 @@ a bunch of bimbunelos (which turn out to have egg in them)
 138 6 dates
 
 
-Tuesday 20181009 Starting weight 153.00 / 151.8, 50 bpm, 49F (Balloon Park)
+Tuesday 20181009 weight 153.00 / 151.8, 50 bpm, 49F (Balloon Park)
 
 5:15 espresso
 10 double espresso
@@ -6517,7 +6517,7 @@ more beer
 6:30 final calories
 2 oz. mixed nuts
 
-Wednesday 20181010 Starting weight 158.00 / 156.9, 54 bpm, 50F (Balloon Park)
+Wednesday 20181010 weight 158.00 / 156.9, 54 bpm, 50F (Balloon Park)
 
 5:15 morning caffeine
 10 double espresso
@@ -6541,7 +6541,7 @@ salad
 
 1/2 block tempeh
 
-Thursday 20181011 Starting weight 156.50 / 155.4, 56 bpm, 47F (Balloon Park)
+Thursday 20181011 weight 156.50 / 155.4, 56 bpm, 47F (Balloon Park)
 
 5:15 morning caffeine
 10 double espresso
@@ -6566,7 +6566,7 @@ noon? lunch
 6:00 final calories
 400? huge avocado
 
-Friday 20181012 Starting weight 153.00 / 152.0, 50 bpm, 54.1F (Balloon Park)
+Friday 20181012 weight 153.00 / 152.0, 50 bpm, 54.1F (Balloon Park)
 
 5:15 morning caffeine
 10 double espresso
@@ -6578,7 +6578,7 @@ Friday 20181012 Starting weight 153.00 / 152.0, 50 bpm, 54.1F (Balloon Park)
 
 ate a lot at Lofty Party, got very strong stomach pains, had trouble sleeping
 
-Saturday 20181013 Starting weight 15?.?? / 15?.?, ?? bpm, ??.?F (Balloon Park)
+Saturday 20181013 weight 15?.?? / 15?.?, ?? bpm, ??.?F (Balloon Park)
 
 Had to get up at 2:20 to take Margaret to Balloon Fiesta Park so she could
 do her volunteer work.
@@ -6603,7 +6603,7 @@ part due to tiredness.
 6:30 final calories
 138 6 dates
 
-Sunday 20181014 Starting weight 156.75 / 155.5, 46 bpm, 59.0F (3:15am Balloon Park)
+Sunday 20181014 weight 156.75 / 155.5, 46 bpm, 59.0F (3:15am Balloon Park)
 
 Weight was taken at 7:05am, after coming back from rained out AIBF, where I
 had already had a banana, some grapes, a big tea, a bag of chips and an apple.
@@ -6663,7 +6663,7 @@ noon lunch
 6:30 final calories
 320 2 oz. mixed nuts
 
-Monday 20181015 Starting weight 153.50 / 152.7, 40 bpm, 36.0F (Heritage Hills)
+Monday 20181015 weight 153.50 / 152.7, 40 bpm, 36.0F (Heritage Hills)
 
 HR was taken at 7:13, almost two hours after double espresso
 
@@ -6702,7 +6702,7 @@ HR was taken at 7:13, almost two hours after double espresso
 6:15 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181016 Starting weight 15?.?? / 1??.?, ?? bpm, ??.?F (Heritage Hills)
+Tuesday 20181016 weight 15?.?? / 1??.?, ?? bpm, ??.?F (Heritage Hills)
 
 during first assignment
 gels
@@ -6718,7 +6718,7 @@ after second assignment
 fruit
 ton of nuts
 
-Wednesday 20181017 Starting weight 154.00 / 152.2, ?? bpm, 31?F (~El Malpais)
+Wednesday 20181017 weight 154.00 / 152.2, ?? bpm, 31?F (~El Malpais)
 152 / 150.5 weight before 13.1 mile pack run @ 11:41 after SAR drive
 
 pre-run
@@ -6740,7 +6740,7 @@ edamame
 6:30
 1/2 package seitan
 
-Thursday 20181018 Starting weight 152.00 / 150.5, 49 bpm, 46F (Heritage Hills)
+Thursday 20181018 weight 152.00 / 150.5, 49 bpm, 46F (Heritage Hills)
 
 5:15 wake-up caffeine
 10 double espresso
@@ -6787,7 +6787,7 @@ noon lunch
 320 2 oz. mixed nuts
 138 6 dates
 
-Friday 20181019 Starting weight 153.75 / 152.6, 50 bpm, 48.4F
+Friday 20181019 weight 153.75 / 152.6, 50 bpm, 48.4F
 
 7:45 - 8:45 during 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -6823,7 +6823,7 @@ noon lunch
 6:20 final calories
 320 2 oz. mixed nuts
 
-Saturday 20181020 Starting weight 152.75 / 151.5, 49 bpm, 41.3F (Jemez Springs)
+Saturday 20181020 weight 152.75 / 151.5, 49 bpm, 41.3F (Jemez Springs)
 
 Much of this day's eating was not logged.
 
@@ -6845,7 +6845,7 @@ bag of chips
  70? 20 oz. rice milk
 
 ... more
-Sunday 20181021 Starting weight 151.25 / 149.8, 50 bpm, 44.6F (ABQ Country Club)
+Sunday 20181021 weight 151.25 / 149.8, 50 bpm, 44.6F (ABQ Country Club)
 
 None of this day's eating was logged at the time
 
@@ -6860,7 +6860,7 @@ post-race
 beer (cyclo stout? something like that ... 13% ABV?)
 ... more
 
-Monday 20181022 Starting weight 156.00 / 155.1, 50 bpm, 51.1F (Heritage Hills)
+Monday 20181022 weight 156.00 / 155.1, 50 bpm, 51.1F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -6897,7 +6897,7 @@ noon lunch
 6:15 final calories
 160 1 oz. mixed nuts
 
-Tuesday 20181023 Starting weight 154.50 / 153.3, 51 bpm, 53.8F (Heritage Hills)
+Tuesday 20181023 weight 154.50 / 153.3, 51 bpm, 53.8F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -6936,7 +6936,7 @@ Tuesday 20181023 Starting weight 154.50 / 153.3, 51 bpm, 53.8F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20181024 Starting weight 153.50 / 152.1, ?? bpm, 49.5F
+Wednesday 20181024 weight 153.50 / 152.1, ?? bpm, 49.5F
 
 5:15 wake-up
 10 double espresso
@@ -6990,7 +6990,7 @@ Wednesday 20181024 Starting weight 153.50 / 152.1, ?? bpm, 49.5F
 240 12 dates
 160 1 oz. mixed nuts
 
-Thursday 20181025 Starting weight ? / 154.5, 44 bpm, 64.4F (Gold Canyon)
+Thursday 20181025 weight ? / 154.5, 44 bpm, 64.4F (Gold Canyon)
 
 4:15 wake-up
 10 double espresso
@@ -7010,7 +7010,7 @@ Thursday 20181025 Starting weight ? / 154.5, 44 bpm, 64.4F (Gold Canyon)
 1000? 11" vegan pizza (dairy-free cheese) w/ ton of toppings
 266? 16 oz.? 5.5% ABV SanTan Devil's Ale
 
-Friday 20181026 Starting weight ? / 157.8, 47 bpm, 68F (Gold Canyon)
+Friday 20181026 weight ? / 157.8, 47 bpm, 68F (Gold Canyon)
 
 All I wrote down, but not all I consumed, at the time (2018)
 oatmeal
@@ -7051,12 +7051,12 @@ I had written (elsewhere):
   weight and I think I was a bit sluggish coming out of some of the aid
   stations.
 
-Monday 20181029 Starting weight ? / 164.5, 45 bpm, 71F (Gold Canyon)
+Monday 20181029 weight ? / 164.5, 45 bpm, 71F (Gold Canyon)
 
 533 normal oatmeal, but without Udo's oil + 3 flaxseed oil capsules
 2 glasses of soy milk (to finish it off)
 
-Tuesday 20181030 Starting weight 162.5 / 161.2, 42 bpm, 48.6F (Heritage Hills)
+Tuesday 20181030 weight 162.5 / 161.2, 42 bpm, 48.6F (Heritage Hills)
 
 7:15 post run breakfast
 533 normal oatmeal
@@ -7097,7 +7097,7 @@ p
 6:30 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20181031 Starting weight 157.5 / 156.2, 48 bpm, 42.6F (Heritage Hills)
+Wednesday 20181031 weight 157.5 / 156.2, 48 bpm, 42.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7144,7 +7144,7 @@ Wednesday 20181031 Starting weight 157.5 / 156.2, 48 bpm, 42.6F (Heritage Hills)
 6:30 final calories
 320 2 oz. mixed nuts
 
-Thursday 20181101 Starting weight 154.5 / 153.0, 44 bpm, 36.1F (Heritage Hills)
+Thursday 20181101 weight 154.5 / 153.0, 44 bpm, 36.1F (Heritage Hills)
 
 7:15? post 8.9 mile run breakfast
 533 normal oatmeal
@@ -7188,7 +7188,7 @@ fritos
 
 5 oz. mixed nuts
 
-Friday 20181102 Starting weight 155.0 / 152.8, 49 bpm, 36.3F (Heritage Hills)
+Friday 20181102 weight 155.0 / 152.8, 49 bpm, 36.3F (Heritage Hills)
 
 6:25 - 7:45 during 13.1 mile run
 180 3 tablespoons of chia seeds in 20 oz. water
@@ -7218,7 +7218,7 @@ noon lunch
 200? 4? cups pumpkin soup
 1000? bowl of remaining leftover anasazi beans and lentils
 
-Saturday 20181103 Starting weight ? /? ? bpm, 30F (Cuba, DPTR campground)
+Saturday 20181103 weight ? /? ? bpm, 30F (Cuba, DPTR campground)
 
 4:45 wake-up
 10 double espresso
@@ -7252,7 +7252,7 @@ apple
 *** handful of probably non-vegan cookies
 *** bunch of potato chips, some of which had cheese flavoring
 
-Sunday 20181104 Starting weight ? /? ? bpm, 19F (Cuba, DPTR campground)
+Sunday 20181104 weight ? /? ? bpm, 19F (Cuba, DPTR campground)
 
 5:15 wake-up
 10 double espresso
@@ -7279,7 +7279,7 @@ Sunday 20181104 Starting weight ? /? ? bpm, 19F (Cuba, DPTR campground)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Monday 20181105 Starting weight 158.25 / 156.5 42 bpm, 38.7F (Heritage Hills)
+Monday 20181105 weight 158.25 / 156.5 42 bpm, 38.7F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7315,7 +7315,7 @@ noon lunch
 6:00 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181106 Starting weight 155.00 / 153.7 41 bpm, 39.2F (Heritage Hills)
+Tuesday 20181106 weight 155.00 / 153.7 41 bpm, 39.2F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7357,7 +7357,7 @@ Tuesday 20181106 Starting weight 155.00 / 153.7 41 bpm, 39.2F (Heritage Hills)
 100 leftover chips
  20 leftover pickle
 
-Wednesday 20181107 Starting weight 153.00 / 150.7 45 bpm, 35.8F
+Wednesday 20181107 weight 153.00 / 150.7 45 bpm, 35.8F
 
 5:15 wake-up
 10 double espresso
@@ -7400,7 +7400,7 @@ post ARR meeting snack
 8:30 post mission beer
 320? 11.2 oz. 11.3% ABV Rochefort 10
 
-Thursday 20181108 Starting weight 153.00 / 151.3 48 bpm, 34.7F
+Thursday 20181108 weight 153.00 / 151.3 48 bpm, 34.7F
 
 5:15 wake-up
 10 double espresso
@@ -7434,7 +7434,7 @@ Thursday 20181108 Starting weight 153.00 / 151.3 48 bpm, 34.7F
 6:00 final calories
 2 oz. mixed nuts
 
-Friday 20181109 Starting weight 151.50 / 149.9 47 bpm, 23.7F
+Friday 20181109 weight 151.50 / 149.9 47 bpm, 23.7F
 
 5:15 wake-up
 10 double espresso
@@ -7487,7 +7487,7 @@ Friday 20181109 Starting weight 151.50 / 149.9 47 bpm, 23.7F
 6:30 final calories (was still hungry)
 320 2 oz. mixed nuts
 
-Saturday 20181110 Starting weight 151.50 / 150.1 47 bpm, 28.6F (Alameda & River)
+Saturday 20181110 weight 151.50 / 150.1 47 bpm, 28.6F (Alameda & River)
 
 5:15 wake-up
 10 double espresso
@@ -7527,7 +7527,7 @@ remainder of beans and lentils with 5 green chiles added
 
 some of Scout's food
 
-Sunday 20181111 Starting weight ? / ? ? bpm, 40F (Gila)
+Sunday 20181111 weight ? / ? ? bpm, 40F (Gila)
 
 This list is imprecise and incomplete
 
@@ -7553,7 +7553,7 @@ vegan cookies (two different kinds)
 nuts
 dates
 
-Monday 20181112 Starting weight 156.75 / 155.0 46 bpm, 28.6F (Heritage Hills)
+Monday 20181112 weight 156.75 / 155.0 46 bpm, 28.6F (Heritage Hills)
 
 5:15 wake-up
 20 2x double espresso
@@ -7600,7 +7600,7 @@ Monday 20181112 Starting weight 156.75 / 155.0 46 bpm, 28.6F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181113 Starting weight 153.50 / 151.8 42 bpm, 17.1F (Heritage Hills)
+Tuesday 20181113 weight 153.50 / 151.8 42 bpm, 17.1F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7644,7 +7644,7 @@ Tuesday 20181113 Starting weight 153.50 / 151.8 42 bpm, 17.1F (Heritage Hills)
 6:00 final calories
 160 1 oz. mixed nuts
 
-Wednesday 20181114 Starting weight 152.00 / 150.1 47 bpm, 22.5F (Heritage Hills)
+Wednesday 20181114 weight 152.00 / 150.1 47 bpm, 22.5F (Heritage Hills)
 
 HR was probably a little high; I took it after my quad espresso.
 
@@ -7704,7 +7704,7 @@ HR was probably a little high; I took it after my quad espresso.
 8:45 late night snack
 320 2 oz. mixed nuts
 
-Thursday 20181115 Starting weight 152.50 / 151.3 47 bpm, 27.1F (Heritage Hills)
+Thursday 20181115 weight 152.50 / 151.3 47 bpm, 27.1F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7747,7 +7747,7 @@ Thursday 20181115 Starting weight 152.50 / 151.3 47 bpm, 27.1F (Heritage Hills)
 handfulls of mixed nuts
 huge handful of dates
 
-Friday 20181116 Starting weight 155.25 / 152.8 ?? bpm, 27.3F (Heritage Hills)
+Friday 20181116 weight 155.25 / 152.8 ?? bpm, 27.3F (Heritage Hills)
 
 Yipes! Wound up eating from Anodyne's vending machine and that wasn't
 enough, so I wound up eating on the drive back to Mike's and home,
@@ -7786,7 +7786,7 @@ at that ABV if it was going to have that big of an effect on my diet.
 6:00 final calories
 320 2 oz. mixed nuts
 
-Saturday 20181117 Starting weight 152.75 / 151.6 48 bpm, 36.4F (Sandia Heights)
+Saturday 20181117 weight 152.75 / 151.6 48 bpm, 36.4F (Sandia Heights)
 
 5:15 wake-up
 20 quad espresso
@@ -7829,7 +7829,7 @@ post La Luz run
 6:00 final calories
 320 2 oz. mixed nuts
 
-Sunday 20181118 Starting weight 153.50 / 151.8 53 bpm, 28.6F (Alameda & River)
+Sunday 20181118 weight 153.50 / 151.8 53 bpm, 28.6F (Alameda & River)
 
 Took HR after core.  That's probably why it's so crazy high.
 
@@ -7891,7 +7891,7 @@ inaccurate.
 460  1 bowl 2 cups lentils and extra water (w/o chile)
 320 2 oz. mixed nuts
 
-Monday 20181119 Starting weight 151.50 / 150.1 48 bpm, 23.9F (Heritage Hills)
+Monday 20181119 weight 151.50 / 150.1 48 bpm, 23.9F (Heritage Hills)
 
 5:15 wake-up
 20 2x double espresso
@@ -7947,7 +7947,7 @@ Monday 20181119 Starting weight 151.50 / 150.1 48 bpm, 23.9F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181120 Starting weight 152.50 / 151.2 46 bpm, 21.0F (Heritage Hills)
+Tuesday 20181120 weight 152.50 / 151.2 46 bpm, 21.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -7999,7 +7999,7 @@ Tuesday 20181120 Starting weight 152.50 / 151.2 46 bpm, 21.0F (Heritage Hills)
 640? 4? oz. mixed nuts courtesy of tipsy eating
 360? 36? dates courtesy of tipsy eating
 
-Wednesday 20181121 Starting weight 154.00 / 153.1 51 bpm, 24.4F (Heritage Hills)
+Wednesday 20181121 weight 154.00 / 153.1 51 bpm, 24.4F (Heritage Hills)
 
 HR was way high due to alcohol last night and quad espresso in the morning
 (about an hour and a quarter before I tried to get my reading).
@@ -8054,7 +8054,7 @@ HR was way high due to alcohol last night and quad espresso in the morning
 6:00 final calories
 320 2 oz. mixed nuts
 
-Thursday 20181122 Starting weight 153.25 / 152.1 47 bpm, 30.6F (Heritage Hills)
+Thursday 20181122 weight 153.25 / 152.1 47 bpm, 30.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8103,7 +8103,7 @@ Thursday 20181122 Starting weight 153.25 / 152.1 47 bpm, 30.6F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Friday 20181123 Starting weight 155.00 / 153.3 55 bpm, 35.8F (Heritage Hills)
+Friday 20181123 weight 155.00 / 153.3 55 bpm, 35.8F (Heritage Hills)
 
 Temperature was at 5:30, but today I won't run until 11:30, since
 today is the Black Friday Turkey Trots. HR is ridiculously high,
@@ -8155,7 +8155,7 @@ noon post-race calories
 6:00 final calories
 320 2 oz. mixed nuts
 
-Saturday 20181124 Starting weight 156.50 / 155.4? 52 bpm, 24.8F (Alameda & River)
+Saturday 20181124 weight 156.50 / 155.4? 52 bpm, 24.8F (Alameda & River)
 
 5:15 wake-up
 10 double espresso
@@ -8190,7 +8190,7 @@ misc. other snacks
 6:15 steamed veggies (and final calories)
 75  medium bowl steamed broccoli and cauliflower
 
-Sunday 20181125 Starting weight 159.00 / 157.4? 44 bpm, 31.9F (Alameda & River)
+Sunday 20181125 weight 159.00 / 157.4? 44 bpm, 31.9F (Alameda & River)
 
 5:15 wake-up
 10 double espresso
@@ -8224,7 +8224,7 @@ Sunday 20181125 Starting weight 159.00 / 157.4? 44 bpm, 31.9F (Alameda & River)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Monday 20181126 Starting weight 156.75 / 155.2 50 bpm, 27.1F (Heritage Hills)
+Monday 20181126 weight 156.75 / 155.2 50 bpm, 27.1F (Heritage Hills)
 32.7F at end of run.
 
 5:15 wake-up
@@ -8270,7 +8270,7 @@ Monday 20181126 Starting weight 156.75 / 155.2 50 bpm, 27.1F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181127 Starting weight 154.50 / 152.8 48 bpm, 25.7F (Heritage Hills)
+Tuesday 20181127 weight 154.50 / 152.8 48 bpm, 25.7F (Heritage Hills)
 36.7F at end
 
 5:15 wake-up
@@ -8310,7 +8310,7 @@ Tuesday 20181127 Starting weight 154.50 / 152.8 48 bpm, 25.7F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20181128 Starting weight 153.50 / 152.0 50 bpm, 27.0F (Heritage Hills)
+Wednesday 20181128 weight 153.50 / 152.0 50 bpm, 27.0F (Heritage Hills)
 
 5:15 wake-up
 20 quad espresso
@@ -8365,7 +8365,7 @@ Wednesday 20181128 Starting weight 153.50 / 152.0 50 bpm, 27.0F (Heritage Hills)
 9:00 final calories
 320 2 oz. mixed nuts
 
-Thursday 20181129 Starting weight 155.25 / 154.0 48 bpm, 36.0F (Heritage Hills)
+Thursday 20181129 weight 155.25 / 154.0 48 bpm, 36.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8413,7 +8413,7 @@ Thursday 20181129 Starting weight 155.25 / 154.0 48 bpm, 36.0F (Heritage Hills)
 9:30 "late" night snack
 640 4 oz. mixed nuts
 
-Friday 20181130 Starting weight 155.50 / 154.4 53 bpm, 42.0F (Heritage Hills)
+Friday 20181130 weight 155.50 / 154.4 53 bpm, 42.0F (Heritage Hills)
 
 Jeff dropped by Anodyne last night, so Mike, Jeff and I rotated on the
 table, letting the winner continue shooting.  So I was there later
@@ -8461,7 +8461,7 @@ Programming Rust.  Chose to do a second double espresso to get me moving.
 6:00 final calories
 320 2 oz. mixed nuts
 
-Saturday 20181201 Starting weight 153.75 / 152.8 48 bpm, 32.1F (Alameda & River)
+Saturday 20181201 weight 153.75 / 152.8 48 bpm, 32.1F (Alameda & River)
 
 Was impatient when taking HR.  It is probably lower.
 
@@ -8511,7 +8511,7 @@ Mom's house (dropping off Elvis, updating MacOS)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Sunday 20181202 Starting weight 156.00 / 154.5 48 bpm, 33.3F (Heritage Hills)
+Sunday 20181202 weight 156.00 / 154.5 48 bpm, 33.3F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8555,7 +8555,7 @@ Sunday 20181202 Starting weight 156.00 / 154.5 48 bpm, 33.3F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Monday 20181203 Starting weight 155.25 / 153.7 49 bpm, 19.2F (Heritage Hills)
+Monday 20181203 weight 155.25 / 153.7 49 bpm, 19.2F (Heritage Hills)
 30.9F at end
 
 5:15 wake-up
@@ -8600,7 +8600,7 @@ Monday 20181203 Starting weight 155.25 / 153.7 49 bpm, 19.2F (Heritage Hills)
 5:50 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20181204 Starting weight 154.75 / 153.1 46 bpm, 21.2F (Heritage Hills)
+Tuesday 20181204 weight 154.75 / 153.1 46 bpm, 21.2F (Heritage Hills)
 26.1F at end
 
 5:15 wake-up
@@ -8639,7 +8639,7 @@ Tuesday 20181204 Starting weight 154.75 / 153.1 46 bpm, 21.2F (Heritage Hills)
 6:00 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20181205 Starting weight 153.25 / 151.3 45 bpm, 17.8F (Heritage Hills)
+Wednesday 20181205 weight 153.25 / 151.3 45 bpm, 17.8F (Heritage Hills)
 29.3F at end
 
 5:15 wake-up
@@ -8698,7 +8698,7 @@ Wednesday 20181205 Starting weight 153.25 / 151.3 45 bpm, 17.8F (Heritage Hills)
 ??? 8 oz.? %? ABV red wine
 tons of "food"
 
-Thursday 20181206 Starting weight 158.50 / 156.3 51 bpm, 28.4F (Heritage Hills)
+Thursday 20181206 weight 158.50 / 156.3 51 bpm, 28.4F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8746,7 +8746,7 @@ tons of nuts (7 oz.?)
 some nut balls (5?)
 
 
-Friday 20181207 Starting weight 158.50 / 156.3 ?? bpm, 33.6F (Heritage Hills)
+Friday 20181207 weight 158.50 / 156.3 ?? bpm, 33.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8795,7 +8795,7 @@ get around to measuring my HR.
 6:00 final calories
 480 3 oz. mixed nuts
 
-Saturday 20181208 Starting weight 157.00 / 155.6 48 bpm, 32.0F (Sandia Heights)
+Saturday 20181208 weight 157.00 / 155.6 48 bpm, 32.0F (Sandia Heights)
 
 5:15 wake-up
 10 double espresso
@@ -8850,7 +8850,7 @@ Saturday 20181208 Starting weight 157.00 / 155.6 48 bpm, 32.0F (Sandia Heights)
 6:00 final calories
 480 3 oz. mixed nuts
 
-Sunday 20181209 Starting weight 156.00 / 154.9 48 bpm, 25.0F (Heritage Hills)
+Sunday 20181209 weight 156.00 / 154.9 48 bpm, 25.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -8889,7 +8889,7 @@ Sunday 20181209 Starting weight 156.00 / 154.9 48 bpm, 25.0F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Monday 20181210 Starting weight 155.50 / 153.8 45 bpm, 29.7F (Heritage Hills)
+Monday 20181210 weight 155.50 / 153.8 45 bpm, 29.7F (Heritage Hills)
 forgot to check when done, but a half hour after finishing it was 38.7F
 
 5:15 wake-up
@@ -8936,7 +8936,7 @@ forgot to check when done, but a half hour after finishing it was 38.7F
  75 small orange
 230 10 dates
 
-Tuesday 20181211 Starting weight 156.75 / 154.8 45 bpm, 31.1F (Heritage Hills)
+Tuesday 20181211 weight 156.75 / 154.8 45 bpm, 31.1F (Heritage Hills)
 3?.?F at end
 
 5:15 wake-up
@@ -8975,7 +8975,7 @@ Tuesday 20181211 Starting weight 156.75 / 154.8 45 bpm, 31.1F (Heritage Hills)
  60 medium gala apple
 
 
-Wednesday 20181212 Starting weight 155.75 / 154.0 51 bpm, 24.6F (Heritage Hills)
+Wednesday 20181212 weight 155.75 / 154.0 51 bpm, 24.6F (Heritage Hills)
 37.9F at end
 
 HR taken 45 minutes after quad espresso, so is probably higher than if
@@ -9035,7 +9035,7 @@ and still think I did the right thing.
 
 225? 3? energy nut balls
 
-Thursday 20181213 Starting weight 157.00 / 155.0 52 bpm, 27.5F (Heritage Hills)
+Thursday 20181213 weight 157.00 / 155.0 52 bpm, 27.5F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -9081,7 +9081,7 @@ Thursday 20181213 Starting weight 157.00 / 155.0 52 bpm, 27.5F (Heritage Hills)
 8:15 "late night" snack
 320 2 oz. mixed nuts
 
-Friday 20181214 Starting weight 155.75 / 154.4 52 bpm, 27.9F (Heritage Hills)
+Friday 20181214 weight 155.75 / 154.4 52 bpm, 27.9F (Heritage Hills)
 30.2F at end
 
 5:15 wake-up
@@ -9121,7 +9121,7 @@ Friday 20181214 Starting weight 155.75 / 154.4 52 bpm, 27.9F (Heritage Hills)
 5:45 final calories
 480 3 oz. mixed nuts
 
-Saturday 20181215 Starting weight 154.00 / 152.8 55 bpm, 24.0F (Alameda & River)
+Saturday 20181215 weight 154.00 / 152.8 55 bpm, 24.0F (Alameda & River)
 approx. 37F at end (didn't look it up; hung out w/Team RWB)
 
 Took HR 35 minutes after quad espresso and wasn't patient, so it's higher than
@@ -9175,7 +9175,7 @@ had a "normal" HR.
 6:00 final calories
 480 3 oz. mixed nuts
 
-Sunday 20181216 Starting weight 158.25 / 156.3 48 bpm, 24.6F (Alameda & River)
+Sunday 20181216 weight 158.25 / 156.3 48 bpm, 24.6F (Alameda & River)
 
 5:15 wake-up
 10 double espresso
@@ -9228,7 +9228,7 @@ noon lunch
 6:00 final calories
 320 2 oz. mixed nuts
 
-Monday 20181217 Starting weight 156.50 / 154.4 50 bpm, 36.5F (Heritage Hills)
+Monday 20181217 weight 156.50 / 154.4 50 bpm, 36.5F (Heritage Hills)
 44.2F at end
 
 5:15 wake-up
@@ -9274,7 +9274,7 @@ Monday 20181217 Starting weight 156.50 / 154.4 50 bpm, 36.5F (Heritage Hills)
 4:30 final calories during They Shall Not Grow Old
 480 3 oz. mixed nuts
 
-Tuesday 20181218 Starting weight 155.25 / 153.3 47 bpm, 41.0F (Heritage Hills)
+Tuesday 20181218 weight 155.25 / 153.3 47 bpm, 41.0F (Heritage Hills)
 46.9 at end
 
 5:15 wake-up
@@ -9319,7 +9319,7 @@ Tuesday 20181218 Starting weight 155.25 / 153.3 47 bpm, 41.0F (Heritage Hills)
 200 2 small/medium sopapillas (Taco Shel)
 500? ? oz. corn chips (Taco Shel)
 
-Wednesday 20181219 Starting weight 157.50 / 155.1 54 bpm, 35.1F (Heritage Hills)
+Wednesday 20181219 weight 157.50 / 155.1 54 bpm, 35.1F (Heritage Hills)
 40.6F at end
 
 5:15 wake-up
@@ -9364,7 +9364,7 @@ Wednesday 20181219 Starting weight 157.50 / 155.1 54 bpm, 35.1F (Heritage Hills)
 60 gala apple
 480 3 oz. mixed nuts
 
-Thursday 20181220 Starting weight 157.25 / 155.0 47 bpm, 34.5F (Heritage Hills)
+Thursday 20181220 weight 157.25 / 155.0 47 bpm, 34.5F (Heritage Hills)
 38.5F at end
 
 5:15 wake-up
@@ -9409,7 +9409,7 @@ Thursday 20181220 Starting weight 157.25 / 155.0 47 bpm, 34.5F (Heritage Hills)
 16 oz. 9.5% ABV strong belgian
 16 oz 6% ABV cacaou (sp?) ale
 
-Friday 20181221 Starting weight 157.25 / 155.4 49 bpm, 43.9F (Heritage Hills)
+Friday 20181221 weight 157.25 / 155.4 49 bpm, 43.9F (Heritage Hills)
 49.8F at end
 
 5:15 wake-up
@@ -9454,7 +9454,7 @@ Friday 20181221 Starting weight 157.25 / 155.4 49 bpm, 43.9F (Heritage Hills)
 8:00 final calories
 480 3 oz. mixed nuts
 
-Saturday 20181222 Starting weight 158.25 / 156.4 47 bpm, 35.2F (Sandia Heights)
+Saturday 20181222 weight 158.25 / 156.4 47 bpm, 35.2F (Sandia Heights)
 
 5:15 wake-up
 20 quad espresso
@@ -9504,7 +9504,7 @@ Saturday 20181222 Starting weight 158.25 / 156.4 47 bpm, 35.2F (Sandia Heights)
 6:00 final calories
 480 3 oz. mixed nuts
 
-Sunday 20181223 Starting weight 157.25 / 156.1 48 bpm, 30.4F (Heritage Hills)
+Sunday 20181223 weight 157.25 / 156.1 48 bpm, 30.4F (Heritage Hills)
 
 Was too cold to go bike riding when I got up.  Did some programming before
 doing my core.
@@ -9556,7 +9556,7 @@ doing my core.
 6:00 final calories
 480 3 oz. mixed nuts
 
-Monday 20181224 Starting weight 158.75 / 157.2 51 bpm, 29.5F (Heritage Hills)
+Monday 20181224 weight 158.75 / 157.2 51 bpm, 29.5F (Heritage Hills)
 43.9
 
 Don't know why my HR is so high.  Weight is probably a pound or so high due
@@ -9614,7 +9614,7 @@ to me not having pooped a second time before eating my cereal.
  60 gala apple
 250 3 medium oranges 
 
-Tuesday 20181225 Starting weight 159.75 / 158.0 ?? bpm, 29.8F (Heritage Hills)
+Tuesday 20181225 weight 159.75 / 158.0 ?? bpm, 29.8F (Heritage Hills)
 38.8 at end
 
 Forgot to take HR before doing core.  Briefly tried after core, but it
@@ -9706,7 +9706,7 @@ got called for SAR mission
 back from SAR driving (told to stand down before getting to IB)
 2x 12 oz. 4.7% ABV Newcastle Brown Ales
 
-Thursday 20181227 Starting weight 163.00 / 161.3 50 bpm, 28.2F (Heritage Hills)
+Thursday 20181227 weight 163.00 / 161.3 50 bpm, 28.2F (Heritage Hills)
 28.5F at end
 
 Did not have internet at end, but car said 29F when I was driving to Winning,
@@ -9755,7 +9755,7 @@ a half hour later
 10:20 final calories
 250 5 Cuties
 
-Friday 20181228 Starting weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
+Friday 20181228 weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
 24.3F at end
 
 5:15 wake-up
@@ -9802,7 +9802,7 @@ Friday 20181228 Starting weight 161.00 / 159.4 48 bpm, 21.9F (Heritage Hills)
 5:45 final calories
 480 3 oz. mixed nuts
 
-Saturday 20181229 Starting weight 158.50 / 156.9 49 bpm, 8.7F (Alameda & River)
+Saturday 20181229 weight 158.50 / 156.9 49 bpm, 8.7F (Alameda & River)
 approx. ??F at end (based on car thermometer)
 
 5:15 wake-up
@@ -9841,7 +9841,7 @@ At Marcia & Jeff's I had a Taddy Porter and some vegan Indian food.
 When I got home, just slightly after 6pm, I had 3 oz. of mixed nuts
 (480 calories) as my final calories.
 
-Sunday 20181230 Starting weight 157.50 / 155.5 48 bpm, 16.9F (Heritage Hills)
+Sunday 20181230 weight 157.50 / 155.5 48 bpm, 16.9F (Heritage Hills)
 
 8:10 post core, pre-run (if I chose to run) breakfast
 533 normal oatmeal
@@ -9888,7 +9888,7 @@ Sunday 20181230 Starting weight 157.50 / 155.5 48 bpm, 16.9F (Heritage Hills)
 300 medium avocado
 480 3 oz. mixed nuts
 
-Monday 20181231 Starting weight 157.50 / 155.5 49 bpm, 13.5F (Heritage Hills)
+Monday 20181231 weight 157.50 / 155.5 49 bpm, 13.5F (Heritage Hills)
 28.4 at end
 
 5:22 wake-up (didn't hear my alarm)
