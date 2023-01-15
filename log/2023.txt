@@ -257,7 +257,7 @@ researching euthanization and burial for dogs.  Lost steam.
 10 double espresso
 
 7:00 post core protein
-??? baggie (the last) of homemade seitan
+??? baggie of homemade seitan
 
 10:50 fruit snack
 160 two oranges
@@ -630,11 +630,124 @@ nothing
 4:00 snack
 ??? 2x (small corn tortilla, peanut butter, mustard)
 
-ANTICIPATED
-
 4:30 dinner
-??? lentils (2/3rd cup in 2 cups water), bourbon medium sauce
+??? lentils (2/3rd cup in 2 cups water), plain (no Tabasco or sauce)
 
 5:00 nut & date snack
 340 2 oz. mixed nuts
+
+7:15 date snack
 230 10 dates
+
+Friday 20230113 weight 161.3 30.0F 62% humidity @ 7:58 (Sevano Circle)
+https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
+??.?F ??% humidity at finish
+
+weight was at 5:32
+
+5:15 wake-up
+10 double espresso
+
+6:15 - 6:25 pre-run calories
+500 normal oatmeal (without Udo's oil)
+
+I was planning on runing 13.1 miles this morning, but I wound up playing
+with higher order functions in Rust, instead.  Specifically, the article
+https://www.jernesto.com/articles/who_needs_haskell.html got me going.
+
+10:50 fruit snack
+ 60 apple
+160 two cara cara oranges
+120 banana
+
+11:15 early lunch
+??? navy & black beans (1/3rd cup of each in 3 cups water, cooked for 3 hours),
+    15 squirts of Tabasco
+
+11:30 lunch continued
+??? medium salad (mixed greens, cucumber, garlic, red pepper, onion, carrot)
+50? medium bowl broccoli & cauliflower
+
+51F 22% humdity at 13:01
+
+2:45 afternoon snack
+??? 2x (small corn tortilla, peanut butter, mustard)
+
+3:30 "recovery" liquids
+ 20? green drink (no apple or fruit)
+ 50? 16 oz. rice milk
+??? small amount (the rest) of peanut butter left in the jar
+
+4:45 late dinner
+??? lentils (2/3rd cup in 2 cups water), plain (no Tabasco or sauce)
+
+5:20 late nut snack
+340 2 oz. mixed nuts
+
+5:30 because it's there
+500 normal oatmeal (without Udo's oil)
+
+7:30 final calories
+ 90 two packages of crackers
+460 20 dates
+??? handful of black grapes
+
+Saturday 20230114 weight 161.3
+
+weight was at 5:27
+
+5:15 wake-up
+533 normal oatmeal
+20 quad espresso
+
+5:30 pre-run calories
+533 normal oatmeal
+  0 400mg ibuprofen (hot-spot)
+
+6:58 pre-run bonus caffeine
+20 quad espresso
+
+7:30 - 9:54 during 9.42 mile 35.1# ruck run
+600 2x (20 oz. water, 3 scoops of Tailwind)
+
+10:00 post run recovery
+24 oz. rice milk
+
+10:30 back home recovery
+500 normal oatmeal
+
+10:50 fruit snack
+ 60 apple
+160 two cara cara oranges
+120 banana
+
+11:15 more recovery liquid
+ 20? green drink (no apple or fruit)
+
+11:30 lunch
+??? lentils (2/3rd cup in 2 cups water), plain 10+ squirts (the rest) Tabasco
+??? medium salad (mixed greens, cucumber, garlic, red pepper, onion, carrot)
+50? medium bowl broccoli & cauliflower
+
+2:40 protein snack
+??? handful of black grapes
+280 bag of edamame
+
+3:00 more protein snack
+??? baggie (the last) of homemade seitan
+
+4:45 late dinner
+??? lentils (2/3rd cup in 2 cups water), plain (no Tabasco or sauce)
+
+5:00 nut snack
+340 2 oz. mixed nuts
+
+5:05 grape snack
+??? handful (the rest) black grapes
+??? half dozen or so (the rest) green grapes
+
+ANTICIPATED
+
+?:?? date snack
+230 10 dates
+
