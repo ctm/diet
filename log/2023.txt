@@ -639,6 +639,8 @@ nothing
 7:15 date snack
 230 10 dates
 
+Total Sleep 8:25, Deep: 1:17, HR: 56bpm
+
 Friday 20230113 weight 161.3 30.0F 62% humidity @ 7:58 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 ??.?F ??% humidity at finish
@@ -691,6 +693,8 @@ https://www.jernesto.com/articles/who_needs_haskell.html got me going.
  90 two packages of crackers
 460 20 dates
 ??? handful of black grapes
+
+Total Sleep 7:34, Deep: 42, HR: 56bpm
 
 Saturday 20230114 weight 161.3
 
@@ -755,6 +759,8 @@ weight was at 5:27
 9:30 woke up hungry
 340 2 oz. mixed nuts
 
+Total Sleep 7:16, Deep: 1:12, HR: 56bpm
+
 Sunday 20230115 weight 161.0
 
 5:15 wake-up
@@ -799,6 +805,8 @@ Sunday 20230115 weight 161.0
 
 5:20 date snack
 230 10 dates
+
+Total Sleep 8:03, Deep: 1:33, HR: 51bpm
 
 Monday 20230116 weight 161.3 38.1F 85% humidity @ 9:51 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
@@ -849,6 +857,8 @@ nothing
 
 7:00 more dates
 460 20 dates? (I ate either 10 or 20 but forgot to write them down at the time)
+
+Total Sleep 8:27, Deep: 1:03, HR: 51bpm
 
 Tuesday 20230117 weight 160.3 40.3F 91% humidity @ 7:35 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
@@ -907,6 +917,8 @@ nothing
 11:11 trying to settle my stomach
 hunk of bread
 
+Total Sleep 8:12, Deep: 1:18, HR: 57bpm
+
 Wednesday 20230118 weight 161.6 31.8F 74% humidity @ 6:50 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 33.6F 66% humidity at finish
@@ -957,6 +969,8 @@ weight was at 5:29
 12:45 can't sleep snack
 230 10 dates
 
+Total Sleep 6:50, Deep: 1:14, HR: 52bpm
+
 Thursday 20230119 weight 159.1 24.3F 83% humidity @ 8:00 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 37.2F 57% humidity at finish
@@ -973,7 +987,7 @@ weight was at 6:33 just after my core exercises
 nothing
 
 6:32 post core protein snack
-??? bag of homemade seitan, no Tabasco or sasa
+??? bag of homemade seitan, no Tabasco or salsa
 
 8:00 - 11:08 during 15.55 mile "run"
 0 40 oz. water
@@ -1010,6 +1024,8 @@ nothing
 
 7:45 final calories
 ??? bunch (the rest) of black grapes
+
+Total Sleep 8:13, Deep: 51, HR: 53bpm
 
 Friday 20230120 weight 160.7 25.2F 81% humidity @ 6:58 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
@@ -1065,6 +1081,8 @@ noon at lunch at Central Bodega
 
 7:55 final calories
 ??? bowl (the rest) of noodles with beet sauce
+
+Total Sleep 8:10, Deep: 1:31, HR: 55bpm
 
 Saturday 20230121 weight 161.1
 
@@ -1126,6 +1144,8 @@ nothing
 1130 "midnight" snack
 230 10 dates
 
+Total Sleep 6:54, Deep: 1:26, HR: 54bpm
+
 Sunday 20230122 weight 161.2 23.5F 77% humidity @ 8:24 (Sevano Circle)
 https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 36.9F 48% humidity at finish
@@ -1149,13 +1169,129 @@ noon post-run breakfast & fruit snack
 100 two clementines
 120 banana
  60 apple
+  0 two bowls of previously-used-to-make-seitan broth
 
-ANTICIPATED
+12:45 late (beginning of) lunch
+??? lentils (2/3rd cup in 2 cups water), 10 squirts Tabasco
 
+I wound up eating tortilla strips because Sophie largely had the
+kitchen tied up all day, so there was no time when it was convenient
+for me to make salads and green drinks.  As such, I wound up never
+having my green drink and only eventually made a single salad, meaning
+I started Monday with no pre-made salads or green drinks.
+
+1:30 more snacking
+??? bowl of tortilla strips with Sadie's Hot Salsa
+??? bowl of tortilla strips, plain
+
+2:00? didn't want to wait for salad (which I never had)
+50? medium bowl broccoli & cauliflower
+
+4:30 dinner
+??? lentils (2/3rd cup in 2 cups water), no Tabasco
+
+5:00 nut & date snack
+340 2 oz. mixed nuts
+230 10 dates
+
+5:30? late salad
+??? medium salad (mixed greens, cucumber, garlic, orange bell pepper, onion,
+    carrot, radish, lemon)
+
+7:30 final calories
+??? bowl of pinto beans
+
+Total Sleep 8:28, Deep: 50, HR: 52bpm
+
+Monday 20230123 weight 162.0 35.2F 51% humidity @ 8:33 (Sevano Circle)
+https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
+36.3F 49% humidity at finish
+
+crazy wind
+
+weight was 162.7 at 5:30
+weight was at 7:15
+
+5:15 wake-up
+20 quad espresso
+
+8:18 pre-run bonus caffeine
+20 quad espresso
+
+8:35 - 9:38 during 5.54 mile interval pack run
+150 10 oz. (the rest) water with 1 1/2 scoops of Tailwind
+
+9:45 post-run breakfast
+1000 2x normal oatmeal (without Udo's oil)
+??? bag of homemade seitan, no Tabasco or salsa, but extra broth
+0 bowl of seitan broth
+
+10:30 fruit snack
+300 avocado
+120 banana
+ 60 mealy red apple
+100 two clementines 
+
+11:05 early lunch
+lentils, 10 squirts
+
+1:30 rest of lunch
+??? medium salad (mixed greens, cucumber, garlic, orange bell pepper, onion,
+    carrot, radish, lemon, two tiny dill pickles)
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
+3:00 afternoon snack
+??? three slices of Costco bread, each with mustard
+
+4:30 dinner
+??? bowl of pinto beans, with Sophie's homemade red chile
+
+5:10 nut and date snack
+340 2 oz. mixed nuts
+230 10 dates
+
+7:00 final calories
+??? four slices of Costco bread, each with mustard
+
+Total Sleep 8:14, Deep: 1:23, HR: 50bpm
+
+Tuesday 20230124 weight 161.8 30.0F 71% humidity @ 8:53 (Sevano Circle)
+https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
+40.8F 53% humidity at finish
+
+weight was at 6:50, well after finishing my core exercises
+
+5:15 wake-up
+10 double espresso
+
+5:15 - 6:33 core exercises
+nothing
+
+6:53 post core protein snack
+??? half baggie of homemade seitan
+
+8:45 pre-run bonus caffeine
+10 double espresso
+
+9:00 - noon during 15.5 mile run
+0 32 oz. water (had 40)
+
+12:15 post run breakfast
+1000 2x normal oatmeal (without Udo's oil)
+??? fresh (still warm) homemade tortilla
+ 20? green drink (no apple or fruit)
+240 two bananas
+ 60 apple
+
+12:45 late lunch
 ??? lentils (2/3rd cup in 2 cups water), 10 squirts Tabasco
-??? medium salad (mixed greens, cucumber, garlic, yellow pepper, onion, carrot,
-    radish, lemon, four tiny dill pickles, red chile pepper)
+??? medium salad (mixed greens, cucumber, garlic, orange bell pepper, onion,
+    carrot, radish, lemon, two tiny dill pickles)
 50? medium bowl broccoli & cauliflower
+50? 16 oz. rice milk
+
+3:00 afternoon snack
+??? 2x (homemade tortilla, peanut butter, mustard)
+
+ANTICIPATED
