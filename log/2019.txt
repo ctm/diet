@@ -1,7 +1,7 @@
 This was initially a single file until it got too large.  There's
 some info in 2018.txt that explains a bit about what is going on here.
 
-Tuesday 20190101 Starting weight 159.50 / 157.7 49 bpm, 23.9F (Heritage Hills)
+Tuesday 20190101 weight 159.50 / 157.7 49 bpm, 23.9F (Heritage Hills)
 
 5:15 wake-up
 20 quad espresso
@@ -35,7 +35,7 @@ sources
 
 after 6pm I had chips and New Years Day salsa
 
-Wednesday 20190102 Starting weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
+Wednesday 20190102 weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -92,7 +92,7 @@ Wednesday 20190102 Starting weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
 5:45 final snack
 480 3 oz. mixed nuts
 
-Thursday 20190103 Starting weight 158.75 / 157.1 49 bpm, 14.9F (Heritage Hills)
+Thursday 20190103 weight 158.75 / 157.1 49 bpm, 14.9F (Heritage Hills)
 18.3F at end
 
 5:18 wake-up (forgot to set alarm)
@@ -127,7 +127,7 @@ Clif Bar (may not be vegan)
 3? Snickers (probably not vegan)
 handfuls of nuts
 
-Friday 20190104 Starting weight 162.25 / 160.2 48 bpm, 22.6F (Heritage Hills)
+Friday 20190104 weight 162.25 / 160.2 48 bpm, 22.6F (Heritage Hills)
 32.4F at end
 
 5:15 wake-up
@@ -168,7 +168,7 @@ Friday 20190104 Starting weight 162.25 / 160.2 48 bpm, 22.6F (Heritage Hills)
 6:00 final calories
 480 3 oz. mixed nuts
 
-Saturday 20190105 Starting weight 159.75 / 158.4 45 bpm, 24.4F (Sandia Heights)
+Saturday 20190105 weight 159.75 / 158.4 45 bpm, 24.4F (Sandia Heights)
 35.6 40 minutes after end
 
 5:15 wake-up
@@ -223,7 +223,7 @@ Saturday 20190105 Starting weight 159.75 / 158.4 45 bpm, 24.4F (Sandia Heights)
 6:00 final calories
 200 1.25 oz. mixed nuts
 
-Sunday 20190106 Starting weight 158.50 / 157.2 48 bpm, 38.5F (Heritage Hills)
+Sunday 20190106 weight 158.50 / 157.2 48 bpm, 38.5F (Heritage Hills)
 42.6F at end
 
 I got to the Alameda Open Space at 6:50 and there was enough ice in the
@@ -272,7 +272,7 @@ parking lot to convince me that riding was a bad idea, so I drove home.
 5:45 final calories
 480 3 oz. mixed nuts
 
-Monday 20190107 Starting weight 159.25 / 157.2 50 bpm, 28.4F (Heritage Hills)
+Monday 20190107 weight 159.25 / 157.2 50 bpm, 28.4F (Heritage Hills)
 36.6 a half hour after I finished (forgot to look)
 
 5:15 wake-up
@@ -328,7 +328,7 @@ Monday 20190107 Starting weight 159.25 / 157.2 50 bpm, 28.4F (Heritage Hills)
 6:00 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190108 Starting weight 158.75 / 157.1 51 bpm, 26.1F (Heritage Hills)
+Tuesday 20190108 weight 158.75 / 157.1 51 bpm, 26.1F (Heritage Hills)
 32.7F at end
 
 5:15 wake-up
@@ -375,7 +375,7 @@ Tuesday 20190108 Starting weight 158.75 / 157.1 51 bpm, 26.1F (Heritage Hills)
 900? ton of peanuts (maybe 1/4 of the bag)
 230 10 dates
 
-Wednesday 20190109 Starting weight 161.25 / 159.6 57 bpm, 24.1F (Heritage Hills)
+Wednesday 20190109 weight 161.25 / 159.6 57 bpm, 24.1F (Heritage Hills)
 33.1F 15 minutes after end (forgot to check)
 
 Weight probably a pound high because I woke up to my alarm and hence
@@ -429,7 +429,7 @@ normal anyway, because 57 is awfully high even after a quad.
 8:45 bonus "late night" calories
 300? remaining peanuts
 
-Thursday 20190110 Starting weight 161.50 / 159.6 52 bpm, 28.8F (Heritage Hills)
+Thursday 20190110 weight 161.50 / 159.6 52 bpm, 28.8F (Heritage Hills)
 28.0F at end
 
 5:15 wake-up
@@ -486,7 +486,7 @@ Clif Barr
 9:00 final calories
 640 4 oz. mixed nuts
 
-Friday 20190111 Starting weight 162.00 / 159.9 58 bpm, 37.8F (Heritage Hills)
+Friday 20190111 weight 162.00 / 159.9 58 bpm, 37.8F (Heritage Hills)
 
 58bpm at 5am, 50bpm at 8am
 
@@ -525,7 +525,7 @@ noon more lunch
 8:30? hungry from unfilling dinner
 480 3 oz. mixed nuts nuts
 
-Saturday 20190112 Starting weight 162.00 / 159.6 50 bpm, 28.5F (Alameda & River)
+Saturday 20190112 weight 162.00 / 159.6 50 bpm, 28.5F (Alameda & River)
 36F at end
 
 5:15 wake-up
@@ -571,7 +571,7 @@ steamed veggies
 6:15 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190113 Starting weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
+Sunday 20190113 weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
 
 5:20 wake-up (didn't have any pre-made, so I had to make my own)
 10 double espresso
@@ -621,7 +621,7 @@ Sunday 20190113 Starting weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
 5:45 final calories
 400 20 dates
 
-Monday 20190114 Starting weight 162.00 / 159.8 56 bpm, 33.1F (Heritage Hills)
+Monday 20190114 weight 162.00 / 159.8 56 bpm, 33.1F (Heritage Hills)
 35.6F at end
 
 Got off to a slightly late start.  Had the espresso machine to put back together
@@ -684,7 +684,7 @@ noon more lunch (delayed due to buying SWA tix)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190115 Starting weight 161.00 / 159.2 48 bpm, 31.3F (Heritage Hills)
+Tuesday 20190115 weight 161.00 / 159.2 48 bpm, 31.3F (Heritage Hills)
 ??.?F at end
 
 5:15 wake-up
@@ -734,7 +734,7 @@ post 5.6 mile run calories
 4 fried pickles
 640 4 oz. mixed nuts
 
-Wednesday 20190116 Starting weight 163.00 / 161.2 56 bpm, 35.1F (Heritage Hills)
+Wednesday 20190116 weight 163.00 / 161.2 56 bpm, 35.1F (Heritage Hills)
 38.1F at finish
 
 5:15 wake-up
@@ -787,7 +787,7 @@ Wednesday 20190116 Starting weight 163.00 / 161.2 56 bpm, 35.1F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Thursday 20190117 Starting weight 162.75 / 161.5 56 bpm, 28.2F (Heritage Hills)
+Thursday 20190117 weight 162.75 / 161.5 56 bpm, 28.2F (Heritage Hills)
 31.8F at end
 
 HR after caffeine and a bit rushed.
@@ -834,7 +834,7 @@ HR after caffeine and a bit rushed.
 640 4 oz. mixed nuts
 690 30 dates
 
-Friday 20190118 Starting weight 164.00 / 161.9 51 bpm, 41.9F (Heritage Hills)
+Friday 20190118 weight 164.00 / 161.9 51 bpm, 41.9F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -883,7 +883,7 @@ Friday 20190118 Starting weight 164.00 / 161.9 51 bpm, 41.9F (Heritage Hills)
 5:45 final calories
 320 2 oz. mixed nuts
 
-Saturday 20190119 Starting weight 161.75 / 160.3 47 bpm, 26.9F (Sandia Heights)
+Saturday 20190119 weight 161.75 / 160.3 47 bpm, 26.9F (Sandia Heights)
 ??.?F at end
 
 5:15 wake-up
@@ -932,7 +932,7 @@ Saturday 20190119 Starting weight 161.75 / 160.3 47 bpm, 26.9F (Sandia Heights)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190120 Starting weight 160.00 / 158.4 48 bpm, 38.3F (Alameda and River)
+Sunday 20190120 weight 160.00 / 158.4 48 bpm, 38.3F (Alameda and River)
 52F at end (car thermometer)
 
 5:15 wake-up
@@ -977,7 +977,7 @@ Sunday 20190120 Starting weight 160.00 / 158.4 48 bpm, 38.3F (Alameda and River)
 6:15 bonus salad (Sophie made one just now, hence post final calories)
 40 small salad
 
-Monday 20190121 Starting weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
+Monday 20190121 weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 43.9F at end
 
 5:15 wake-up
@@ -1027,7 +1027,7 @@ Monday 20190121 Starting weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 230 10 dates
 320 2 oz. mixed nuts
 
-Tuesday 20190122 Starting weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
+Tuesday 20190122 weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
 33.1F at end
 
 5:15 wake-up
@@ -1069,7 +1069,7 @@ Tuesday 20190122 Starting weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
 5:30 final calories
 320 2 oz. mixed nuts
 
-Wednesday 20190123 Starting weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
+Wednesday 20190123 weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
 26.8F at finish
 
 5:18 wake-up (left phone in room; didn't hear alarm)
@@ -1119,7 +1119,7 @@ Wednesday 20190123 Starting weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Thursday 20190124 Starting weight 161.00 / 159.4 49 bpm, 22.1F (Heritage Hills)
+Thursday 20190124 weight 161.00 / 159.4 49 bpm, 22.1F (Heritage Hills)
 28.0F at end
 
 5:15 wake-up
@@ -1166,7 +1166,7 @@ noon post-lunch
 5:30 final calories
 640 4 oz. mixed nuts
 
-Friday 20190125 Starting weight 162.00 / 160.6 47 bpm, 23.4?F (Heritage Hills)
+Friday 20190125 weight 162.00 / 160.6 47 bpm, 23.4?F (Heritage Hills)
 30.4F at end
 
 5:15 wake-up
@@ -1213,7 +1213,7 @@ Friday 20190125 Starting weight 162.00 / 160.6 47 bpm, 23.4?F (Heritage Hills)
 6:18 bonus calories
 170 Kind Plus bar (in my race packet)
 
-Saturday 20190126 Starting weight 161.25 / 159.7 50 bpm, 22F (Top of Tram)
+Saturday 20190126 weight 161.25 / 159.7 50 bpm, 22F (Top of Tram)
 
 Temperature was recorded 7:56 (i.e., well before the race).  Race at 10:00.
 
@@ -1263,7 +1263,7 @@ Temperature was recorded 7:56 (i.e., well before the race).  Race at 10:00.
 9:00 beer split w/ Sophie
 ??? ? oz. Sam Smith's Organic Raspberry ?%ABV?
 
-Sunday 20190127 Starting weight 161.25 / 160.5 50 bpm, ??.?F (?)
+Sunday 20190127 weight 161.25 / 160.5 50 bpm, ??.?F (?)
 ??F at end
 
 HR taken at 6:22, late due to Elvis/dog poop kerfluffle.  Weight was taken
@@ -1312,7 +1312,7 @@ Back home
 5:20 final dinner (accidentally ate earlier than I meant to)
 480 3 oz. mixed nuts
 
-Monday 20190128 Starting weight 160.00 / 158.6 54 bpm, 34.0F (Heritage Hills)
+Monday 20190128 weight 160.00 / 158.6 54 bpm, 34.0F (Heritage Hills)
 43.7F at 9:22 (looked right after I got back, but forgot to write that down!)
 
 5:15 wake-up
@@ -1405,7 +1405,7 @@ bruised banana
 
 Kentin can help me get my pack +1 575 741 1715
 
-Wednesday 20190130 Starting weight 160.50 / 159.3 50 bpm, 23.5F (Heritage Hills)
+Wednesday 20190130 weight 160.50 / 159.3 50 bpm, 23.5F (Heritage Hills)
 28.8F at end
 
 5:15 wake-up
@@ -1449,7 +1449,7 @@ back home
 750? 3 cups mixed beans
 300 medium avocado
 
-Thursday 20190131 Starting weight 160.75 / 159.2 49 bpm, 29.2F (Heritage Hills)
+Thursday 20190131 weight 160.75 / 159.2 49 bpm, 29.2F (Heritage Hills)
 27.9F at end
 
 5:15 wake-up
@@ -1498,7 +1498,7 @@ Thursday 20190131 Starting weight 160.75 / 159.2 49 bpm, 29.2F (Heritage Hills)
 480? mixed nuts
 250? 2 oatmeal, date, carrot, walnut squres (Sophie's invention)
 
-Friday 20190201 Starting weight 164.25 / 162.9 48 bpm, 31.6F (Heritage Hills)
+Friday 20190201 weight 164.25 / 162.9 48 bpm, 31.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -1537,7 +1537,7 @@ Friday 20190201 Starting weight 164.25 / 162.9 48 bpm, 31.6F (Heritage Hills)
 8:30 final calories
 480 3 oz. mixed nuts
 
-Saturday 20190202 Starting weight 164.25 / 162.8 55 bpm, 25.0F (Alameda & River)
+Saturday 20190202 weight 164.25 / 162.8 55 bpm, 25.0F (Alameda & River)
 50F after finishing, stretching and eating (car thermometer)
 
 5:15 wake-up
@@ -1591,7 +1591,7 @@ noon lunch
 ??? vegan chewy waffle (buckwheat?)
 3 ladles of lentils
 
-Sunday 20190203 Starting weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
+Sunday 20190203 weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
 
 5:15 wake-up
 10 double espresso
@@ -1626,7 +1626,7 @@ Sunday 20190203 Starting weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
 260 2 large pears
 300 6 Halos
 
-Monday 20190204 Starting weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
+Monday 20190204 weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 50.2F at finish
 
 5:15 wake-up
@@ -1674,7 +1674,7 @@ Monday 20190204 Starting weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190205 Starting weight 161.00 / 159.8 48 bpm, 46.0F (Heritage Hills)
+Tuesday 20190205 weight 161.00 / 159.8 48 bpm, 46.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -1723,7 +1723,7 @@ Tuesday 20190205 Starting weight 161.00 / 159.8 48 bpm, 46.0F (Heritage Hills)
 345 15 dates
 320 2 oz. mixed nuts
 
-Wednesday 20190206 Starting weight 165.00 / 164.0 59 bpm, 37.9F (Heritage Hills)
+Wednesday 20190206 weight 165.00 / 164.0 59 bpm, 37.9F (Heritage Hills)
 41.9F at end
 
 HR taken at 6:00 (45 minutes after quad), due to running late. Ridiculously
@@ -1781,7 +1781,7 @@ high weight due to Taco Tuesday and tons of post 5:30pm calories.
 5:30 final calories
 480 3 oz. mixed nuts
 
-Thursday 20190207 Starting weight 163.25 / 161.9 ?? bpm, 17.4F (Heritage Hills)
+Thursday 20190207 weight 163.25 / 161.9 ?? bpm, 17.4F (Heritage Hills)
 20.1F at end
 
 5:15 wake-up
@@ -1830,7 +1830,7 @@ Thursday 20190207 Starting weight 163.25 / 161.9 ?? bpm, 17.4F (Heritage Hills)
 8:45 back home, late night snack
 400 20 dates
 
-Friday 20190208 Starting weight 167.00 / 165.9 62 bpm, 10.9F (Heritage Hills)
+Friday 20190208 weight 167.00 / 165.9 62 bpm, 10.9F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -1878,7 +1878,7 @@ Friday 20190208 Starting weight 167.00 / 165.9 62 bpm, 10.9F (Heritage Hills)
 5:15 final calories
 480 3 oz. mixed nuts
 
-Saturday 20190209 Starting weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
+Saturday 20190209 weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
 38F fifteen or so minutes after end (i.e., after stretching and eating)
 
 5:15 wake-up
@@ -1929,7 +1929,7 @@ Saturday 20190209 Starting weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190210 Starting weight 162.50 / 161.3 51 bpm, 31.9F (AIBF Office)
+Sunday 20190210 weight 162.50 / 161.3 51 bpm, 31.9F (AIBF Office)
 
 5:30 pre-ballooning breakfast
 533 normal oatmeal
@@ -1965,7 +1965,7 @@ Sunday 20190210 Starting weight 162.50 / 161.3 51 bpm, 31.9F (AIBF Office)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Monday 20190211 Starting weight 162.25 / 160.7 52 bpm, 32.5F (Heritage Hills)
+Monday 20190211 weight 162.25 / 160.7 52 bpm, 32.5F (Heritage Hills)
 32.5F at end
 
 5:15 wake-up
@@ -2016,7 +2016,7 @@ Monday 20190211 Starting weight 162.25 / 160.7 52 bpm, 32.5F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190212 Starting weight 162.25 / 160.8 55 bpm, 17.1F (Heritage Hills)
+Tuesday 20190212 weight 162.25 / 160.8 55 bpm, 17.1F (Heritage Hills)
 
 Took HR rushed and right after espresso. probably several bpm high.
 
@@ -2060,7 +2060,7 @@ Took HR rushed and right after espresso. probably several bpm high.
 5:15 early final calories
 480 3 oz. mixed nuts
 
-Wednesday 20190213 Starting weight 161.75 / 160.4 55 bpm, 31.8F (Heritage Hills)
+Wednesday 20190213 weight 161.75 / 160.4 55 bpm, 31.8F (Heritage Hills)
 34.2F 15 minutes after end (forgot to check)
 
 HR was rushed
@@ -2112,7 +2112,7 @@ noon Dion's lunch w/Lee
 6:00 beer
 330 330ml (11.2 oz?) 11% ABV Kasteel Donker
 
-Thursday 20190214 Starting weight 161.75 / 160.8 57 bpm, 45.1F (Heritage Hills)
+Thursday 20190214 weight 161.75 / 160.8 57 bpm, 45.1F (Heritage Hills)
 ??.??F at end
 
 5:15 wake-up
@@ -2163,7 +2163,7 @@ Thursday 20190214 Starting weight 161.75 / 160.8 57 bpm, 45.1F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Friday 20190215 Starting weight 163.50 / 161.8 51 bpm, 47.7F (Heritage Hills)
+Friday 20190215 weight 163.50 / 161.8 51 bpm, 47.7F (Heritage Hills)
 
 5:15 wake-up
 5 single espresso
@@ -2201,7 +2201,7 @@ noon nut snack
 1890 entire package of spaghetti (9 servings of 210 calories)
 480 3 oz. mixed nuts
 
-Saturday 20190216 Starting weight 16?.?? / 16?.? 57 bpm, 35.1F (Grants)
+Saturday 20190216 weight 16?.?? / 16?.? 57 bpm, 35.1F (Grants)
 
 5:15 wake-up
 10 double espresso
@@ -2237,7 +2237,7 @@ salad
 entire package of seitan
 
 
-Sunday 20190217 Starting weight 163.00 / 160.9 50 bpm, 23.5F (Heritage Hills)
+Sunday 20190217 weight 163.00 / 160.9 50 bpm, 23.5F (Heritage Hills)
 
 FWIW, I had my oatmeal prior to weighing myself, because I poped very late
 (presumably due to how much yesterday's caffeine affected me)
@@ -2292,7 +2292,7 @@ FWIW, I had my oatmeal prior to weighing myself, because I poped very late
 5:30 final calories
 480 3 oz. mixed nuts
 
-Monday 20190218 Starting weight 163.00 / 161.4 52 bpm, 26.6F (Heritage Hills)
+Monday 20190218 weight 163.00 / 161.4 52 bpm, 26.6F (Heritage Hills)
 ??.?F at end
 
 5:15 wake-up
@@ -2342,7 +2342,7 @@ Monday 20190218 Starting weight 163.00 / 161.4 52 bpm, 26.6F (Heritage Hills)
 final calories
 5:38 480 3 oz. mixed nuts (got distracted)
 
-Tuesday 20190219 Starting weight 162.25 / 161.3 56 bpm, 21.6F (Heritage Hills)
+Tuesday 20190219 weight 162.25 / 161.3 56 bpm, 21.6F (Heritage Hills)
 22.5F at end
 
 Didn't take HR until after my caffeine.  I'm not even sure whether I drank
@@ -2401,7 +2401,7 @@ remember if it was half full or completely full.
 230 10 dates
 320 2 oz. mixed nuts
 
-Wednesday 20190220 Starting weight 163.25 / 161.4 54 bpm, 19.0F (Heritage Hills)
+Wednesday 20190220 weight 163.25 / 161.4 54 bpm, 19.0F (Heritage Hills)
 27.9F at end
 
 HR taken at 6:45 (after caffeine) and was rushed
@@ -2449,7 +2449,7 @@ noon lunch (La Choza in Santa Fe)
 480 3 oz. mixed nuts
 
 
-Thursday 20190221 Starting weight 163.50 / 162.1 53 bpm, 28.6F (Heritage Hills)
+Thursday 20190221 weight 163.50 / 162.1 53 bpm, 28.6F (Heritage Hills)
 26.4F at end
 
 5:15 wake-up
@@ -2487,7 +2487,7 @@ banana
 8:20 final calories
 480 3 oz. mixed nuts
 
-Friday 20190222 Starting weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
+Friday 20190222 weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
 ??.?F at end
 
 5:15 wake-up
@@ -2527,7 +2527,7 @@ Friday 20190222 Starting weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
 480 3 oz. mixed nuts
 345 15 dates
 
-Saturday 20190223 Starting weight 164.00 / 163.5 52 bpm, 26.8F (Heritage Hills)
+Saturday 20190223 weight 164.00 / 163.5 52 bpm, 26.8F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -2565,7 +2565,7 @@ whole wheat tortilla
 5:30 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190224 Starting weight 164.75 / 163.0 52 bpm, 16.2F (Heritage Hills)
+Sunday 20190224 weight 164.75 / 163.0 52 bpm, 16.2F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -2616,7 +2616,7 @@ noon lunch continued
 5:30 final calories
 480 3 oz. mixed nuts
 
-Monday 20190225 Starting weight 165.00 / 163.0 55 bpm, 24.4F (Heritage Hills)
+Monday 20190225 weight 165.00 / 163.0 55 bpm, 24.4F (Heritage Hills)
 40.2F at end
 
 5:15 wake-up
@@ -2665,7 +2665,7 @@ Monday 20190225 Starting weight 165.00 / 163.0 55 bpm, 24.4F (Heritage Hills)
 5:30 final non-beer calories
 480 3 oz. mixed nuts
 
-Tuesday 20190226 Starting weight 163.25 / 161.7 51 bpm, 27.3F (Heritage Hills)
+Tuesday 20190226 weight 163.25 / 161.7 51 bpm, 27.3F (Heritage Hills)
 
 Chose not to exercise today, to give my legs more recovery so I can nail it
 tomorrow, since tomorrow is my last full-length pack run of the BMDM training
@@ -2717,7 +2717,7 @@ season
 5:30 final calories
 480 3 oz. mixed nuts
 
-Wednesday 20190227 Starting weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
+Wednesday 20190227 weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
 50.2F 13 minutes after end (didn't have internet when I got back)
 
 5:15 wake-up
@@ -2751,7 +2751,7 @@ Wednesday 20190227 Starting weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
 3:00 protein snack
 175 1/2 brick tempeh
 
-Thursday 20190228 Starting weight 166.0 / 164.7 54 bpm, 33.8F (Heritage Hills)
+Thursday 20190228 weight 166.0 / 164.7 54 bpm, 33.8F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -2793,7 +2793,7 @@ Thursday 20190228 Starting weight 166.0 / 164.7 54 bpm, 33.8F (Heritage Hills)
 6:00 beer
 16 oz. 9.2% ABV Founders Blushing Monk
 
-Friday 20190301 Starting weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
+Friday 20190301 weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -2836,7 +2836,7 @@ Friday 20190301 Starting weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
 5:30 final calories
 320 2 oz. mixed nuts
 
-Saturday 20190302 Starting weight 164.50 / 162.9 50 bpm, 49.8F (KNMALBUQ301)
+Saturday 20190302 weight 164.50 / 162.9 50 bpm, 49.8F (KNMALBUQ301)
 Normal Sandia Heights station wasn't responding.  This one is close.
 
 5:15 wake-up
@@ -2878,7 +2878,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 5:30 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190303 Starting weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
+Sunday 20190303 weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 
 7:00 breakfast
 533 normal oatmeal
@@ -2915,7 +2915,7 @@ Sunday 20190303 Starting weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixednuts
 
-Monday 20190304 Starting weight 164.50 / 163.1 51 bpm, 24.8F (Heritage Hills)
+Monday 20190304 weight 164.50 / 163.1 51 bpm, 24.8F (Heritage Hills)
 30.6F at end
 
 5:15 wake-up
@@ -2959,7 +2959,7 @@ very small buckwheat pancake
 5:30 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190305 Starting weight 164.50 / 163.4 50 bpm, 38.3F (Heritage Hills)
+Tuesday 20190305 weight 164.50 / 163.4 50 bpm, 38.3F (Heritage Hills)
 39.2F at finish
 
 5:15 wake-up
@@ -3007,7 +3007,7 @@ Tuesday 20190305 Starting weight 164.50 / 163.4 50 bpm, 38.3F (Heritage Hills)
 ton of other people's fries
 31 dates (back home)
 
-Wednesday 20190306 Starting weight 166.25 / 164.6 54 bpm, 32.2F (Heritage Hills)
+Wednesday 20190306 weight 166.25 / 164.6 54 bpm, 32.2F (Heritage Hills)
 49.5F at end
 
 5:15 wake-up
@@ -3053,7 +3053,7 @@ Wednesday 20190306 Starting weight 166.25 / 164.6 54 bpm, 32.2F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Thursday 20190307 Starting weight 164.5 / 163.0 52 bpm, 49.1F (Heritage Hills)
+Thursday 20190307 weight 164.5 / 163.0 52 bpm, 49.1F (Heritage Hills)
 49.3 at end
 
 5:15 wake-up
@@ -3102,7 +3102,7 @@ half bowl of black beans w/ olives (Sophie mix)
 6:00 beer
 16 oz. 9.5% Oak Aged Yeti Imperial Stout
 
-Friday 20190308 Starting weight 165.75 / 164.5 54 bpm, 47.8F (Heritage Hills)
+Friday 20190308 weight 165.75 / 164.5 54 bpm, 47.8F (Heritage Hills)
 ? at end (forgot to look up)
 
 5:15 wake-up
@@ -3136,7 +3136,7 @@ Friday 20190308 Starting weight 165.75 / 164.5 54 bpm, 47.8F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Saturday 20190309 Starting weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
+Saturday 20190309 weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 
 5:15 wake-up
 10 double espresso
@@ -3210,7 +3210,7 @@ noon post 3.5 mile run calories
 5:30 final calories
 480 3 oz. mixed nuts
 
-Monday 20190311 Starting weight 164.75 / 163.9 57 bpm, 48.0F (Heritage Hills)
+Monday 20190311 weight 164.75 / 163.9 57 bpm, 48.0F (Heritage Hills)
 ??.?F at end
 
 5:15 wake-up
@@ -3261,7 +3261,7 @@ Monday 20190311 Starting weight 164.75 / 163.9 57 bpm, 48.0F (Heritage Hills)
 5:15 final calorie
 320 2 oz. mixed nuts
 
-Tuesday 20190312 Starting weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
+Tuesday 20190312 weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
 ??.?F at finish
 
 5:15 wake-up
@@ -3304,7 +3304,7 @@ Tuesday 20190312 Starting weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
 5:30 final calories
 3 oz. mixed nuts
 
-Wednesday 20190313 Starting weight 165.50 / 164.2 51 bpm, 37.8F (Heritage Hills)
+Wednesday 20190313 weight 165.50 / 164.2 51 bpm, 37.8F (Heritage Hills)
 ??.?F at end
 
 5:15 wake-up
@@ -3350,7 +3350,7 @@ Wednesday 20190313 Starting weight 165.50 / 164.2 51 bpm, 37.8F (Heritage Hills)
 8:30 final calories
 320 2 oz. mixed nuts
 
-Thursday 20190314 Starting weight 166.00 / 164.8 50 bpm, 31.8F (Heritage Hills)
+Thursday 20190314 weight 166.00 / 164.8 50 bpm, 31.8F (Heritage Hills)
 32.0 at end
 
 5:15 wake-up
@@ -3398,7 +3398,7 @@ Thursday 20190314 Starting weight 166.00 / 164.8 50 bpm, 31.8F (Heritage Hills)
 5:30 final calories
 480 3 oz. mixed nuts
 
-Friday 20190315 Starting weight 168.00 / 16?.? 52 bpm, 32.4F (Belen)
+Friday 20190315 weight 168.00 / 16?.? 52 bpm, 32.4F (Belen)
 electronic scale was packed, but the balance definitely showed big weight
 gain yesterday.  I guess there were more calories in the Winning food
 than I thought.
@@ -3427,7 +3427,7 @@ santorini's
 120 banana
 180? 1 oz.? mixed nuts (the rest)
 
-Saturday 20190316 Starting weight ???.?? / 166.0 48 bpm, 32.4F (Belen)
+Saturday 20190316 weight ???.?? / 166.0 48 bpm, 32.4F (Belen)
 
 5:15 wake-up
 10 double espresso
@@ -3436,7 +3436,7 @@ Saturday 20190316 Starting weight ???.?? / 166.0 48 bpm, 32.4F (Belen)
 ??? vegan panini
 ??? 2x soy decaf latte
 
-Sunday 20190317 Starting weight unknown HR unknown, temperature ~39F (WSMR)
+Sunday 20190317 weight unknown HR unknown, temperature ~39F (WSMR)
 
 ~5:10
 double espresso
@@ -3479,7 +3479,7 @@ dates
 1 oz. mixed nuts at "night"
 banana
 
-Tuesday 20190319 Starting weight ???.?? / 165.7 44 bpm, 54.9 (Gold Canyon)
+Tuesday 20190319 weight ???.?? / 165.7 44 bpm, 54.9 (Gold Canyon)
 
 4:14 AZ time (5:15 Mountain) wake-up
 10 double espresso
@@ -3511,7 +3511,7 @@ Tuesday 20190319 Starting weight ???.?? / 165.7 44 bpm, 54.9 (Gold Canyon)
 5:15 AZ time
 1 oz. mixed nuts
 
-Wednesday 20190320 Starting weight ???.?? / 164.4 45 bpm, 62.0 (Gold Canyon)
+Wednesday 20190320 weight ???.?? / 164.4 45 bpm, 62.0 (Gold Canyon)
 
 HR was taken after caffeine, but in a very leisurely manner.  Weight was
 taken after first poop (165.1) around 4:30 AZ, and again after second poop
@@ -3546,7 +3546,7 @@ around 6:40 AZ (164.4).
 5:45 AZ
 240 3 oranges
 
-Thursday 20190321 Starting weight ???.?? / 164.7 47 bpm, 55.9 (Gold Canyon)
+Thursday 20190321 weight ???.?? / 164.7 47 bpm, 55.9 (Gold Canyon)
 https://www.wunderground.com/weather/us/az/gold-canyon/KAZGOLDC10
 
 4:15 AZ wake-up caffeine
@@ -3581,7 +3581,7 @@ ridiculous amounts of peanuts from the shell
 400 20 dates (or maybe it was only 10, I *think* it was 2x10)
 160 1 oz.? mixed nuts (I think)
 
-Friday 20190322 Starting weight 165.75 / 165.1 56 bpm, 55.9 (Gold Canyon)
+Friday 20190322 weight 165.75 / 165.1 56 bpm, 55.9 (Gold Canyon)
 
 HR taken at 6:50, well after I had my caffeine.  Between last night's
 drinking and the return to altitude, my HR is higher than when I left for
@@ -3622,7 +3622,7 @@ Las Cruces.  Most likely it'll be about equal tomorrow morning.
 5:10 final calories
 200 1.25 oz. mixed nuts
 
-Saturday 20190323 Starting weight 164.75 / 164.2 52 bpm, 39.2F (Heritage Hills)
+Saturday 20190323 weight 164.75 / 164.2 52 bpm, 39.2F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3658,7 +3658,7 @@ Saturday 20190323 Starting weight 164.75 / 164.2 52 bpm, 39.2F (Heritage Hills)
 5:30 final calories
 320 2 oz. mixed nuts
 
-Sunday 20190324 Starting weight 164.25 / 163.0 49 bpm, 39.6F (Heritage Hills)
+Sunday 20190324 weight 164.25 / 163.0 49 bpm, 39.6F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3696,7 +3696,7 @@ Sunday 20190324 Starting weight 164.25 / 163.0 49 bpm, 39.6F (Heritage Hills)
 5:30 final calories
 200 1.25 oz. mixed nuts
 
-Monday 20190325 Starting weight 164.00 / 162.8 48 bpm, 40.0F (Heritage Hills)
+Monday 20190325 weight 164.00 / 162.8 48 bpm, 40.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3732,7 +3732,7 @@ Monday 20190325 Starting weight 164.00 / 162.8 48 bpm, 40.0F (Heritage Hills)
 5:30 final calories
 200 1.25 oz. mixed nuts
 
-Tuesday 20190326 Starting weight 162.50 / 161.7 48 bpm, 37.6 (Heritage Hills)
+Tuesday 20190326 weight 162.50 / 161.7 48 bpm, 37.6 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3765,7 +3765,7 @@ Tuesday 20190326 Starting weight 162.50 / 161.7 48 bpm, 37.6 (Heritage Hills)
 5:30 final calories
 200 1.25 oz. mixed nuts
 
-Wednesday 20190327 Starting weight 161.00 / 160.2 50 bpm, 52.0 (Heritage Hills)
+Wednesday 20190327 weight 161.00 / 160.2 50 bpm, 52.0 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3801,7 +3801,7 @@ Wednesday 20190327 Starting weight 161.00 / 160.2 50 bpm, 52.0 (Heritage Hills)
 16 oz. 4.7% ABV Differential Red Corn Cream Ale
 32 oz. 4.4% ABV Differential Irish Stout
 
-Thursday 20190328 Starting weight 161.00 / 159.8 55 bpm, 51.6 (Heritage Hills)
+Thursday 20190328 weight 161.00 / 159.8 55 bpm, 51.6 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3844,7 +3844,7 @@ noon lunch continued
 7:45 late night snack
 200? 4 small home-made corn tortillas
 
-Friday 20190329 Starting weight 1??.?? / 1??.? 54 bpm, 51.0 (Heritage Hills)
+Friday 20190329 weight 1??.?? / 1??.? 54 bpm, 51.0 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -3868,7 +3868,7 @@ Friday 20190329 Starting weight 1??.?? / 1??.? 54 bpm, 51.0 (Heritage Hills)
 
 4:30 other 1/2 package of spaghetti (eat at campsite)
 
-Saturday 20190330 Starting weight 1??.?? / 1??.? ?? bpm, ??.? (Jemez Springs)
+Saturday 20190330 weight 1??.?? / 1??.? ?? bpm, ??.? (Jemez Springs)
 
 5:15 wake-up
 10 double espresso
@@ -3899,7 +3899,7 @@ post-race calories
 ??? 2 bowls vegan posole (one with *WAY TOO MUCH* red chile)
 350? large avocado
 
-Sunday 20190331 Starting weight 164.75 / 163.5 43 bpm, 35.9F (Alameda & River)
+Sunday 20190331 weight 164.75 / 163.5 43 bpm, 35.9F (Alameda & River)
 
 5:15 wake-up
 10 double espresso
@@ -3933,7 +3933,7 @@ noon remainder of lunch
 5:30 final calories
 200 1.25 oz. mixed nuts
 
-Monday 20190401 Starting weight 163.00 / 162.3 47 bpm, 29.8F (Heritage Hills)
+Monday 20190401 weight 163.00 / 162.3 47 bpm, 29.8F (Heritage Hills)
 
 WTF: Didn't poop until 6:45
 
@@ -3979,7 +3979,7 @@ WTF: Didn't poop until 6:45
 5:07 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20190402 Starting weight 164.00 / 162.5 45 bpm, 44.1F (Heritage Hills)
+Tuesday 20190402 weight 164.00 / 162.5 45 bpm, 44.1F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -4015,7 +4015,7 @@ Tuesday 20190402 Starting weight 164.00 / 162.5 45 bpm, 44.1F (Heritage Hills)
 ??? 16.9 oz. 7.2% ABV Steel Bender Viejo Agrio
 ??? 16 oz. 9% ABV Steel Bender Day Dream Belizer
 
-Wednesday 20190403 Starting weight 161.00 / 160.4 50 bpm, 51.4F (Heritage Hills)
+Wednesday 20190403 weight 161.00 / 160.4 50 bpm, 51.4F (Heritage Hills)
 48.4F 30 minutes after end (forgot to check)
 
 7:10 post 6.55 mi run breakfast
@@ -4049,7 +4049,7 @@ Wednesday 20190403 Starting weight 161.00 / 160.4 50 bpm, 51.4F (Heritage Hills)
 12 oz. 9.2% ABV Nexus Imperial Cream Ale
 20 oz. 6.3% ABV Nexus Hot Chocolate Milk Stout
 
-Thursday 20190404 Starting weight 161.00 / 159.8 48 bpm, 36.0F (Heritage Hills)
+Thursday 20190404 weight 161.00 / 159.8 48 bpm, 36.0F (Heritage Hills)
 34.1F at end
 
 FWIW, I *didn't* write down my weight this morning, but I do remember that
@@ -4091,7 +4091,7 @@ weight.  Ugh!  What a PITA.
 6:00 beer
 466 32 oz. 12.1% ABV Left Hand  25th anniversary imperial stout
 
-Friday 20190405 Starting weight 160.00 / 159.1 47 bpm, 42.8F (Heritage Hills)
+Friday 20190405 weight 160.00 / 159.1 47 bpm, 42.8F (Heritage Hills)
 46.8F a while after end (forgot to check)
 
 5:15 wake-up
@@ -4127,7 +4127,7 @@ calories in me
 5:00 early final calories
 200 1.25 oz. mixed nuts
 
-Saturday 20190406 Starting weight 169.00 / 158.8 45 bpm, 37.2F (Edgewood)
+Saturday 20190406 weight 169.00 / 158.8 45 bpm, 37.2F (Edgewood)
 
 5:15 wake-up
 5 *SINGLE* espresso
@@ -4154,7 +4154,7 @@ Saturday 20190406 Starting weight 169.00 / 158.8 45 bpm, 37.2F (Edgewood)
  75 medium bowl steamed broccoli and cauliflower
 ??? two handfuls of wheat thins 
 
-Sunday 20190407 Starting weight 161.75 / 160.3 50 bpm, ??.?F (Placitas)
+Sunday 20190407 weight 161.75 / 160.3 50 bpm, ??.?F (Placitas)
 
 5:15 wake-up & pre-race calories
 10 double espresso
@@ -4197,7 +4197,7 @@ side of a bush).
 7:20 been drinkin' final *solid* calories
 320 2 oz. mixed nuts
 
-Monday 20190408 Starting weight 160.50 / 159.8 41 bpm, 48.6F (Heritage Hills)
+Monday 20190408 weight 160.50 / 159.8 41 bpm, 48.6F (Heritage Hills)
 
 50bpm HR taken after (20 minutes?) caffeine, because I go up "late"
 (i.e., 5:15) due to waking up around 3am, due to (probably)
@@ -4239,7 +4239,7 @@ yesterday's caffeine and the relatively late alcohol.  41 bpm taken @
 5:00 final non-beer calories
 200 1.25 oz. mixed nuts
 
-Tuesday 20190409 Starting weight 160.0 / 159.0 47 bpm, 51.6F (Heritage Hills)
+Tuesday 20190409 weight 160.0 / 159.0 47 bpm, 51.6F (Heritage Hills)
 After my run and another poop: 158.75 / 157.8 
 
 
@@ -4281,7 +4281,7 @@ After my run and another poop: 158.75 / 157.8
 5:00 final non-beer calories
 200 1.25 oz. mixed nuts
 
-Wednesday 20190410 Starting weight 162.0 / 160.6 47 bpm, 60.6F (Heritage Hills)
+Wednesday 20190410 weight 162.0 / 160.6 47 bpm, 60.6F (Heritage Hills)
 HR down to 44 at 7:50 while sitting down
 
 sweet potato and posole are probably the culprits in my weight gain
@@ -4319,7 +4319,7 @@ sweet potato and posole are probably the culprits in my weight gain
 ??? 11.2 oz 10.5% ABV Gulden Draak
 ??? 12 oz. 5.4% Negra Modelo
 
-Thursday 20190411 Starting weight 159.75 / 158.5 48 bpm, 39.7F (Heritage Hills)
+Thursday 20190411 weight 159.75 / 158.5 48 bpm, 39.7F (Heritage Hills)
 39.7F at end
 
 5:15 wake-up
@@ -4358,7 +4358,7 @@ Thursday 20190411 Starting weight 159.75 / 158.5 48 bpm, 39.7F (Heritage Hills)
 7:00 George offered me a beer that I couldn't refuse
 22 oz. 5.2% ABV Boxing Bear Chocolate Milk Stout
 
-Friday 20190412 Starting weight 160.75 / 159.3 47 bpm, 40.3F (Heritage Hills)
+Friday 20190412 weight 160.75 / 159.3 47 bpm, 40.3F (Heritage Hills)
 43.7F at end
 
 Got a 46 bpm HR @ 7:42, waiting for the sun to come out (and also taking
@@ -4402,7 +4402,7 @@ Boston Marathon start time into consideration)
 11:30 EASTERN (9:30 Mountain)
 small bag of SWA pretzels
 
-Saturday 20190413 Starting weight ? / 160.1 ?? bpm, ??.?F (Everett)
+Saturday 20190413 weight ? / 160.1 ?? bpm, ??.?F (Everett)
 
 Got to bed late (?:??am), but still set my alarm for 7:15, since I'll need
 to get up *EARLIER* on race day
@@ -4439,7 +4439,7 @@ to get up *EARLIER* on race day
 
 ?:?? post-shopping calories
 
-Sunday 20190414 Starting weight ? / 159.6 47 bpm, 56.8F (Everett)
+Sunday 20190414 weight ? / 159.6 47 bpm, 56.8F (Everett)
 
 6:00 wake-up
 10 double epresso
@@ -4473,7 +4473,7 @@ Sunday 20190414 Starting weight ? / 159.6 47 bpm, 56.8F (Everett)
 6:30 final calories
 520 3.25 oz. mixed nuts
 
-Monday 20190415 Starting weight ? / 161.0 46 bpm, 63.1F (Hopkinton)
+Monday 20190415 weight ? / 161.0 46 bpm, 63.1F (Hopkinton)
 
 Went to sleep at 8pm, got up to pee two or three times, like normal,
 but otherwise slept very well.  Was planning on getting up at 6:15,
@@ -4519,7 +4519,7 @@ During Boston Marathon
 2:30 early "morning" snack
 ??? rest of Cape Cod Sweet & Spicy Jalapeno potato chips
 
-Tuesday 20190416 Starting weight ? / ? ?? bpm, ??.?F (Everett)
+Tuesday 20190416 weight ? / ? ?? bpm, ??.?F (Everett)
 
 Forgot to weigh myself before eating, then decided to skip all of today's
 measurements.
@@ -4558,7 +4558,7 @@ measurements.
 ???? small package of airline pretzels
 
 
-Wednesday 20190417 Starting weight 166.5 / 165.8 46 bpm, 45.0F (Heritage Hills)
+Wednesday 20190417 weight 166.5 / 165.8 46 bpm, 45.0F (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -4593,7 +4593,7 @@ Wednesday 20190417 Starting weight 166.5 / 165.8 46 bpm, 45.0F (Heritage Hills)
 5:00 final calories
 200 1.25 oz. mixed nuts
 
-Thursday 20190418 Starting weight 163.5 / 162.7 47@4:56 bpm, 38.8F@6:20 (Heritage Hills)
+Thursday 20190418 weight 163.5 / 162.7 47@4:56 bpm, 38.8F@6:20 (Heritage Hills)
 44.6F at end
 
 5:15 wake-up
@@ -4636,7 +4636,7 @@ Thursday 20190418 Starting weight 163.5 / 162.7 47@4:56 bpm, 38.8F@6:20 (Heritag
 16 oz. 5% ABV
 12 oz. 4.5% ABV
 
-Friday 20190419 Starting weight 161.25 / 160.8 52@5:15 bpm, 49.5F@7:35 (Heritage Hills)
+Friday 20190419 weight 161.25 / 160.8 52@5:15 bpm, 49.5F@7:35 (Heritage Hills)
 67.6F ? minutes after finish
 
 5:15 wake-up
@@ -4679,7 +4679,7 @@ Friday 20190419 Starting weight 161.25 / 160.8 52@5:15 bpm, 49.5F@7:35 (Heritage
 320 4 oranges
 230 10 dates
 
-Saturday 20190420 Starting weight 162.25 / 161.0 ?? bpm@4:22 , 56.3F@4:22 (Alamogordo)
+Saturday 20190420 weight 162.25 / 161.0 ?? bpm@4:22 , 56.3F@4:22 (Alamogordo)
 
 4:20 wake-up
 10 double espresso
@@ -4703,7 +4703,7 @@ vegan brownie
 
 worldwide stout
 
-Sunday 20190421 Starting weight 161.75 / 160.7 48 bpm@6:02, 52.4F@5:59 (Alameda & River)
+Sunday 20190421 weight 161.75 / 160.7 48 bpm@6:02, 52.4F@5:59 (Alameda & River)
 
 HR was rushed
 
@@ -4729,7 +4729,7 @@ post 21.75 mi bike ride, post 3.1mi run breakfast
 6:20 final final calories
 400 20 dates
 
-Monday 20190422 Starting weight 161.00 / 160.4 49 bpm@6:07, 47.5F@5:25 (Heritage Hills)
+Monday 20190422 weight 161.00 / 160.4 49 bpm@6:07, 47.5F@5:25 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -4772,7 +4772,7 @@ Monday 20190422 Starting weight 161.00 / 160.4 49 bpm@6:07, 47.5F@5:25 (Heritage
 5:30 final calories
 320 2 oz. mixed nuts
 
-Tuesday 20190423 Starting weight 160.75 / 160.3 47 bpm@5:11, 47.8F@6:20 (Heritage Hills)
+Tuesday 20190423 weight 160.75 / 160.3 47 bpm@5:11, 47.8F@6:20 (Heritage Hills)
 49.1F at end
 
 5:15 wake-up
@@ -4809,7 +4809,7 @@ Tuesday 20190423 Starting weight 160.75 / 160.3 47 bpm@5:11, 47.8F@6:20 (Heritag
 5:21 really final calories
 320 2 oz. mixed nuts
 
-Wednesday 20190424 Starting weight 159.75 / 158.4 49 bpm@5:14, 39.2F@5:58 (Heritage Hills)
+Wednesday 20190424 weight 159.75 / 158.4 49 bpm@5:14, 39.2F@5:58 (Heritage Hills)
 51.4F at end
 
 HR was rushed
@@ -4857,7 +4857,7 @@ HR was rushed
 12 oz. 5.7% ABV Cherry on Brett
 ??? 2 uneaten onion rings, 1 fried zuchinni
 
-Thursday 20190425 Starting weight 160.25 / 159.4 53 53 bpm@5:45, 47.1F@6:31 (Heritage Hills)
+Thursday 20190425 weight 160.25 / 159.4 53 53 bpm@5:45, 47.1F@6:31 (Heritage Hills)
 59.2F at end
 
 HR was after caffeine
@@ -4901,7 +4901,7 @@ HR was after caffeine
 16 oz. 10.5% ABV O'Dells (sp?) oak aged milk stout 
 16 oz 8.6% ABV Cascade something
 
-Friday 20190426 Starting weight 160.75 / 159.8 52@5:01 bpm, 52.0F@6:09 (Heritage Hills)
+Friday 20190426 weight 160.75 / 159.8 52@5:01 bpm, 52.0F@6:09 (Heritage Hills)
 66.7F 20 minutes after finish (forgot to check)
 
 5:15 wake-up
@@ -4939,7 +4939,7 @@ Friday 20190426 Starting weight 160.75 / 159.8 52@5:01 bpm, 52.0F@6:09 (Heritage
 ??? 6? handfuls of nuts and sugared cranberries (I forgot my "emergency nuts")
     and mooched off of Peter Livingstone
 
-Saturday 20190427 Starting weight ???.?? / 160.7 ?? bpm@5:01, ??.?F@?:?? (car?)
+Saturday 20190427 weight ???.?? / 160.7 ?? bpm@5:01, ??.?F@?:?? (car?)
 
 5:15 wake-up
 10 double espresso
@@ -4982,7 +4982,7 @@ bowl of pretzels and nuts
 10:32 too hungry (and sunburnt and possibly caffeinated) to sleep
 640 4 oz. mixed nuts
 
-Sunday 20190428 Starting weight 163.50 / 162.5 48 bpm@5:30, 47.5F@5:28 (Heritage Hills)
+Sunday 20190428 weight 163.50 / 162.5 48 bpm@5:30, 47.5F@5:28 (Heritage Hills)
 
 HR was rushed
 
@@ -5030,7 +5030,7 @@ back home
 7:45 back home
 480 3 oz. mixed nuts
 
-Monday 20190429 Starting weight 168.00? / 167.0? 42 bpm@4:51, 55.2F@5:48 (Heritage Hills)
+Monday 20190429 weight 168.00? / 167.0? 42 bpm@4:51, 55.2F@5:48 (Heritage Hills)
 ??.?F at end (forgot to take)
 
 I took my weight, but forgot to write it down, but the numbers above are in
@@ -5074,7 +5074,7 @@ bring my mileage for the week ending today up to 100).
 5:30 final calories
 480 3 oz. mixed nuts
 
-Tuesday 20190430 Starting weight 164.00 / 163.0 43 bpm@4:58, 49.5F@6:15 (Heritage Hills)
+Tuesday 20190430 weight 164.00 / 163.0 43 bpm@4:58, 49.5F@6:15 (Heritage Hills)
 54.1F at end (7:40)
 
 5:15 wake-up
@@ -5114,7 +5114,7 @@ Tuesday 20190430 Starting weight 164.00 / 163.0 43 bpm@4:58, 49.5F@6:15 (Heritag
 6:00 final calories
 480 3 oz. mixed nuts
 
-Wednesday 20190501 Starting weight 162.50 / 161.4 45 bpm@4:40, 46.2F@6:10 (Heritage Hills)
+Wednesday 20190501 weight 162.50 / 161.4 45 bpm@4:40, 46.2F@6:10 (Heritage Hills)
 62.6F at end
 
 5:15 wake-up
@@ -5165,7 +5165,7 @@ FWIW, I *meant* to have oatmeal after pooping and before running 15.5 miles
 12 oz. 9.3%? ABV Nexus Imperial Cream Stout
 20 oz. 4.9%? ABV Nexus Chocolate Porter
 
-Thursday 20190502 Starting weight 160.00 / 159.2 49 bpm@5:10, 45.0F@5:10 (Heritage Hills)
+Thursday 20190502 weight 160.00 / 159.2 49 bpm@5:10, 45.0F@5:10 (Heritage Hills)
 54.7F at end
 
 5:15 wake-up
@@ -5212,7 +5212,7 @@ Thursday 20190502 Starting weight 160.00 / 159.2 49 bpm@5:10, 45.0F@5:10 (Herita
 8:30 final calories
 480 6 Cara Cara oranges
 
-Friday 20190504 Starting weight 161.25 / 160.3 49 bpm @5:14, 43.7F@6:56 (Heritage Hills)
+Friday 20190504 weight 161.25 / 160.3 49 bpm @5:14, 43.7F@6:56 (Heritage Hills)
 ??.?F at end
 
 HR was rushed
@@ -5263,7 +5263,7 @@ During run, stopped to chat with
 230 10 dates
 
 
-Saturday 20190504 Starting weight 160.00 / 159.3 47 bpm @5:38, 44.6F@6:53 (Heritage Hills)
+Saturday 20190504 weight 160.00 / 159.3 47 bpm @5:38, 44.6F@6:53 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -5307,7 +5307,7 @@ HR was rushed
 5:45 final calories
 480 3 oz. mixed nuts
 
-Sunday 20190505 Starting weight 162.00 / 161.25 52 bpm @5:06, 47.7F@5:06 (Biopark)
+Sunday 20190505 weight 162.00 / 161.25 52 bpm @5:06, 47.7F@5:06 (Biopark)
 
 5:15 wake-up
 10 double espresso
@@ -5354,7 +5354,7 @@ Sunday 20190505 Starting weight 162.00 / 161.25 52 bpm @5:06, 47.7F@5:06 (Biopar
 1 1/2 whole wheat tortillas
 480 3 oz. mixed nuts
 
-Monday 20190506 Starting weight 164.50 / 163.5 51 bpm @5:05, 50.5F@5:06 (Heritage Hills)
+Monday 20190506 weight 164.50 / 163.5 51 bpm @5:05, 50.5F@5:06 (Heritage Hills)
 74.8F 45 minutes after I finished (forgot to check)
 
 5:15 wake-up
@@ -5407,7 +5407,7 @@ shelled and ate a ton of peanut; did not measure
 80 Cara Cara orange
 400 20 dates
 
-Tuesday 20190507 Starting weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Heritage Hills)
+Tuesday 20190507 weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Heritage Hills)
 58.6F 20 minutes after end (forgot to look)
 
 5:15 wake-up
@@ -5454,7 +5454,7 @@ Tuesday 20190507 Starting weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Herita
 ??? small handful of fries, fried zuchinni
 640? 4 oz.? mixed nuts
 
-Wednesday 20190508 Starting weight 164.0 / 163.1 56 bpm @5:14, 48.4F@7:02 (Heritage Hills)
+Wednesday 20190508 weight 164.0 / 163.1 56 bpm @5:14, 48.4F@7:02 (Heritage Hills)
 63.0F at end
 
 HR was rushed
@@ -5501,7 +5501,7 @@ HR was rushed
 8:30 late night snack
 480 3 oz. mixed nuts
 
-Thursday 20190509 Starting weight 163.0 / 161.4 55 bpm @5:01, 47.5F@6:30 (Heritage Hills)
+Thursday 20190509 weight 163.0 / 161.4 55 bpm @5:01, 47.5F@6:30 (Heritage Hills)
 54.1F fifteen minutes after end
 
 5:15 wake-up
@@ -5540,7 +5540,7 @@ Thursday 20190509 Starting weight 163.0 / 161.4 55 bpm @5:01, 47.5F@6:30 (Herita
 5:46 final calories
 345 15 dates
 
-Friday 20190510 Starting weight 160.00 / 159.1 52 bpm @4:55, 45.9F@5:48 (Heritage Hills)
+Friday 20190510 weight 160.00 / 159.1 52 bpm @4:55, 45.9F@5:48 (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -5586,7 +5586,7 @@ noon pizza at Dion's w/Lee
 533 normal oatmeal
 ??? may have had some dates, too
 
-Saturday 20190511 Starting weight unknown, HR unknown, 44F (I think) @ 00:01  (Cienega Trailhead)
+Saturday 20190511 weight unknown, HR unknown, 44F (I think) @ 00:01  (Cienega Trailhead)
 
 Today was Elevation Insanity IX.  I did not take notes at the time.  I
 also didn't write down exactly how many ounces of nuts and dates,
@@ -5611,7 +5611,7 @@ during hike
 2:00pm approx. (after 3rd ascent and tram ride down)
 10 double espresso
 
-Sunday 20190512 Starting weight 163.25 / 162.0 ?? bpm 46.2F @ 7:08 (Alameda and the river)
+Sunday 20190512 weight 163.25 / 162.0 ?? bpm 46.2F @ 7:08 (Alameda and the river)
 
 1am? post-Elevation Insanity celebratory beer
 
@@ -5650,7 +5650,7 @@ weighed myself after eating some oatmeal, didn't take HR
 120 banana
 120 6? dates
 
-Monday 20190513 Starting weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Heritage Hills)
+Monday 20190513 weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Heritage Hills)
 62.1F at end
 
 5:15 wake-up
@@ -5689,7 +5689,7 @@ Monday 20190513 Starting weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Herit
 120 banana
 250 5 Halos
 
-Tuesday 20190514 Starting weight 161.50 / 160.6 ?? bpm @ ?:?? ??.?F @ ?:?? (Heritage Hills)
+Tuesday 20190514 weight 161.50 / 160.6 ?? bpm @ ?:?? ??.?F @ ?:?? (Heritage Hills)
 ??.?F at end
 
 3:?? pre-SAR drive caffeine
@@ -5730,7 +5730,7 @@ pre-assignment calories
 5:00 final calories
 ??? ? oz. mixed nuts
 
-Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heritage Hills)
+Wednesday 20190515 weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heritage Hills)
 73.6F at end
 
 5:15 wake-up
@@ -5778,7 +5778,7 @@ Wednesday 20190515 Starting weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heri
 160 2 Cara Cara oranges
 480 3 oz. mixed nuts
 
-Thursday 20190516 Starting weight 161.25 / 160.2 52 bpm @4:58, ??.?F@?:?? (Heritage Hills)
+Thursday 20190516 weight 161.25 / 160.2 52 bpm @4:58, ??.?F@?:?? (Heritage Hills)
 ??.?F fifteen at end
 
 no internet in the morning, so no temperatures
@@ -5830,7 +5830,7 @@ no internet in the morning, so no temperatures
 345 15 dates
 640 4 oz. mixed nuts
 
-Friday 20190517 Starting weight 160.50 / 160.1 54 bpm @5:09, 60.6F @5:42 (Heritage Hills)
+Friday 20190517 weight 160.50 / 160.1 54 bpm @5:09, 60.6F @5:42 (Heritage Hills)
 59.7F fifteen at end
 
 5:15 wake-up
@@ -5870,7 +5870,7 @@ two big salads
 ??? handful of Sophie prepared sweet potatos
 210 flour tortilla
 
-Saturday 20190518 Starting weight 1??.?? / 1??.? ?? bpm @?:??, ??.?F@?:?? (Heritage Hills)
+Saturday 20190518 weight 1??.?? / 1??.? ?? bpm @?:??, ??.?F@?:?? (Heritage Hills)
 
 5:15 wake-up
 10 double espresso
@@ -5903,7 +5903,7 @@ after mission
 4:45 final beer
 ??? 12 oz. 5.4% Negra Modelo
 
-Sunday 20190519 Starting weight 165.50 / 164.7 51 bpm @4:30, 43.0F@7:00 (Santa Fe, estimate)
+Sunday 20190519 weight 165.50 / 164.7 51 bpm @4:30, 43.0F@7:00 (Santa Fe, estimate)
 
 HR was rushed; it was 49bpm, standing around at the provisional incident base
 yesterday
@@ -5948,7 +5948,7 @@ during drive home
 320 4 cara car oranges
 345 15 dates
 
-Monday 20190520 Starting weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritage Hills)
+Monday 20190520 weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritage Hills)
 60.3F at end
 
 161.25 / 160.6 after my morning run and yet another poop
@@ -5996,7 +5996,7 @@ Monday 20190520 Starting weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritag
 640 4 oz. mixed nuts
 230 10 dates
 
-Tuesday 20190521 Starting weight 162.25 / 161.2 45 bpm @ 5:53 40.6F @ 6:56 (Heritage Hills)
+Tuesday 20190521 weight 162.25 / 161.2 45 bpm @ 5:53 40.6F @ 6:56 (Heritage Hills)
 43.2F at end
 
 HR was a little rushed and was post-caffeine
@@ -6044,7 +6044,7 @@ HR was a little rushed and was post-caffeine
 16 oz. 5.5% ABV Lobo Rojo
 ??? small handful of onion rings (Thanks Dave!)
 
-Wednesday 20190522 Starting weight 162.50 / 161.8 48 bpm @5:48, 41.0F@5:38 (Heritage Hills)
+Wednesday 20190522 weight 162.50 / 161.8 48 bpm @5:48, 41.0F@5:38 (Heritage Hills)
 ??.?F at end
 
 5:15 wake-up
@@ -6094,7 +6094,7 @@ Wednesday 20190522 Starting weight 162.50 / 161.8 48 bpm @5:48, 41.0F@5:38 (Heri
 5:00 final calories
 640 4 oz. mixed nuts
 
-Thursday 20190523 Starting weight 162.25 / 161.7 52 bpm @5:10, ??.?F@?:?? (Heritage Hills)
+Thursday 20190523 weight 162.25 / 161.7 52 bpm @5:10, ??.?F@?:?? (Heritage Hills)
 ??.?F fifteen at end
 
 HR is high due to lack of sleep and stress from, among other things,
@@ -6151,7 +6151,7 @@ no internet, so no temperature
 120 banana
 ??? 300? two dinner rolls
 
-Friday 20190524 Starting weight 164.00 / 163.6 53 bpm @5:25, 43F @5:31 (iPhone weather)
+Friday 20190524 weight 164.00 / 163.6 53 bpm @5:25, 43F @5:31 (iPhone weather)
 ??.7F fifteen at end
 
 NOTE: I did not take notes Friday, Saturday or Sunday.  Instead, I've written
@@ -6183,7 +6183,7 @@ glass of lemonade
 6:00 in tent
 tons of nuts
 
-Saturday 20190525 Starting weight 16?.?? / 16?.? ?? bpm, ~49F @4:15 (Los Alamos)
+Saturday 20190525 weight 16?.?? / 16?.? ?? bpm, ~49F @4:15 (Los Alamos)
 
 4:00 wake-up caffeine
 10 double espresso
@@ -6217,7 +6217,7 @@ post-race
 ~5 oz. 13.1% ABV barrel aged Old Stock
 2 servings of vegan refried benas w/vegan red chile
 
-Sunday 20190526 Starting weight ???.??, ??F @ 5:15 (Los Alamos)
+Sunday 20190526 weight ???.??, ??F @ 5:15 (Los Alamos)
 
 5:15 wake-up
 10 double espresso
