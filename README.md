@@ -2,7 +2,7 @@
 
 ## If you've stumbled upon this, well...
 
-### It's really not (yet?) fit for human consumption
+### It's still not fit for human consumption
 
 On March 29th 2018, I had my body fat calculated via hydrostatic
 weighing.  I was surprised that it was so high and I decided to try to
@@ -39,8 +39,14 @@ think it's particularly likely that I'm nutritionally deficient,
 because I think there's been long enough for such a deficiency to
 negatively affect my performance if not my health.
 
+At the end of September 2023, I decided to get some [blood work](blood_work/20230923_Quest_Blood_Report.pdf) done
+and everything except my absolute lymphocytes was in the normal range.
+My lymphocyte count was a _little_ low, but that's not concerning to me
+since my immune system seems to be working exceedingly well and I've
+been under a bit of stress for the last few months.
+
 Although I used to feel uncomfortable making this data public, I
-eventually get over it.  I have a bunch of other data (i.e., I track
+eventually got over it.  I have a bunch of other data (i.e., I track
 my daily training, typically running six days a week and bicycling on
 the seventh) and I've made some of that available, beginning with an
 overview of what I do is already available in my [Bataan Memorial
