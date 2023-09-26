@@ -15,7 +15,7 @@ Snowshoe Race.  The Quad will be trickier.
 10 double espresso
 
 ~5:30 pre-run calories
-1000 2x normal oatmeal (without Udo's Oil)
+1000 2x fortified oatmeal (without Udo's Oil)
 
 6:30 bonus caffeine
 10 double espresso
@@ -47,7 +47,7 @@ probably other things I don't remember
 ??? new year's day black eyed peas (with tortilla strips)
 
 4:00? some recovery calories (but no crucifers, salad, green drink, rice milk)
-1000 2x normal oatmeal (without Udo's Oil)
+1000 2x fortified oatmeal (without Udo's Oil)
 
 5pm nut snack
 340 2 oz. mixed nuts
@@ -135,7 +135,7 @@ weight was at 7:53
 0 4 dill pickles
 
 10:15 no exercise (yet?) breakfast
-1000 2x normal oatmeal (without Udo's Oil)
+1000 2x fortified oatmeal (without Udo's Oil)
 
 10:50 finished!
 0 1.5 (the last) dill pickle
@@ -181,7 +181,7 @@ downside is loss of sleep.
 20 quad espresso
 
 5:30 pre-run calories and analgesic
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
  0 200mg ibuprofen
 
 6:15 pre-run bonus caffeine
@@ -194,7 +194,7 @@ downside is loss of sleep.
 480 1.6x (3 scoops Tailwind in 20 oz. water)
 
 9:00 post run
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 
 9:45 protein snack
 ??? bowl of formerly frozen homemade seitan, España habanero hot sauce
@@ -266,7 +266,7 @@ researching euthanization and burial for dogs.  Lost steam.
 
 11:40 beginning of lunch (and oatmeal)
 ??? lentils (2/3rd cup in 2 cups water), wasabi hot sauce
-1000 2x normal oatmeal (without Udo's Oil)
+1000 2x fortified oatmeal (without Udo's Oil)
 
 noon end of lunch
 ??? medium salad (mixed greens, cucumber, garlic, red pepper, onion, carrot)
@@ -307,7 +307,7 @@ came back and had nuts.
 10 double espresso
 
 9:00 no exercise calories
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 50? green drink
 
 11:40 lunch
@@ -348,7 +348,7 @@ me down the most was the hot-spot in my right foot.
 20 double espresso
 
 5:30 pre-run calories
-500 normal oatmeal (without Udo's Oil) + 200 mg ibuprofen
+500 fortified oatmeal (without Udo's Oil) + 200 mg ibuprofen
 
 6:15 more calories
 480 3 oz. mixed nuts
@@ -363,7 +363,7 @@ me down the most was the hot-spot in my right foot.
  50? 16 oz.? (the rest) rice milk
 
 ?:?? back home calories
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 
 noon (late) lunch
 ??? lentils (2/3rd cup in 2 cups water), Egypt "very hot" sauce
@@ -407,7 +407,7 @@ weight was at 7:26
 10 double espresso
 
 9:30 no exercise (yet?) breakfast
-1000 2x normal oatmeal (without Udo's Oil)
+1000 2x fortified oatmeal (without Udo's Oil)
 
 10:30 fruit snack
 120 two (the rest) apples (no bananas or oranges)
@@ -449,7 +449,7 @@ during 5.55 mile run
 0 20 oz. water
 
 post run
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 
 10:50 fruit snack
 120 (a bit too green) banana
@@ -488,7 +488,7 @@ weight was 161.7 at 7:30, before drinking espresso wash
 0 4 oz. espresso wash
 
 10:00 no exercise calories
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 10:30 fruit snack
  60 apple
@@ -535,7 +535,7 @@ weight was 161.9 at 5:32, just before eating oatmeal
 I lost another .6 pounds at 5:50, but by then I had eaten my oatmeal
 
 5:35 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 0 400mg ibuprofen
 
 6:15 pre-run bonus caffeine
@@ -548,7 +548,7 @@ I lost another .6 pounds at 5:50, but by then I had eaten my oatmeal
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 8:40 post run recovery
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 9:55 fruit snack
  60 apple
@@ -579,7 +579,7 @@ I lost another .6 pounds at 5:50, but by then I had eaten my oatmeal
 340 2 oz. mixed nuts
 
 7:00 bonus calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 7:50 final calories
 160 two cara cara oranges
@@ -611,7 +611,7 @@ nothing
 0 20 oz. water (should have taken more)
 
 11:30 post run recovery
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 11:45 fruit snack
  60 apple
@@ -651,7 +651,7 @@ weight was at 5:32
 10 double espresso
 
 6:15 - 6:25 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 I was planning on runing 13.1 miles this morning, but I wound up playing
 with higher order functions in Rust, instead.  Specifically, the article
@@ -687,7 +687,7 @@ https://www.jernesto.com/articles/who_needs_haskell.html got me going.
 340 2 oz. mixed nuts
 
 5:30 because it's there
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 7:30 final calories
  90 two packages of crackers
@@ -701,11 +701,11 @@ Saturday 20230114 weight 161.3
 weight was at 5:27
 
 5:15 wake-up
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 20 quad espresso
 
 5:30 pre-run calories
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
   0 400mg ibuprofen (hot-spot)
 
 6:58 pre-run bonus caffeine
@@ -718,7 +718,7 @@ weight was at 5:27
  70? 24 oz. rice milk
 
 10:30 back home recovery
-500 normal oatmeal (without Udo's Oil)
+500 fortified oatmeal (without Udo's Oil)
 
 10:50 fruit snack
  60 apple
@@ -767,7 +767,7 @@ Sunday 20230115 weight 161.0
 10 double espresso
 
 9:30 no exercise breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 9:45 fruit snack
  60 apple
@@ -824,7 +824,7 @@ weight was at 6:46
 10 double espresso
      
 8:30 no exercise yet breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 9:52 - 10:44 during 5.56 mile run (with intervals)
 nothing
@@ -882,7 +882,7 @@ nothing
 0 30 oz. water
 
 11:00 back home
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 240 2 bananas
@@ -926,7 +926,7 @@ https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 weight was at 5:29
 
 5:30 pre-run calories and analgesic
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 0 400mg ibuprofen
 
 6:25 pre-run liquid
@@ -938,7 +938,7 @@ weight was at 5:29
 8:45 post-run recovery food
 ??? small bowl of homemade seitan, with New Orleans bourbon
     medium sauce (the rest)
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 240 2 bananas
@@ -993,7 +993,7 @@ nothing
 0 40 oz. water
 
 11:15 recovery food
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 11:30 fruit snack
 120 banana
@@ -1046,7 +1046,7 @@ weight was at 6:20
 weighed 160.0 after post-run poop
 
 11:10 post run, pre lunch recovery
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -1096,7 +1096,7 @@ weight was at 5:58
 10 double espresso
 
 6:00 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 6:10 cleaning the bottle
 0 2 oz. espresso wash
@@ -1165,7 +1165,7 @@ weight was at 7:18
 0 30 oz. water (had 40 with me)
 
 noon post-run breakfast & fruit snack
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 100 two clementines
 120 banana
  60 apple
@@ -1222,7 +1222,7 @@ weight was at 7:15
 150 10 oz. (the rest) water with 1 1/2 scoops of Tailwind
 
 9:45 post-run breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 ??? bag of homemade seitan, no Tabasco or salsa, but extra broth
 0 bowl of seitan broth
 
@@ -1278,7 +1278,7 @@ nothing
 0 32 oz. water (had 40)
 
 12:15 post run breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 ??? fresh (still warm) homemade tortilla
  20? green drink (no apple or fruit)
 240 two bananas
@@ -1317,7 +1317,7 @@ weight was at 5:37, just before eating oatmeal
 20 quad espresso
 
 5:38 pre-run calories and analgesic
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 600mg ibuprofen
 
 6:30 pre-run bonus caffeine
@@ -1332,7 +1332,7 @@ weight was at 5:37, just before eating oatmeal
 9:31 post run recovery
  20? green drink (no apple or fruit)
 175 1/2 brick tofu, Sadie's Hot Sauce
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 50? 16 oz. rice milk
 
 10:30 fruit snack
@@ -1400,7 +1400,7 @@ weight was at 6:36, after finishing my core exercises
 nothing
 
 3:45 post-run
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 ??? two hunks of bread, each with mustard
@@ -1444,7 +1444,7 @@ weight was at 10:50
 0 4 oz. espresso wash
 
 10:50 breakfast
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
 100 two cara cara oranges
 120 banana
@@ -1463,7 +1463,7 @@ weight was at 10:50
 ??? some (the rest) basmati rice
 
 2:40 no exercise
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 3:15 afternoon snack
 ??? three slices of homemade bread, each with mustard
@@ -1502,7 +1502,7 @@ weight was at 7:05
 10 double espresso
 
 8:20 pre-run calories (40 minutes early so I can go to Michael Thomas & mom's)
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 8:30 more calories (this and the spaghetti are experiments)
 big hunk of bread
@@ -1550,7 +1550,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double
 
 5:33 breakfast
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 6:40 calories and analgesics
 510 3 oz. mixed nuts
@@ -1568,7 +1568,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
  70? 24 oz. rice milk
 
 noon? back home
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 100 two small cara cara oranges
  60 apple
 120 banana
@@ -1631,7 +1631,7 @@ weight was at 10:12
 10 double espresso
 
 10:15 no exercise (yet?) breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 10:50 fruit snack
  50 small cara cara orange (the last)
@@ -1680,7 +1680,7 @@ nothing
 5 weak single espresso
 
 9:30 pre exercise breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 10:40 fruit snack
  60 red apple
@@ -1727,7 +1727,7 @@ weight was at 5:24
 20 quad espresso
 
 5:30 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 6:01 pre-run analgesics
 0 4 oz. espresso wash
@@ -1740,7 +1740,7 @@ weight was at 5:24
 
 9:00 post run protein snack, breakfast and recovery liquids
 ??? baggie of homemade seitan with Sadie's Hot Salsa
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -1804,7 +1804,7 @@ weight was at 6:26, after core
 ??? red chile bagel
 
 2:20 back at Marcia's & Jeff's
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 ??? vegan naan with mint chutney
 
 3:00 more free food
@@ -1847,7 +1847,7 @@ weight was at 8:00
 10 double espresso
 
 9:00 no exercise (yet?) breakfast
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 9:30 fruit snack
 160 two naval oranges
@@ -1891,7 +1891,7 @@ weighed 160.5.
 20 quad espresso
 
 5:28 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 6:22 more calories, caffeine & analgesic
 340 2 oz. mixed nuts
@@ -1909,7 +1909,7 @@ weighed 160.5.
  70? 24 oz. rice milk
 
 10:15? back home
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 ??? baggie of homemade seitan
 
 10:30 fruit snack
@@ -1968,7 +1968,7 @@ weight was at 8:45
 0 4 oz. espresso wash
 
 9:30 no exercise yet calories
-1000 2x normal oatmeal (without Udo's oil)
+1000 2x fortified oatmeal (without Udo's oil)
 
 9:45 fruit snack
 160 two oranges
@@ -2025,7 +2025,7 @@ weight was at 5:40
 20 quad espresso
 
 5:40 pre-run calories
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 0 4 oz. espresso wash
 
 6:45 pre-run bonus caffeine
@@ -2036,7 +2036,7 @@ weight was at 5:40
 600 2x (20 oz. water with 3 scoops of Tailwind)
 
 9:30 post run recovery food
-500 normal oatmeal (without Udo's oil)
+500 fortified oatmeal (without Udo's oil)
 
 10:30 fruit snack
 160 two naval oranges
@@ -2104,7 +2104,7 @@ nothing
 nothing
 
 10:00 post run recovery
-1066 2x normal oatmeal (*with* Udo's Oil)
+1066 2x fortified oatmeal (*with* Udo's Oil)
 
 10:30 fruit snack
 120 banana
@@ -2152,7 +2152,7 @@ after second poop.  By the time I remembered, I had already eaten my oatmeal.
 20 quad espresso
 
 5:35 pre-run calories
-533 normal oatmeal (*with* Udo's Oil)
+533 fortified oatmeal (*with* Udo's Oil)
 
 6:20 pre-run analgesics
 0 4 oz. espresso wash
@@ -2172,7 +2172,7 @@ Also, waiting a little after my second quad and before running was an experiment
 
 9:30 post run protein snack
 ??? baggie (the rest) homemade seitan
-533 normal oatmeal (*with* Udo's Oil)
+533 fortified oatmeal (*with* Udo's Oil)
 
 10:00 other stuff
 50? 16 oz. rice milk
@@ -2238,7 +2238,7 @@ nothing
 10 double espresso
 
 9:15 no exercise (due to right foot issue) breakfast
-1066 2x normal oatmeal (*with* Udo's Oil)
+1066 2x fortified oatmeal (*with* Udo's Oil)
 
 10:15 they were there
 ??? two small sweet potatoes and four small chile peppers
@@ -2286,7 +2286,7 @@ weight was at 7:45
 ??? two tiny sweet potatoes, two small roasted chiles (the rest of both)
 
 8:20 eating makes me hungry
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:54 morning snack
 ??? hunk of homemade bread, cut into four slices, with peanut butter and
@@ -2336,7 +2336,7 @@ lost another .4 pound at 5:42, after I had eaten my oatmeal
 20 quad espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:00 cleaning
 0 4 oz. espresso wash
@@ -2360,7 +2360,7 @@ lost another .4 pound at 5:42, after I had eaten my oatmeal
  70? 24 oz. rice milk
 
 10:30 back home
-533 normal oatmeal
+533 fortified oatmeal
 ??? baggie of seitan
 0 8 oz. espresso wash
 
@@ -2411,7 +2411,7 @@ weight was at 7:37
 10 double espresso
 
 8:45 no exercise (yet?) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 0 bowl of leftover-from-making-seitan broth
 
 10:00 fruit snack
@@ -2463,7 +2463,7 @@ pooped .9 pounds at 6:40
 10 double espesso
 
 6:00 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:32 pre-run bonus caffeine
 10 double espesso
@@ -2473,7 +2473,7 @@ pooped .9 pounds at 6:40
 0 6 oz. water
 
 8:00 post-run recovery food
-533 normal oatmeal
+533 fortified oatmeal
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -2530,7 +2530,7 @@ nothing
 nothing
 
 9:00 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:45 recovery liquids
  20? green drink (no apple or fruit)
@@ -2571,7 +2571,7 @@ weight at 5:34
 20 quad espresso
 
 5:35 pre-run calories and analgesic
-533 normal oatmeal
+533 fortified oatmeal
 0 200mg ibuprofen
 
 5:50 more liquid
@@ -2581,7 +2581,7 @@ weight at 5:34
 20 quad espresso
 
 post run recovery food
-533 normal oatmeal
+533 fortified oatmeal
 
 8:20 protein snack
 ??? large baggie of homemade seitan from the refrigerator
@@ -2646,7 +2646,7 @@ nothing
 nothing
 
 9:00 post run recovery food
-1066 normal oatmeal
+1066 fortified oatmeal
 120 banana
 
 9:30 recovery liquids
@@ -2696,7 +2696,7 @@ weight was at 6:30
 nothing
 
 post run breakfast
-1066 normal oatmeal
+1066 fortified oatmeal
 
 fruit snack
  60 apple
@@ -2731,7 +2731,7 @@ Total Sleep 8:49, Deep: 1:14, Awake: 52, HR: 60bpm.  7:29 - 5:10
 Saturday 20230218
 pre
 
-1 serving normal oatmeal
+1 serving fortified oatmeal
 20 quad
 ??? cup of coffee
 
@@ -2765,7 +2765,7 @@ weight was at 5:30
 10 double espresso
 
 6:00
-533? normal oatmeal
+533? fortified oatmeal
 
 during run
 bag and a half of peanuts
@@ -2808,13 +2808,13 @@ Monday 20230220 weight 163.9 40.3F @ 8:18
 10 double espresso
 
 5:30
-normal oatmeal
+fortified oatmeal
 
 8:05 bonus pre-run caffeine
 10 double espresso
 
 post run
-normal oatmeal
+fortified oatmeal
 
 10:30 fruit snack
 green apple
@@ -2851,7 +2851,7 @@ weight was at 7:37 *after* eating my seitan (oops)
 ??? 1/2 baggie homemade seitan from the refrigerator
 
 9:24 no cardio (yet?) breakfast
-2x normal oatmeal
+2x fortified oatmeal
 
 10:50 fruit snack
 80 naval orange (the last)
@@ -2888,7 +2888,7 @@ it was about 163.7 at my lowest today.
 10 double espresso
 
 5:46 pre-run breakfast and analgesic (right foot hot-spot)
-533? normal oatmeal
+533? fortified oatmeal
 0 200mg ibuprofen
 
 6:15 pre-run bonus caffeine
@@ -2898,7 +2898,7 @@ during
 ? oz. Tailwind water
 
 post
-500? normal oatmeal (with less than normal soy milk, since we're out)
+500? fortified oatmeal (with less than normal soy milk, since we're out)
 
 9:05
 green drink
@@ -2945,7 +2945,7 @@ nothing
 0 4 oz. espresso wash
 
 post run
-2x normal oatmeal
+2x fortified oatmeal
 
 green drink
 rice milk
@@ -2984,7 +2984,7 @@ weight was at 5:20, just before eating
 10 double espresso
 
 5:20 pre-run calories
-??? 1.5x normal oatmeal
+??? 1.5x fortified oatmeal
 
 6:15 calories and analgesic
 510 3 oz. mixed nuts
@@ -3038,7 +3038,7 @@ weight was at 8:35, before oatmeal
 10 double espresso
 
 8:40 early pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:05 fruit & bread snack
  60 jazz apple
@@ -3082,7 +3082,7 @@ weight was at 7:11
 40.3F 58% um 8:16
 
 10:00 post-race breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 lunch
 ??? lentils (2/3rd cup in 2 cups water), no Tabasco
@@ -3118,7 +3118,7 @@ weight was at 5:30
 10 double espreso
 
 5:55 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 bonus caffeine
 10 double espreso
@@ -3126,7 +3126,7 @@ weight was at 5:30
 during interval training
 
 post run recovery
-533 normal oatmeal
+533 fortified oatmeal
 modified green drink (no carrot, so I added tomato)
 50? 16 oz. rice milk
 
@@ -3177,10 +3177,10 @@ nothing
 ??? entire baggie of homemade seitan and salsa (meant to only have half a baggie)
 
 7:50 no cardio today breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:45 more calories
-533 normal oatmeal
+533 fortified oatmeal
 
 oops ... didn't log, but I had my fruit snack, green drink and rice milk before lunch
 my lunch was lentils, I had a salad
@@ -3200,7 +3200,7 @@ weight was at 5:26, just before eating
 10 double espresso
 
 5:35 pre-run breakfast and analgesics
-533 normal oatmeal
+533 fortified oatmeal
 0 400mg ibuprofen
 0 500mg acetaminophen
 
@@ -3208,7 +3208,7 @@ weight was at 5:26, just before eating
 30 3x double (i.e., hex) espresso
 
 9:45 post run recovery
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
 ??? entire baggie of homemade seitan and salsa
 
@@ -3266,7 +3266,7 @@ weigh myself at the end
 during 14.65 mile "run"
 0 12 oz. water
 
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 green drink
 rice milk
 
@@ -3309,7 +3309,7 @@ weight was at 6:24
 nothing
 
 8:15 back at home
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:30 fruit snack
 120 banana
@@ -3354,7 +3354,7 @@ weight was at 5:32
 10 double espresso
 
 5:35 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 pre-run caffeine
 20 quad espresso
@@ -3366,7 +3366,7 @@ weight was at 5:32
  70? 24 oz. rice milk
 
 9:00 back home recovery
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 had to make it, first
  20? green drink (no apple or fruit)
@@ -3453,7 +3453,7 @@ weight was at 5:25? before eating oatmeal
 10 double espesso
 
 5:30
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run caffeine
 20 quad espresso
@@ -3465,7 +3465,7 @@ weight was at 5:25? before eating oatmeal
 345 1.15x (i.e. 23 oz.) (20 oz. water with 3 scoops of Tailwind)
 
 8:30 post run
-533 normal oatmeal
+533 fortified oatmeal
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -3523,7 +3523,7 @@ weight was at 6:25 after doing my core exercises
 nothing
 
 8:00 post run recovery
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
 
 8:40 more recovery liquid
@@ -3573,7 +3573,7 @@ weight was at 5:23
 ?300? ?1.0x (20 oz. water with three scoops of Tailwind)
 
 8:15 post-run calories
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:45 protein snack
 ??? baggie of homemade seitan from the refrigerator
@@ -3635,7 +3635,7 @@ nothing
 10 double espresso
 
 10:00 post run recovery
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -3685,7 +3685,7 @@ NOTE: my run was after getting a cortisone injection to see if it helps with
 nothing
 
 ~10:30 post-run recovery
-1066 2x normal oatmeal (made on the stove, the microwave died)
+1066 2x fortified oatmeal (made on the stove, the microwave died)
 
 10:50 apple snack (no more bananas or oranges)
 120 two small red apples
@@ -3726,7 +3726,7 @@ weight was at 5:21, after a small poop
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15
 30 3x double espresso
@@ -3735,7 +3735,7 @@ during King of the Hill
 555 1.85x (20 oz. water, 3 scoops Tailwind)
 
 post KotH
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 ??? 2 flour tortillas, red chile pancake (probably not vegan),
     green chile, syrup
@@ -3781,7 +3781,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:18 pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 more calories
 300 6 mandarin oranges
@@ -3790,7 +3790,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 nothing
 
 10:30 back homne
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 fruit snack
 120 banana
@@ -3836,7 +3836,7 @@ weight was at 5:37
 150 10 oz. water with 1.5 scoops Tailwind
 
 9:00 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:10 post run recovery beverages
  20? green drink (no apple or fruit)
@@ -3892,7 +3892,7 @@ nothing
 nothing
 
 8:30 post-run recovery
-533 normal oatmeal (first time with hemp in a while; we had been out)
+533 fortified oatmeal (first time with hemp in a while; we had been out)
  80 medium grapefruit
 
 10:00 early fruit snack
@@ -3940,7 +3940,7 @@ weight was at 5:27
 8:45 post-run recovery breakfast
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 fruit snack (no bananas or apples)
  80 grapefruit
@@ -3992,7 +3992,7 @@ nothing
 nothing
 
 9:00 post run recovery food and beverages
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -4113,7 +4113,7 @@ NOTE: I had a cortisone shot nine days prior
 done for the lidocaine
 
 ~5:00 pre-run calories and analgesics
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
    0 200mg ibuprofen
    0 500mg acetaminophen
 
@@ -4209,7 +4209,7 @@ weight was at 6:43, about a half hour after core
 5:15 - 6:16 during core exercise
 nothing
 
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 120 banana
 
 1030 bonus warming caffeine
@@ -4253,7 +4253,7 @@ weight was at 7:04
 10 double espresso
 
 11:15? post run breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 60? 20 oz. rice milk
 
 noon? back home
@@ -4298,7 +4298,7 @@ airport and then stop by mom's house for a visit afterward.
 ??? small baggie of seitan and Sadie's salsa
 
 9:45 no cardio (yet?) food
-533 normal oatmeal
+533 fortified oatmeal
 
 12:15 late lunch
 ??? (2/3rd cup dried pinto beans in cooked in 3 cups water for three hours),
@@ -4344,7 +4344,7 @@ weight was at 7:29
 nothing
 
 10:15 post run breakfast & recovery liquids
-533 normal oatmeal
+533 fortified oatmeal
  20? green drink (no apple or fruit)
 50? 16 oz. rice milk
 
@@ -4384,7 +4384,7 @@ Saturday 20230325 weight 166.1
 weight was at 5:03, before pooping
 
 5:05 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 5:15 wake-up
 10 double espresso
@@ -4430,7 +4430,7 @@ During one and a half final loops
 0 and bottle of water (thank you!)
 
 6:15 - 9:30? back home
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
   60 apple
  160 two naval oranges
  120 banana
@@ -4494,7 +4494,7 @@ forgot the weight.
 340 2 oz. mixed nuts
 
 5:30 no dates, late oatmeal
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 Monday 20230327 weight 164.6
 
@@ -4507,7 +4507,7 @@ weight was at 9:01
 10 double espresso
 
 9:00 no exercise (yet) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:45 substitute fruit snack (no bananas or oranges)
  60 red apple
@@ -4567,7 +4567,7 @@ Time and still recovering from the 50 miler I did on Saturday.
 0 16? oz. water (had 20)
 
 11:00 post run recovery meal
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -4614,7 +4614,7 @@ nothing
 
 12:47 back home
 0 4 oz. espresso
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 1:00 fruit snack
  60 apple
@@ -4662,7 +4662,7 @@ weight was at 6:30, after core, but before espresso wash and seitan
 0 17 oz. water
 
 10:00 post run recovery food
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:15 recovery liquids
 green drink
@@ -4776,7 +4776,7 @@ weight was at 6:11, just before eating carbs
 
 9:30 post race recovery
  70? 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  120 banana
  160 two oranges
   60 red apple
@@ -4829,7 +4829,7 @@ weight was at 5:33
 
 11:55 at truck afterward
  70? 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 12:30 back home
  60 red apple
@@ -4870,7 +4870,7 @@ weight was at 8:30
 10 double espresso
 
 8:30 no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 early fruit snack
 20 part of red apple (other part was rotten)
@@ -4918,7 +4918,7 @@ nothing
 ??? baggie of formerly frozen homemade seitan with Sadie's hot salsa (the rest)
 
 7:48 - 9:15 during 11.3# housework
-1066 2x normal oatmeal (@ 8:30)
+1066 2x fortified oatmeal (@ 8:30)
 
 9:30 early fruit snack
 120 banana
@@ -4971,7 +4971,7 @@ weight was at 5:30? I forgot to write it down at the time
 10 double espresso
 
 7:00 pre hike calories
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:10 pre hike fruit snack
  60 green granny smith apple
@@ -5039,10 +5039,10 @@ nothing
 ??? mango
 
 1:55 late! "breakfast"
-533 normal oatmeal
+533 fortified oatmeal
 
 3:00 probably not going to run again today, so may as well eat it now
-533 normal oatmeal
+533 fortified oatmeal
 
 4:30 dinner
 ??? lentils (2/3rd cup in 2 cups water), no Tabasco
@@ -5070,7 +5070,7 @@ weight was at 6:40
 nothing
 
 10:45 post cardio "quick" food (have to shower and leave by 11:30) 
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 129 banana
@@ -5116,7 +5116,7 @@ weight was at 7:56
 ??? some (the rest) peanut butter
 
 8:40 no exercise yet breakfast
-1066 2xnormal oatmeal
+1066 2xfortified oatmeal
 
 9:30 early fruit (no bananas)
 160 two naval oranges
@@ -5169,7 +5169,7 @@ weight was at 6:58
 0 24 oz. water
 
 post ride breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  70? 24 oz. rice milk
 
 12:45 back home
@@ -5223,7 +5223,7 @@ weight was at 5:42
 0 40 oz. water (would have drank more if I had brought it)
 
 10:55 post run recovery food
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? two small homebaked cookies (vegan)
 
 11:30 lunch
@@ -5272,7 +5272,7 @@ weight was at 5:28, early in my core exercises (I forgot to weigh myself after)
 ??? 1/2 large baggie seitan, with Sadie's Hot Salsa
 
 8:15 no cardio (yet?) "breakfast"
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 120 two red apples (no bananas)
@@ -5315,7 +5315,7 @@ weight was at 5:30
   5? two apple cores (from Elvis)
 160 two naval oranges
 120 banana
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 ?:?? didn't write 'em down at the time, but I ate 'em
  20? green drink (no apple or fruit)
@@ -5342,7 +5342,7 @@ weight was at 6:17 just after my core
 0 4 oz. espresso wash
 
 7:49 pre-cardio breakfast
-500? normal oatmeal (without Udo's oil; we've been out for a little bit,
+500? fortified oatmeal (without Udo's oil; we've been out for a little bit,
                      but I didn't record that on the few oatmeals I've
                      made without it)
 
@@ -5353,7 +5353,7 @@ weight was at 6:17 just after my core
 nothing
 
 10:15 post run recovery food
-500? normal oatmeal (without Udo's oil
+500? fortified oatmeal (without Udo's oil
 
 10:30 fruit snack
  60 red apple
@@ -5446,7 +5446,7 @@ nothing
 weighed 160.3 at 3:20
 
 3:20 breakfast, fruit snack
-1066 2x normal oatmeal (not actually true, one was Amazon Happy Belly)
+1066 2x fortified oatmeal (not actually true, one was Amazon Happy Belly)
  60 red apple (the last)
 160 two naval oranges (bought grocery shopping, but I didn't realize we were
                        short on apples)
@@ -5487,7 +5487,7 @@ weight was at 7:00
 0 ~50 oz. water
 
 2:15 post ride breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  70? 24 oz. rice milk
 
 2:45? back home
@@ -5516,7 +5516,7 @@ weight was 160.2 at 5:30
 10 double espresso
 
 6:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? pre-run bonus caffeine
 10 double espresso
@@ -5553,7 +5553,7 @@ during final 15.5 mile run
 0 lots of water
 
 back home, before bed
-533 normal oatmeal
+533 fortified oatmeal
 ??? I didn't write anything down, but I think I ate a bunch.   I don't think
     I took time to cook lentils, make a green drink or make more oatmeal.
     I know I got a little chilly due to walking slowly with Tony
@@ -5582,7 +5582,7 @@ nothing
     radish, ginger, habanero, some radish greens)
 50? medium bowl broccoli & cauliflower
 
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 1:15 afternoon snack
 330 6 tablespoons of popcorn kernels air popped, plain
@@ -5611,7 +5611,7 @@ weight was at 5:42
 0 ? oz. water
 
 ~noon back home recovery food, beverages, fruit and hash browns
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  10 tiny red apple
  60 green granny smith apple
 120 banana
@@ -5660,7 +5660,7 @@ nothing
 nothing
 
 10:35 post run recovery food
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:00 fruit snack
  60 large fuji apple
@@ -5699,7 +5699,7 @@ weight was at 6:47
 10 double espresso
 
 9:30 mid "exercise" breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 ~10:00 recovery beverages
  20? green drink (no apple or fruit)
@@ -5743,7 +5743,7 @@ weight was at 5:49
 Did not log calories during the day, so this is from memory on Monday the 24th
 
 9:07 Cedro Peak breakfast (timestamp from photo)
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 120 banana
  60 red apple
  80 orange (I thought I had two, but I lost one)
@@ -5809,7 +5809,7 @@ Did not log calories during the day, so this is from memory on Monday the 24th
 
 12:45 sitting on bench, relaxing
  70? 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 1:30? back home
  20? green drink (no apple or fruit)
@@ -5847,7 +5847,7 @@ weight was at 6:01
 nothing
 
 9:07 post run breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 ??? small grapefruit (about the size of a naval orange)
@@ -5899,7 +5899,7 @@ weight was at 6:17, just after core
 nothing
 
 10:00 post "run" recovery food
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:30 fruit snack
 160 two naval oranges
@@ -5943,7 +5943,7 @@ weight was at 6:35
 nothing
 
 9:45 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -5994,7 +5994,7 @@ nothing
 nothing
 
 10:30 post run recovery
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -6047,7 +6047,7 @@ Dang. I weighed myself, but forgot to write it down.
 nothing
 
 8:15 post run breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -6131,7 +6131,7 @@ weight was at 6:41, just before eating my oatmeal
 10 double espresso
 
 6:44 no exercise (yet?) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 7:15 no exercise (yet?) recovery beverage
  20? green drink (no apple or fruit) -- made back in Albuquerque
@@ -6164,7 +6164,7 @@ weight was at 6:41, just before eating my oatmeal
 115 5 dates
 
 1:50 it was too lumpy, so I ate it
-533 normal oatmeal, except I had made it without soy milk hours ago, then
+533 fortified oatmeal, except I had made it without soy milk hours ago, then
     I got some soy milk at Basha's and added it to what I had made, but I
     couldn't get it to mix, so I'm making a new batch for tomorrow morning
     and eating this one now
@@ -6187,7 +6187,7 @@ in truck:
 ...
 10:00 handful of walnuts (scale is in van)
 
-2x normal oatmeal
+2x fortified oatmeal
 15-bean
 
 12:28 crucifers
@@ -6206,7 +6206,7 @@ Sunday 20230507 weight 166.2
 5:40 MST *after* eating first bowl of oatmeal
 
 5:35 MST no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 7:20 MST hungry
 230 10 dates
@@ -6253,7 +6253,7 @@ Monday 20230508 weight 162.5
 ??? 10 oz. "strong" keurig coffee
 
 6:15 no exercise (yet?) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 7:15 they were there
 200 1 oz. walnuts
@@ -6296,7 +6296,7 @@ weight was at 4:29 MST
 ??? 10 oz. "strong" keurig coffee
 
 5:35 no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 6:00 early fruit snack
 120? huge naval orange (with poor flavor)
@@ -6345,7 +6345,7 @@ weight was at 9:24 as I do housework
 
 10:00 mid housework breakfast
 0 12 oz. espresso wash
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 beginning of lunch
 ??? large bowl of brussel sprouts and broccoli
@@ -6387,7 +6387,7 @@ weight was at 7:02
 10 double espresso
 
 7:15 no exercise (yet) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:30 no exercise yet protein snack & bonus caffeine
 ??? large bowl of homemade seitan (thanks, Sophie) & salsa
@@ -6441,7 +6441,7 @@ weight was at 8:03
 10 10 oz. black coffee
 
 8:00 pre exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:50 late out of order lunch beginning and fruit snack
 ??? medum bowl of broccoli
@@ -6485,7 +6485,7 @@ weight was at 5:59
 200? some Tailwind (the rest, from Cedro) in 20 oz. water
 
 10:00? back home (Ma's house now) breakfast, etc.
-1066 2x normal oatmeal 
+1066 2x fortified oatmeal 
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 120 banana
@@ -6540,7 +6540,7 @@ Sunday 20230514 weight 160.3
 60 fuji apple
 240 2 bananas
 150 3 clementines
-533 normal oatmeal that I made for mom, not realizing she hadn't eaten
+533 fortified oatmeal that I made for mom, not realizing she hadn't eaten
     the rest of the other serving I made her previously
 
 11:30 lunch
@@ -6585,7 +6585,7 @@ weight was at 5:50
 18 18 oz. black coffee (2 10 oz. mugs, with me not quite finishing the second)
 
 8:00 early breakfast and fruit snack
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  60 red apple
 120 banana
 160 two naval oranges
@@ -6634,7 +6634,7 @@ weight was at 5:46
 12 12 oz. (2 oz. leftover from yesterday, plus a mug full made today)
 
 7:30? - 8:30 breakfast & fruit snack with mom
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 300 avocado
  60 fuji apple
  80 cara cara orange
@@ -6694,7 +6694,7 @@ improvement.
 
 9:30 post "run" (i.e., walk) breakfast, recovery and fruit snack
  20? green drink (no apple or fruit)
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  300 avocado
 360 three bananas (they're getting too ripe and the peels were splitting)
 160 two cara cara oranges
@@ -6745,7 +6745,7 @@ weight was at 8:08
 ??? 9 oz. (the rest) black coffee
 
 9:30 breakfast and fruit snack
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 300 avocado
 120 banana (the last)
  60 red (fuji?) apple
@@ -6786,7 +6786,7 @@ weight was at 9:38
 10 double espresso
 
 9:38 no exercise breakfast
-900? 2x normal oatmeal, one with less soy milk than usual, with the remainder
+900? 2x fortified oatmeal, one with less soy milk than usual, with the remainder
      being rice milk, the other being with rice milk instead of soy milk
      (because I ran out of soy milk)
 300 medium avocado
@@ -6854,7 +6854,7 @@ weight was at 5:21
 190 flour tortilla with mustard
 
 2:00? back at mom's
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? salad (ancient, slimy mixed greens, kale, cucumber, carrot, walnuts,
            garlic, onion, purple onion, green onion, red bell pepper,
            jalapeño, lime, tomato)
@@ -6883,7 +6883,7 @@ weight was at 6:10
 10 double espresso
 
 6:30 very early breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:45 fruit snack without much fruit
 80 cara cara orange (the last)
@@ -6922,7 +6922,7 @@ weight was at 5:45
 10 double espresso
 
 6:30 early, no exercise, breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:07 bonus caffeine (did not sleep well, due to player-id db manipulations)
 10 double espresso
@@ -6965,7 +6965,7 @@ weight was at 5:31
 10 double espresso
 
 6:45 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:30 morning snack
 300 (slightly ripe) avocado
@@ -7015,7 +7015,7 @@ sure it was 162.something.
 10 double espresso
 
 6:30 no exercise (yet?) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 7:30 they were there (I was getting them out for mom)
 ??? handful of fresh raisins
@@ -7060,7 +7060,7 @@ Saturday 20230527 weight 162.7
 weight was at 6:40, just before breakfast
 
 6:40 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:00? bonus caffeine (forgot to write it down at the time) & fat
 10 10 oz. black coffee
@@ -7103,7 +7103,7 @@ weight was at 5:51
                      although she didn't wake up when I expected her to)
 
 7:30 pre-exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 
 10:30 slightly early fruit snack
@@ -7146,7 +7146,7 @@ Monday 20230529 weight 163.5? (forgot to write it down at the time)
 10 double espresso
 
 6:30 early breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:00 early fruit snack (out of apples)
 160 two cara cara oranges
@@ -7194,7 +7194,7 @@ weight was at 5:30
 10 10 oz. black coffee
 
 8:30 no exercise breakfast & bonus bonus caffeine
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  8 8 oz. (the rest) black coffee)
 
 9:30 (remaining) fruit snack (no oranges or apples)
@@ -7247,7 +7247,7 @@ weight was at 8:59
 11 11 oz. black coffee
 
 9:00 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 160 two oranges
@@ -7292,7 +7292,7 @@ weight was at 7:20
 
 8:00 no exercise breakfast
  6 6 oz. (the rest) black coffee
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 160 twp naval orange
@@ -7338,7 +7338,7 @@ I *think* my weight was 163.3 before my first double espresso, but after a big p
 10 10 oz. black coffee
 
 8:00 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:15 fruit snack
 160 two (the last) oranges
@@ -7370,7 +7370,7 @@ weight was at 4:49, after post caffeine poop
 10 double espresso
 
 5:05 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 5:15 more wake-up
 10 double espresso
@@ -7384,7 +7384,7 @@ weight was at 4:49, after post caffeine poop
  70? 24 oz. rice milk
 200 4 cuties
 120 banana
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 back at 4744
 ??? Sprouts organic green lentils (2/3rd cup in 2 1/2 cups water),
@@ -7423,7 +7423,7 @@ weight was at 7:31
 10 double espresso
 
 8:00 no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 60 fuji apple
@@ -7467,7 +7467,7 @@ weight was at 6:17
 10 double espresso
 
 8:00 no exercise (yet?) breakfast
-1066 2x normal oatmeal (FWIW, "normal" hasn't been normal for a while,
+1066 2x fortified oatmeal (FWIW, "normal" hasn't been normal for a while,
      because I ran out of Coach's Oats and I've been using Amazon Happy
      Belly Steel Cut Oats and rolled oats.  I don't remember when I
      started, but I'm planning on going to Costco today)
@@ -7519,7 +7519,7 @@ weight was at 6:27
 10 double espresso
 
 6:45 no exercise breakfast
-1066 2x normal oatmeal (back to Coach's Oats post Costco trip)
+1066 2x fortified oatmeal (back to Coach's Oats post Costco trip)
 
 7:30 breakfast continued
 ??? grapefruit
@@ -7565,7 +7565,7 @@ weight was at 7:45
 10 10 oz. black coffee
 
 7:30? no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
 120 banana
@@ -7622,7 +7622,7 @@ weight was at 6:28
 7:30 8 oz. (the rest) black coffee
 
 8:00 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack (no bananas)
 180 two naval oranges
@@ -7671,7 +7671,7 @@ weight was at 8:39
 2 2 oz. (the rest) black coffee
 
 8:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack (no bananas)
 180 two naval oranges
@@ -7736,7 +7736,7 @@ four or so small bunches of green grapes
 
 6:15 - 7:15 back home
 60 naval oranges
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? salad (mixed greens, misc. colored carrots, misc. bell peppers,
            garlic, yellow onion, red onion,
            habanero, tomato, radish, pickle, sweet peppers, radish greens,
@@ -7760,7 +7760,7 @@ Sunday 20230611 weight 163.1
 12 12 oz. (the rest) black coffee
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? a bunch of peanut butter (the rest) from an almost empty jar
 
 10:00 early fruit snack
@@ -7856,7 +7856,7 @@ weight was at 6:53
 10 10 oz. black coffee
 
 7:00 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:45 out-of-fruit snack
 ??? 4 medjool dates
@@ -7907,7 +7907,7 @@ Wednesday 20230614 weight 163.1
 10 10 oz. black coffee
 
 8:00 no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:15 fruit snack substitute (out of fruit at 4744)
 230 10 dates
@@ -7955,7 +7955,7 @@ weight was at 5:58
 10 double espresso
 
 6:30 early no exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:30 fruit snack
  60 cosmic crisp apple
@@ -8008,7 +8008,7 @@ weight was at 7:09
 12 12 oz. (the rest) black coffee
 
 9:30 breakfast and fruit snack
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  60 cosmic crisp apple
 160 two naval oranges
 120 banana
@@ -8053,7 +8053,7 @@ Saturday 20230617 weight 164.2? (forgot to weigh myself)
 20 oz. black coffee
 
 9:00 fruit snack
-2x normal oatmeal (except no Udo's Oil)
+2x fortified oatmeal (except no Udo's Oil)
 160 two oranges
  60 cosmic crisp apple (the last)
 120 banana
@@ -8103,7 +8103,7 @@ weight was at 5:24
 8:00 back home
  50? 16 oz. rice milk
  20? green drink (no apple or fruit)
-2x normal oatmeal (except no Udo's Oil)
+2x fortified oatmeal (except no Udo's Oil)
 
 8:15 bonus caffeine
 20 20 oz. black coffee
@@ -8142,7 +8142,7 @@ nothing
 7:15 post ride breakfast
  50? 16 oz. rice milk
  20? green drink (no apple or fruit)
-2x normal oatmeal (except no Udo's Oil)
+2x fortified oatmeal (except no Udo's Oil)
 
 9:30? fruit snack
 160 two naval oranges
@@ -8189,7 +8189,7 @@ Wednesday
 post unicycle
 8 oz. rice milk?
 
-1066 2x normal oatmeal (with Udo's Oil)
+1066 2x fortified oatmeal (with Udo's Oil)
 
 ??? 3 oz.? (the rest) mixed nuts
 
@@ -8220,7 +8220,7 @@ weight was at 6:30, I think
 10 double espresso
 
 10:00 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:50 - 11:30 during 2.4 mile unicycle ride to Cheba Hut
 nothing
@@ -8274,7 +8274,7 @@ during descent
 
 ~5:00 back home
  50? 16 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 150 3 clementines
  60 cosmic crisp apple
 120 bamana
@@ -8296,7 +8296,7 @@ during unicycling
 nothing
 
 9:50? breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:00 fruit snack
  60 cosmic crisp apple
@@ -8337,7 +8337,7 @@ weight was at 8:00
 10 double espresso
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:00 fruit snack
 300 avocado
@@ -8404,7 +8404,7 @@ nothing
  60 apple
  
 12:00? back at 4744 after shopping at Sprouts
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  80 naval orange
 
 12:30? after preparing the lentils and crucifers
@@ -8456,7 +8456,7 @@ because I don't think the one I left out had ripened yet and the others
 are in the fridge.
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:15 fruit snack
  60 fuji apple
@@ -8498,7 +8498,7 @@ weight was at 5:46
 10? 10 oz. black coffee
 
 9:30 post unicycling breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  50? 16 oz. rice milk
  
 11:15 fruit snack
@@ -8548,7 +8548,7 @@ weight was at 6:16
 ??? 16 oz.? (the rest of the second pot) black coffee
 
 10:00 post unicycling breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 beginning of lunch
 ??? other 1/2 of a large bowl of broccoli, cauliflower and brussel sprouts
@@ -8598,7 +8598,7 @@ Thursday 20230713 weight 1??.?
 at home
 pear
 banana
-533 normal oatmeal (with Udo's Oil)
+533 fortified oatmeal (with Udo's Oil)
 ...
 ??? nice lentils (2/3rd cup in 2 1/2 cups water), 10 squirts of Tabasco
 broccoli & brussel sprouts
@@ -8642,7 +8642,7 @@ weight was at 5:30
 10:15? post exercise breakfast
  240 two bananas
    0 8 oz. black coffee (the rest)
-1066 2x normal oatmeal (with Udo's oil, but some was with spoiled soy milk)
+1066 2x fortified oatmeal (with Udo's oil, but some was with spoiled soy milk)
 
 11:30 lunch
 ??? nice lentils (2/3rd cup in 2 1/2 cups water), 10 squirts of Tabasco
@@ -8681,7 +8681,7 @@ weight was at 7:57
    0 16 oz.? black coffee (full mug, not sure how many ounces)
 
 10:50 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 lunch
 ??? nice lentils (2/3rd cup in 2 1/2 cups water), 10 squirts of Tabasco
@@ -8720,7 +8720,7 @@ during 5k unicycle ride
 nothing
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 at 8808 after shopping at Costco
  60 apple
@@ -8765,7 +8765,7 @@ I may have had a big mug of coffee before leaving. I can't remember.
 0 12 oz.? black coffee
 
 12:30 MST At scenic view by Lake Meade
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 3:00 - 4:30 PDT at hotel room
 ??? 12 oz. 8.4% ABV Bosque Brewing Scotia scotch ale
@@ -8807,7 +8807,7 @@ nothing
  70? 24 oz. rice milk
 
 9:30 breakfast
-1000? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+1000? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
       from home)
 120 banana
 160 two naval oranges
@@ -8852,7 +8852,7 @@ weight was at 4:47 (forgot to weigh myself after my ride)
  20? green drink (no apple or fruit)
 
 8:45 breakfast
-1000? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+1000? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
       from home)
 
 9:30? fruit snack
@@ -8910,7 +8910,7 @@ during 9.3 mile unicycle ride (with time to talk to Simon, Katrice and Kendra)
  20? green drink (no apple or fruit)
 
 8:30 breakfast
-1000? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+1000? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
       from home)
 120 banana
 160 two naval oranges
@@ -8953,7 +8953,7 @@ during BARGE Fun Run
 ??? 16 oz. 7.5% ABV La Cumbre Malpais Stout
 
 post fun-run
-1000? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+1000? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
       from home)
 120 banana
 160 two naval oranges
@@ -9001,7 +9001,7 @@ discomfort bother me later in the day.
 10 double espresso
 
 8:30 breakfast
-1000? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+1000? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
       from home)
 120 banana
 160 two naval oranges
@@ -9050,7 +9050,7 @@ weight was at 4:40
 
 7:00 - 7:45 post run
  50? 16 oz. rice milk
-900? 2x normal oatmeal (w/o Udo's Oil, because I didn't want to bring it
+900? 2x fortified oatmeal (w/o Udo's Oil, because I didn't want to bring it
      from home, but with only about 1/3 cup of oatmeal because I ran out)
 120 banana
 160 one (the last) naval orange
@@ -9180,7 +9180,7 @@ weight was at 6:24
 0 44 oz. water
 
 10:15 breakfast
-1066? 2x normal oatmeal (w/Udo's Oil, but with rolled oats rather than
+1066? 2x fortified oatmeal (w/Udo's Oil, but with rolled oats rather than
       Coach's Oats, because Costco was out of them when I went shopping
       just before BARGE)
 
@@ -9227,7 +9227,7 @@ weight was at 5:15
 8:02 - 10:10 during various unicycle rides
 nothing
 
-1066? 2x normal oatmeal (w/Udo's Oil, but with rolled oats rather than
+1066? 2x fortified oatmeal (w/Udo's Oil, but with rolled oats rather than
       Coach's Oats, because Costco was out of them when I went shopping
       just before BARGE)
 
@@ -9278,7 +9278,7 @@ during unicycle ride "with" ma
 120 banana
 ??? peach
 160 two naval oranges
-1066? 2x normal oatmeal (w/Udo's Oil, but with rolled oats ...)
+1066? 2x fortified oatmeal (w/Udo's Oil, but with rolled oats ...)
 
 10:00 fat snack
 300 avocado
@@ -9366,7 +9366,7 @@ post hike
 ??? 32 oz. (two) 5.?% ABV Boxing Bear Chocolate Stout
 
 back home
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 green drink
 160 two naval oranges
  60 fuji apple
@@ -9397,7 +9397,7 @@ post unicycle ride
  50? 16 oz. rice milk
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:30 fruit snack
 160 two naval oranges
@@ -9445,7 +9445,7 @@ weight was at 5:44
 ??? 10 oz. black coffee (the rest)
 
 9:34 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 160 two naval oranges
  60 fuji apple
 120 banana
@@ -9499,7 +9499,7 @@ nothing
  50? 16 oz. rice milk
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:15 fat and fruit snack
 300 medium avocado
@@ -9538,7 +9538,7 @@ weight was at 6:17
 10 double espresso
 
 7:50 pre-exercise breakfast & bonus caffeine
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? 16 oz. black coffee
 
 9:30 fruit snack
@@ -9632,7 +9632,7 @@ a lot of water
 
 back at ma's
 rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 160 two naval oranges
 120 banana
 300 avocado
@@ -9674,7 +9674,7 @@ during unicycle ride to and from Sprouts
 nothing
 
 10:00 breakfast back at 4744
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 120 banana
  60 fuji apple
 160 two naval oranges
@@ -9717,7 +9717,7 @@ during 5 mile ike ride
 nothing
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  60 fuji apple
 120 banana
 160 two naval oranges
@@ -9803,7 +9803,7 @@ Thursday 20230810 weight 1??.? (didn't bring a scale)
 
 11:30 EDT
 ??? two or three handfuls of roasted, salted almonds
-500? normal oatmeal, but without Udo's Oil
+500? fortified oatmeal, but without Udo's Oil
 120 banana
  60 Fuji apple
 160 two oranges
@@ -9833,7 +9833,7 @@ during 7.6 mile run
 ??? 12 oz. 11% ABV Bourbon Barrel Aged Dragon's Milk
 bowl of prepared vegetables
 ??? ??? handful of salted roasted almonds
-1000 2x normal oatmeal (but without Udo's Oil)
+1000 2x fortified oatmeal (but without Udo's Oil)
  10 part of a mealy fuji apple
 160 two naval oranges (probably fewer calories; they were tiny)
 120 banana
@@ -9902,7 +9902,7 @@ during 2 mile unicycle ride
 nothing
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 11:30 lunch
 ??? lentils (2/3rd cup in 2 cups water), 10 squirts of Tabasco, FWIW, it
@@ -9941,7 +9941,7 @@ weight was at 5:35
 0 5 oz. water
 
 9:30 post ride breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 final bonus caffeine
 10 double espresso
@@ -9980,7 +9980,7 @@ during hike
 
 post hike
  70? 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 12:50 back home
 14 oz. black cofffee
@@ -10015,7 +10015,7 @@ nothing
 
 7:30 breakfast
 ??? 16 oz. (the rest) fresh black coffee
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 more breakfast
 ??? 16 oz. (the rest) fresh black coffee
@@ -10063,7 +10063,7 @@ during unicycle ride with ma
 nothing
 
 post ride
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -10115,7 +10115,7 @@ during 24 mile unicycle ride
 
 11:20 post ride recovery
  70? 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 12:15 back at 4744
 120 banana
@@ -10156,7 +10156,7 @@ weight was at 5:39
 10 double espresso
 
 9:45 no exercise (due to swamp cooler issue) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:00 fruit snack
 300 avocado
@@ -10204,7 +10204,7 @@ nothing
 8:20 post ride breakfast
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 9:15 bonus caffeine
 ??? 16 oz. lukewarm, but otherwise fresh, black coffee
@@ -10252,7 +10252,7 @@ during tiny unicycle ride
 nothing
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  20? green drink (no apple or fruit)
  50? 16 oz. rice milk
 
@@ -10288,13 +10288,13 @@ weight was at 5:55
 ??? 14 oz. fresh black coffee
 
 6:45 pre-ride breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:21 - 8:15 during ride
 nothing
 
 8:30 post-ride breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 ~9:00 - 10:00 while making salads
  20? green drink (no apple or fruit)
@@ -10352,7 +10352,7 @@ nothing
 nothing
 
 post ride breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:50 fruit snack
  60 fuji apple
@@ -10404,7 +10404,7 @@ nothing
 ??? some rice milk left over from making more
 
 9:40 breakfast
-1033 2x normal oatmeal
+1033 2x fortified oatmeal
 
 11:30 lunch
 ??? lentils (2/3rd cup in 2 cups water), 10 squirts of Tabasco
@@ -10444,10 +10444,10 @@ weight was at 5:33
 
 ~1:00 post ride
  70? 24 oz. rice milk
-533 normal oatmeal
+533 fortified oatmeal
 
 2~1:45 - 4:30 post shopping run with Jeff
-533 normal oatmeal
+533 fortified oatmeal
 3 samosas with supplied dipping sauce, green chutney, green chile pickle,
   and lime pickle
 
@@ -10480,7 +10480,7 @@ weight was at 5:53
 nothing
 
 10:10 post unicycle ride
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:50 fruit snack (out of apples)
 120 banana
@@ -10514,7 +10514,7 @@ weight was at 4:50?
 0 ? oz. water
 
 8:45 post-ride breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  70? 24 oz. rice milk
 
 10:30 free fruit
@@ -10548,7 +10548,7 @@ weight was at 6:23 just after finishing my core exercises
 280 bag of edamame
 
 7:25 pre cardio breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 during unicycle ride
 nothing
@@ -10558,7 +10558,7 @@ nothing
  20? green drink (no apple or fruit)
 
 9:30 more breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 beginning of fruit snack (out of oranges)
 240 two overripe bananas
@@ -10591,7 +10591,7 @@ weight was at 6:01
 10 double espresso
 
 6:30 pre-exercise breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:45 overflow
 4 some green drink I prepared in advance (still about a pint left for later)
@@ -10652,7 +10652,7 @@ nothing
 
 2:50 back home
  50? 16 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 120 banana
 160 2x oranges (one cara cara, one naval)
  60 Fuji apple (I think I ate one, I may have forgotten)
@@ -10681,7 +10681,7 @@ nothing
  50? 16 oz. rice milk
 
 9:45 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:50 fruit snack
  60 fuji apple
@@ -10731,7 +10731,7 @@ during 30 mile unicycle ride
 
 post ride
 24 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 back at mom's
 120 banana
@@ -10781,7 +10781,7 @@ green apple
 banana
 ...
 green drink (kale instead of spinach, cucumber, carrot)
-normal oatmeal
+fortified oatmeal
 
 eventually
 ??? lentils (2/3rd cup in 2 cups water), 10 squirts of Tabasco, with
@@ -10848,7 +10848,7 @@ weight was at 6:51
 10 double espresso
 
 7:00 no exercise (yet?) breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 8:30 tiny snack
 ??? tiny handful (the rest) raw Brussel sprouts
@@ -10890,7 +10890,7 @@ weight was at 5:31
 10 double espresso
 
 9:40 no exercise yet breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:50 fruit snack
 ??? two kiwifruit
@@ -10931,7 +10931,7 @@ Monday 20230911 weight 170.7
 
 10 double espresso
 
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 lentils
 broccoli
@@ -10963,7 +10963,7 @@ nothing
 ??? post unicycle ride
 small bowl of figs
 small bowl of potato, cabbage in olive oil
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 280 bag of edamame
 
 200 4 clementines
@@ -10990,7 +10990,7 @@ weight was at 6:33
 10 double espresso
 
 9:30 no exercise (yet?) breakfast
-525? 1x normal oatmeal, but had slightly less than 1/3rd cup of oatmeal (i.e.
+525? 1x fortified oatmeal, but had slightly less than 1/3rd cup of oatmeal (i.e.
      the rest)
 280 bag of edamame
 
@@ -11076,7 +11076,7 @@ weigh was at 6:09
 0 30 oz.? water
 
 9:45 post ruck breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:30 fruit snack
 120 banana
@@ -11120,7 +11120,7 @@ Took pix of calories consumed on bike trip.  TODO: review and add them here
 post ride
 24 oz. rice milk in parking lot
 
-1066 2x normal oatmeal at mom's
+1066 2x fortified oatmeal at mom's
 
 back at 8808
 160 two cara cara oranges
@@ -11148,7 +11148,7 @@ during ride
 
 post ride
 8 oz. rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 at home
 ??? grapefruit
@@ -11185,7 +11185,7 @@ weight was at 6:46
 0 20 oz. water
 
 10:45 post "run" recovery
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
  120 banana
  ??? bowl of figs from our fig tree
 
@@ -11238,7 +11238,7 @@ nothing
 ??? grapefruit (the last)
 
 2:10 more eating
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 4:30 early nut and date snack
 340 2 oz. mixed nuts
@@ -11258,7 +11258,7 @@ post run
  20? green drink (no apple or fruit)
 
 9:30 post run recovery breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? vegan pastalito (Sophie made)
 300 medium avocado
 
@@ -11299,7 +11299,7 @@ note: I had a blood panel draw at 8:40.  I've been tired quite a bit lately
 9:30 recovery fluid & breakfast
  50? 16 oz. rice milk
  20? green drink (no apple or fruit)
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 Thursday 20230921 weight 165.3 64.8F, 60% humidity @ 6:53 (Sevano Circle)
 https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
@@ -11325,7 +11325,7 @@ nothing
  20? green drink (no apple or fruit) and with baby argula instead of spinach
 
 9:30 breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 
 10:00 late post-core protein snack
 280 bag of edamame
@@ -11364,7 +11364,7 @@ green
 rice
 
 9:30 breakfast
-1033 2x normal oatmeal
+1033 2x fortified oatmeal
 
 10:50 fruit snack
 ??? 2 kiwifruit
@@ -11413,7 +11413,7 @@ on drive back home
 24 oz. rice milk
 
 back home
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 150 3 mandarin orangges
 
 11:35
@@ -11452,7 +11452,7 @@ mile 75 feast
 
 ?:?? post race food
 ??? tiny bit (the rest) of rice milk
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
 ??? bowl of some crazy Indian (from India) corn chips with peanuts and spices
 ??? 12 oz. 13.6% ABV Prairie Artisan Mo Peanut Mo Problems
 ??? 6 oz. 5% ABV Prairie Artisan Bloody Pickle Monster (split with Jeff)
@@ -11477,7 +11477,7 @@ nothing
 
 9:45 post run
  20? green drink (but with remaining salad greens instead of spinach)
-533 1x normal oatmeal
+533 1x fortified oatmeal
 ??? some rice milk left over from me making a new pitcher
 
 10:40 fat snack
@@ -11526,7 +11526,7 @@ nothing
  50? 16 oz. rice milk
 
 10:20 delayed breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 (beginning of?) lunch
 ??? lentils (2/3rd cup in 2 cups water), broccoli, Brussel sprouts, cauliflower,

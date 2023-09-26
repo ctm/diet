@@ -7,7 +7,7 @@ Tuesday 20190101 weight 159.50 / 157.7 49 bpm, 23.9F (Heritage Hills)
 20 quad espresso
 
 5:45 pre-run calories
-1066 2 servings normal oatmeal
+1066 2 servings fortified oatmeal
 
 6:30 more calories
 320 2 oz. mixed nuts
@@ -41,7 +41,7 @@ Wednesday 20190102 weight 159.75 / 157.7 48 bpm, 12.6F (Heritage Hills)
 10 double espresso
 
 6:00 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 more calories
 490 1 bowl 2 cups lentils and extra water (w/ 3 chiles)
@@ -99,7 +99,7 @@ Thursday 20190103 weight 158.75 / 157.1 49 bpm, 14.9F (Heritage Hills)
 10 double espresso
 
 8:10 post-run calories (40# pack, 5.6 mile run)
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:00 Cocoa Conspiracy
@@ -134,7 +134,7 @@ Friday 20190104 weight 162.25 / 160.2 48 bpm, 22.6F (Heritage Hills)
 10 double espresso
 
 10:40 breakfast post 13.1 mile run
-530? normal oatmeal (although with some almond milk replacing some soy)
+530? fortified oatmeal (although with some almond milk replacing some soy)
  50? 16 oz. rice milk
  50? green drink
 
@@ -175,7 +175,7 @@ Saturday 20190105 weight 159.75 / 158.4 45 bpm, 24.4F (Sandia Heights)
 10 double espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 more caffeine
 10 double espresso
@@ -190,7 +190,7 @@ Saturday 20190105 weight 159.75 / 158.4 45 bpm, 24.4F (Sandia Heights)
 ? ?x 3 scoops of Tailwind in 20 oz. water
 
 11:10 post-run recovery food
-533 normal oatmeal
+533 fortified oatmeal
 50? 16? oz. rice milk (all that was left)
 
 11:30 lunch
@@ -233,14 +233,14 @@ parking lot to convince me that riding was a bad idea, so I drove home.
 10 double espresso
 
 5:30 pre-ride breakfast (but didn't ride!)
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 bonus calories & caffeine
 10 double espresso
 400? slice of vegan fig and pear pie
 
 9:30 post 13.1 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  70? 24 oz. rice milk
 150? small amount of hash browns (leftovers)
@@ -279,7 +279,7 @@ Monday 20190107 weight 159.25 / 157.2 50 bpm, 28.4F (Heritage Hills)
 20 quad espresso
 
 5:25 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:45 pre-run caffeine
 20 quad espresso
@@ -288,7 +288,7 @@ Monday 20190107 weight 159.25 / 157.2 50 bpm, 28.4F (Heritage Hills)
 600 2x 3 scoops Tailwind per 20 oz. water
 
 9:00 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 liquids
  50? 16 oz. rice milk
@@ -335,7 +335,7 @@ Tuesday 20190108 weight 158.75 / 157.1 51 bpm, 26.1F (Heritage Hills)
 10 double espresso
 
 8:30 post 8.9 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -388,7 +388,7 @@ normal anyway, because 57 is awfully high even after a quad.
 20 quad espresso
 
 5:35 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run bonus caffeine
 20 quad espresso
@@ -397,7 +397,7 @@ normal anyway, because 57 is awfully high even after a quad.
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 8:30 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -436,7 +436,7 @@ Thursday 20190110 weight 161.50 / 159.6 52 bpm, 28.8F (Heritage Hills)
 10 double espresso
 
 7:45 post-run 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -494,10 +494,10 @@ Friday 20190111 weight 162.00 / 159.9 58 bpm, 37.8F (Heritage Hills)
 10 double espresso
 
 9:00 haven't exercised yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 still hungry, but still haven't exercised (it's still raining)
-533 normal oatmeal
+533 fortified oatmeal
 300 medium avocado
 240 2 bananas
 
@@ -532,7 +532,7 @@ Saturday 20190112 weight 162.00 / 159.6 50 bpm, 28.5F (Alameda & River)
 20 quad espresso
 
 5:15 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 more calories
 480 3 oz. mixed nuts
@@ -544,11 +544,11 @@ Saturday 20190112 weight 162.00 / 159.6 50 bpm, 28.5F (Alameda & River)
 ? about ? scoops of Tailwind in about ?? oz. water
 
 ??:?? post 21 mile run recovery
-533 normal oatmeal
+533 fortified oatmeal
 35? 12? oz. rice milk
 
 ?:?? second ~4 mile recovery
-533 normal oatmeal
+533 fortified oatmeal
 35? 12? oz. rice milk
 
 ?:?? Bombs Away post-run beer
@@ -577,7 +577,7 @@ Sunday 20190113 weight 161.25 / 159.8 49 bpm, 35.1F (Heritage Hills)
 10 double espresso
 
 7:30 no exercise calories
-533 normal oatmeal
+533 fortified oatmeal
 200? bowl of homemade vegan soup (no idea what's in it, so no idea of calories)
 
 8:15
@@ -632,7 +632,7 @@ first caffeine had kicked in.
 20 quad espresso
 
 5:50 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:45 pre-run caffeine
 20 quad espresso
@@ -641,7 +641,7 @@ first caffeine had kicked in.
 600 2x 3 scoops Tailwind per 20 oz. water
 
 9:15 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -691,12 +691,12 @@ Tuesday 20190115 weight 161.00 / 159.2 48 bpm, 31.3F (Heritage Hills)
 10 double espresso
 
 7:00 no exercise yet big breakfast
-1066 2x normal oatmeal
+1066 2x fortified oatmeal
   60 half banana
  50? green drink
 
 post 5.6 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:30 Ideas & Coffee coffee
@@ -741,7 +741,7 @@ Wednesday 20190116 weight 163.00 / 161.2 56 bpm, 35.1F (Heritage Hills)
 20 quad espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run bonus caffeine
 20 quad espresso
@@ -750,7 +750,7 @@ Wednesday 20190116 weight 163.00 / 161.2 56 bpm, 35.1F (Heritage Hills)
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 8:30 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 std::liquids
 50? green drink
@@ -796,7 +796,7 @@ HR after caffeine and a bit rushed.
 10 double espresso
 
 8:00 post-run 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -840,7 +840,7 @@ Friday 20190118 weight 164.00 / 161.9 51 bpm, 41.9F (Heritage Hills)
 10 double espresso
 
 7:15 haven't exercised yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:45
 50? green drink
@@ -890,7 +890,7 @@ Saturday 20190119 weight 161.75 / 160.3 47 bpm, 26.9F (Sandia Heights)
 20 quad espresso
 
 5:15 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 more calories
 480 3 oz. mixed nuts
@@ -902,7 +902,7 @@ Saturday 20190119 weight 161.75 / 160.3 47 bpm, 26.9F (Sandia Heights)
 600 2x (3 scoops of Tailwind in 20 oz. water)
 
 9:50 post-"run" calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 10:30 got home to green drink
@@ -939,7 +939,7 @@ Sunday 20190120 weight 160.00 / 158.4 48 bpm, 38.3F (Alameda and River)
 10 double espresso
 
 7:30 pre-exercise calories and extra caffeine
-533 normal oatmeal
+533 fortified oatmeal
 10 double espresso
 
 9:30 post core, pre ride protein snack
@@ -949,7 +949,7 @@ Sunday 20190120 weight 160.00 / 158.4 48 bpm, 38.3F (Alameda and River)
 240 24 oz. @ 10 calories / oz.
 
 12:00 post-ride recovery
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 12:30 (late) lunch
@@ -984,7 +984,7 @@ Monday 20190121 weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 20 quad espresso
 
 5:55 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 pre-run caffeine
 20 quad espresso
@@ -993,7 +993,7 @@ Monday 20190121 weight 159.75 / 158.2 53 bpm, 40.0F (Heritage Hills)
 600 2x 3 scoops Tailwind per 20 oz. water
 
 9:20 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 150? small sweet potato
@@ -1037,7 +1037,7 @@ Tuesday 20190122 weight 160.25 / 158.6 51 bpm, 30.0F (Heritage Hills)
  50? green drink
 
 8:30 post 5.6 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 450 3 small sweet potatos
 
@@ -1076,7 +1076,7 @@ Wednesday 20190123 weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
 20 quad espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:00 pre-run bonus caffeine
 20 quad espresso
@@ -1085,7 +1085,7 @@ Wednesday 20190123 weight 160.25 / 159.2 54 bpm, 23.7F (Heritage Hills)
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 8:15 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -1126,7 +1126,7 @@ Thursday 20190124 weight 161.00 / 159.4 49 bpm, 22.1F (Heritage Hills)
 10 double espresso
 
 8:00 post-run 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -1173,12 +1173,12 @@ Friday 20190125 weight 162.00 / 160.6 47 bpm, 23.4?F (Heritage Hills)
 10 double espresso
 
 8:00 post 13.1 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
 8:30 more calories
-533 normal oatmeal
+533 fortified oatmeal
 140 large banana
 
 10:00 fat snack
@@ -1221,10 +1221,10 @@ Temperature was recorded 7:56 (i.e., well before the race).  Race at 10:00.
 10 double espresso
 
 5:30 early calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:45 extra calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:45 pre-race caffeine
 30 3x double espresso
@@ -1233,7 +1233,7 @@ Temperature was recorded 7:56 (i.e., well before the race).  Race at 10:00.
 480 3 oz. mixed nuts
 
 10:45 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 ??? 4 donunt holes (might not be vegan)
 ??? 2 hot chocolates (might not be vegan)
@@ -1273,10 +1273,10 @@ at same time (i.e., after I had my oatmeal)
 10 double espresso
 
 5:30 pre-exercise calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 pre-ride calories
-533 normal oatmeal
+533 fortified oatmeal
 60 apple
 120 banana
 165 2 medium (large?) oranges
@@ -1285,13 +1285,13 @@ during first 35.5 mile ride
 280? < 1x 3 scoops of tailwind in 24 oz. water during ride
 
 between rides
-533 normal oatmeal
+533 fortified oatmeal
 320? 2 oz.? mixed nuts
 
 nothing during second 35.5 mile ride
 
 post ride
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 Back home
@@ -1319,7 +1319,7 @@ Monday 20190128 weight 160.00 / 158.6 54 bpm, 34.0F (Heritage Hills)
 20 quad espresso
 
 5:36 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:25 pre-run caffeine
 20 quad espresso
@@ -1328,7 +1328,7 @@ Monday 20190128 weight 160.00 / 158.6 54 bpm, 34.0F (Heritage Hills)
 600 2x 3 scoops Tailwind per 20 oz. water
 
 9:20 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:45 more calories
@@ -1379,14 +1379,14 @@ Tuesday 20190129 weight 161.75 / 160.7
 10 double espresso
 
 before drive
-533 normal oatmeal
+533 fortified oatmeal
 
 *lots* of nuts on drive up
 
-normal oatmeal before drive down
+fortified oatmeal before drive down
 big rice milk before drive down
 
-normal oatmeal on drive down
+fortified oatmeal on drive down
 a couple of nuts on drive down
 orange on drive down
 2 bananas on drive down
@@ -1412,7 +1412,7 @@ Wednesday 20190130 weight 160.50 / 159.3 50 bpm, 23.5F (Heritage Hills)
 20 quad espresso
 
 5:35 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:16 pre-run bonus caffeine (missed a minute, set alarm for pm accidentally)
 20 quad espresso
@@ -1421,7 +1421,7 @@ Wednesday 20190130 weight 160.50 / 159.3 50 bpm, 23.5F (Heritage Hills)
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 8:30 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -1456,7 +1456,7 @@ Thursday 20190131 weight 160.75 / 159.2 49 bpm, 29.2F (Heritage Hills)
 10 double espresso
 
 8:00 post-run 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -1504,7 +1504,7 @@ Friday 20190201 weight 164.25 / 162.9 48 bpm, 31.6F (Heritage Hills)
 10 double espresso
 
 8:00 no exercise today breakfast
-533 normal oatmeal
+533 fortified oatmeal
 300? medium fruit bowl
 
 9:00 more calories
@@ -1544,7 +1544,7 @@ Saturday 20190202 weight 164.25 / 162.8 55 bpm, 25.0F (Alameda & River)
 20 quad espresso
 
 5:15 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 more calories
 480 3 oz. mixed nuts & 200 mg ibuprofen
@@ -1556,7 +1556,7 @@ Saturday 20190202 weight 164.25 / 162.8 55 bpm, 25.0F (Alameda & River)
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 10:45 post 24 mile run recovery
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 noon lunch
@@ -1597,7 +1597,7 @@ Sunday 20190203 weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
 10 double espresso
 
 6:45 post core
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 green drink
 50? green drink
@@ -1607,7 +1607,7 @@ Sunday 20190203 weight 163.25 / 161.5 48 bpm, 28.9F (Tram Top)
 
 12:00? post snow-shoe recovery
 320? 2? oz. mixed nuts
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 1:30 back home lunch
@@ -1633,7 +1633,7 @@ Monday 20190204 weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 20 quad espresso
 
 5:45 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:25 pre-run caffeine
 20 quad espresso
@@ -1642,7 +1642,7 @@ Monday 20190204 weight 161.50 / 160.3 49 bpm, 41.5F (Heritage Hills)
 600 2x 3 scoops Tailwind per 20 oz. water
 
 ?:?? post-run calories
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
 
 10:30 snack
@@ -1680,7 +1680,7 @@ Tuesday 20190205 weight 161.00 / 159.8 48 bpm, 46.0F (Heritage Hills)
 10 double espresso
 
 6:10 post core (no run, due to dental appoinment) calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:21 green drink
 50? green drink
@@ -1733,7 +1733,7 @@ high weight due to Taco Tuesday and tons of post 5:30pm calories.
 20 quad espresso
 
 5:45 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run bonus caffeine
 20 quad espresso
@@ -1742,7 +1742,7 @@ high weight due to Taco Tuesday and tons of post 5:30pm calories.
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 9:00 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
 50? green drink
 
@@ -1788,7 +1788,7 @@ Thursday 20190207 weight 163.25 / 161.9 ?? bpm, 17.4F (Heritage Hills)
 10 double espresso
 
 8:00 post-run 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -1836,7 +1836,7 @@ Friday 20190208 weight 167.00 / 165.9 62 bpm, 10.9F (Heritage Hills)
 10 double espresso
 
 7:00 no exercise yet calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 fruit snack
 120 banana
@@ -1847,7 +1847,7 @@ Friday 20190208 weight 167.00 / 165.9 62 bpm, 10.9F (Heritage Hills)
 65 orange
 
 9:30 still hungry
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 more calories, but last of fruit
 50 small apple
@@ -1885,7 +1885,7 @@ Saturday 20190209 weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
 20 quad espresso
 
 5:20 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run caffeine
 20 quad espresso
@@ -1897,7 +1897,7 @@ Saturday 20190209 weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
 675 2.25x (3 scoops of Tailwind in 20 oz. water)
 
 10:00 post-"run" calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 10:45 back home
@@ -1932,7 +1932,7 @@ Saturday 20190209 weight 164.00 / 162.9 52 bpm, 35F (LL TH, car)
 Sunday 20190210 weight 162.50 / 161.3 51 bpm, 31.9F (AIBF Office)
 
 5:30 pre-ballooning breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 post ballooning celebration
 ?? cup and a half? sparkling wine
@@ -1972,7 +1972,7 @@ Monday 20190211 weight 162.25 / 160.7 52 bpm, 32.5F (Heritage Hills)
 10 double espresso
 
 5:48 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run caffeine
 10 double espresso
@@ -1981,7 +1981,7 @@ Monday 20190211 weight 162.25 / 160.7 52 bpm, 32.5F (Heritage Hills)
 300 3 scoops Tailwind per 20 oz. water
 
 8:00 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -2024,10 +2024,10 @@ Took HR rushed and right after espresso. probably several bpm high.
 5 *single* espresso
 
 6:12 late/post core (no run yet, due to oil change) calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 more calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 still hungry
 480 3 oz. mixed nuts
@@ -2069,7 +2069,7 @@ HR was rushed
 10 double espresso
 
 5:38 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run bonus caffeine
 15 triple espresso
@@ -2078,7 +2078,7 @@ HR was rushed
 300 3 scoops of Tailwind in 20 oz. water
 
 8:30 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -2119,7 +2119,7 @@ Thursday 20190214 weight 161.75 / 160.8 57 bpm, 45.1F (Heritage Hills)
 5 single espresso
 
 7:00 post-run 4.45 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -2169,7 +2169,7 @@ Friday 20190215 weight 163.50 / 161.8 51 bpm, 47.7F (Heritage Hills)
 5 single espresso
 
 8:00 post 3.28 mile run
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
  50? 16 oz. rice milk
 
@@ -2207,7 +2207,7 @@ Saturday 20190216 weight 16?.?? / 16?.? 57 bpm, 35.1F (Grants)
 10 double espresso
 
 5:30 breakfast
-800 1.5s normal oatmeal (forgot that I had packed my oatmeal 1.5 per container)
+800 1.5s fortified oatmeal (forgot that I had packed my oatmeal 1.5 per container)
 
 7:30 caffeine
 30 3 double espressos
@@ -2221,7 +2221,7 @@ shot of jack on the snowshoe up
 shot of fireball on the snowshoe down
 
 post quad
-800 normal oatmeal (only ate half serving in Grants, other half in ABQ)
+800 fortified oatmeal (only ate half serving in Grants, other half in ABQ)
  70? 24 oz. rice milk (only had 1/3rd in Grants, other 2/3 in ABQ)
 
 beer
@@ -2246,7 +2246,7 @@ FWIW, I had my oatmeal prior to weighing myself, because I poped very late
 10 double espresso
 
 6:45 pre-exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 fat snack
 400? large avocado
@@ -2299,7 +2299,7 @@ Monday 20190218 weight 163.00 / 161.4 52 bpm, 26.6F (Heritage Hills)
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run caffeine
 10 double espresso
@@ -2308,7 +2308,7 @@ Monday 20190218 weight 163.00 / 161.4 52 bpm, 26.6F (Heritage Hills)
 300 3 scoops Tailwind per 20 oz. water
 
 8:00 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -2353,12 +2353,12 @@ remember if it was half full or completely full.
 10 double espresso (might have been quad, I was tired when I drank)
 
 8:00 post 5.6 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
 8:45 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 fruit snack
 120 banana
@@ -2410,7 +2410,7 @@ HR taken at 6:45 (after caffeine) and was rushed
 10 double espresso
 
 5:45 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run bonus caffeine
 20 quad espresso
@@ -2419,7 +2419,7 @@ HR taken at 6:45 (after caffeine) and was rushed
 150 1 1/2 scoops of Tailwind in 20 oz. water
 
 8:00 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:00 snack
@@ -2456,7 +2456,7 @@ Thursday 20190221 weight 163.50 / 162.1 53 bpm, 28.6F (Heritage Hills)
 10 double espresso
 
 7:00 post-run 4.45 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 50? green drink
 
@@ -2494,7 +2494,7 @@ Friday 20190222 weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
 10 double espresso
 
 5:15 pre-run breakfast
-800 1.5x normal oatmeal
+800 1.5x fortified oatmeal
 
 6:15 more calories
 480 3 oz. mixed nuts & 200 mg ibuprofen
@@ -2507,7 +2507,7 @@ Friday 20190222 weight 166.00 / 164.0 55 bpm, ??.?F (Alameda & River)
 20 quad espresso
 
 10:45 post 24 mile run recovery
-800 1.5x normal oatmeal (actually, didn't finish it until long after pizza)
+800 1.5x fortified oatmeal (actually, didn't finish it until long after pizza)
  70? 24 oz. rice milk
 
 12:45 lunch with Lee
@@ -2533,12 +2533,12 @@ Saturday 20190223 weight 164.00 / 163.5 52 bpm, 26.8F (Heritage Hills)
 10 double espresso
 
 ?:?? pre-yoga breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 post yoga breakfast
 50? green drink (I think)
 480 3 oz. mixed nuts
-533 normal oatmeal
+533 fortified oatmeal
 300 avocado
 1 1/2 whole wheat tortillas
 small bowl of green beans (probably had oil in them)
@@ -2571,7 +2571,7 @@ Sunday 20190224 weight 164.75 / 163.0 52 bpm, 16.2F (Heritage Hills)
 10 double espresso
 
 6:04 end of core calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:11 snack
 230 10 dates
@@ -2623,7 +2623,7 @@ Monday 20190225 weight 165.00 / 163.0 55 bpm, 24.4F (Heritage Hills)
 10 double espresso
 
 5:55 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:15 pre-run caffeine
 30 three double espressos
@@ -2632,7 +2632,7 @@ Monday 20190225 weight 165.00 / 163.0 55 bpm, 24.4F (Heritage Hills)
 600 2x 3 scoops Tailwind per 20 oz. water
 
 9:15 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -2675,7 +2675,7 @@ season
 10 double espresso
 
 6:30 late core calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 remaining breakfast
  50? 16 oz. rice milk
@@ -2724,7 +2724,7 @@ Wednesday 20190227 weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
 10 double espresso
 
 ?:?? pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:45 pre-run bonus caffeine
 30 three double espressos
@@ -2733,7 +2733,7 @@ Wednesday 20190227 weight 165.00 / 163.4 54 bpm, 33.8F (Heritage Hills)
 600 2x 3 scoops of Tailwind in 20 oz. water
 
 9:00 post-run recovery
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -2757,7 +2757,7 @@ Thursday 20190228 weight 166.0 / 164.7 54 bpm, 33.8F (Heritage Hills)
 10 double espresso
 
 7:00 non-exercise (chose to skip running and core) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 more liquids
  50? 16 oz. rice milk
@@ -2799,7 +2799,7 @@ Friday 20190301 weight 164.00 / 165.5 51 bpm, 44.4F (Heritage Hills)
 10 double espresso
 
 7:00 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 more liquids
  50? 16 oz. rice milk
@@ -2843,7 +2843,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 10 double espresso
 
 5:35 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 pre-run caffeine
 20 quad espresso
@@ -2852,7 +2852,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 600 2x 3 scoops tailwind in 20 oz. water
 
 8:15 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  25? 8? oz. rice milk (all that remained)
 
 10:30 green drink
@@ -2881,7 +2881,7 @@ Normal Sandia Heights station wasn't responding.  This one is close.
 Sunday 20190303 weight 164.75 / 163.0 48 bpm, 44.8F (Heritage Hills)
 
 7:00 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 more food
 50 small apple
@@ -2922,7 +2922,7 @@ Monday 20190304 weight 164.50 / 163.1 51 bpm, 24.8F (Heritage Hills)
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
   6:15 pre-run caffeine
 20 quad espresso
@@ -2931,7 +2931,7 @@ Monday 20190304 weight 164.50 / 163.1 51 bpm, 24.8F (Heritage Hills)
 300 3 scoops Tailwind per 20 oz. water
 
 8:00 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -2966,10 +2966,10 @@ Tuesday 20190305 weight 164.50 / 163.4 50 bpm, 38.3F (Heritage Hills)
 10 double espresso
 
 5:45 mid-core micro breakfast
-266 1/2 normal oatmeal
+266 1/2 fortified oatmeal
 
 6:45 post-run 4.45 mile run breakfast
-267 other half normal oatmeal
+267 other half fortified oatmeal
 50? 16 oz. rice milk
  50? green drink
 
@@ -3020,7 +3020,7 @@ Wednesday 20190306 weight 166.25 / 164.6 54 bpm, 32.2F (Heritage Hills)
 300 3 scoops of Tailwind in 20 oz. water
 
 8:00 post-run recovery
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
  50? green drink
 
@@ -3060,7 +3060,7 @@ Thursday 20190307 weight 164.5 / 163.0 52 bpm, 49.1F (Heritage Hills)
 10 double espresso
 
 ?:?? post 4.45mile run calories
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
  50? green drink
 
@@ -3109,7 +3109,7 @@ Friday 20190308 weight 165.75 / 164.5 54 bpm, 47.8F (Heritage Hills)
 10 double espresso
 
 8:00 after 6.55 mile run
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
 
 9:00 snack
@@ -3142,7 +3142,7 @@ Saturday 20190309 weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 pre-run caffeine
 30 3 double espressos
@@ -3150,7 +3150,7 @@ Saturday 20190309 weight 165.50 / 164.5 51 bpm, 32.7F (Los Lunas)
 8:00 - 9:00 during race
 300 3 scoops tailwind in 20 oz. water
 
-533 normal oatmeal
+533 fortified oatmeal
 rice milk
 
 2 large flour tortillas
@@ -3178,7 +3178,7 @@ Sunday 20190310 ?forgot to log everything?
 10 double espresso
 
 6:10 trying to resync (w/ DST) my stomach calories 
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 snack
  50? green drink
@@ -3189,7 +3189,7 @@ Sunday 20190310 ?forgot to log everything?
 
 noon post 3.5 mile run calories
 
-533 normal oatmeal
+533 fortified oatmeal
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
  70? 24 oz. rice milk
@@ -3223,7 +3223,7 @@ Monday 20190311 weight 164.75 / 163.9 57 bpm, 48.0F (Heritage Hills)
 150 1 1/2 scoops Tailwind in 10 oz. water
 
 7:45 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 8:30?
@@ -3268,7 +3268,7 @@ Tuesday 20190312 weight 164.50 / 163.7 50 bpm, 44.4F (Heritage Hills)
 10 double espresso
 
 6:30 post 2.23 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 8:15 fruit snack
@@ -3317,7 +3317,7 @@ Wednesday 20190313 weight 165.50 / 164.2 51 bpm, 37.8F (Heritage Hills)
 100 1 scoops of Tailwind in approx. 7 oz. water
 
 7:30 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:00 pre-lunch
@@ -3357,7 +3357,7 @@ Thursday 20190314 weight 166.00 / 164.8 50 bpm, 31.8F (Heritage Hills)
 10 double espresso
 
 7:00 post 2.23 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
 
 8:40
@@ -3409,7 +3409,7 @@ FWIW, my HR was lower while chasing, resting went down to 45
 10 double espresso
 
 5:30 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk (if I remember)
 
 11:30 Rutilio's
@@ -3522,7 +3522,7 @@ around 6:40 AZ (164.4).
 
 7:00 AZ breakfast
 
-533 normal oatmeal (basically, perhaps different amount of soy milk)
+533 fortified oatmeal (basically, perhaps different amount of soy milk)
 120 2 apples
 160 2 oranges
 230 10 dates
@@ -3591,7 +3591,7 @@ Las Cruces.  Most likely it'll be about equal tomorrow morning.
 10 double shot espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 11:00 pre-lunch
 ??? handful of pepitas (pumpkin seeds)
@@ -3628,7 +3628,7 @@ Saturday 20190323 weight 164.75 / 164.2 52 bpm, 39.2F (Heritage Hills)
 10 double espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 super early lunch precursor ('cause I'll be bike riding at noon)
 50? green drink
@@ -3641,7 +3641,7 @@ Saturday 20190323 weight 164.75 / 164.2 52 bpm, 39.2F (Heritage Hills)
  80 orange
 
 1:00 post-ride recovery
-533 normal oatmeal
+533 fortified oatmeal
 
 2:45 hungry
 ??? whole wheat tortilla
@@ -3664,7 +3664,7 @@ Sunday 20190324 weight 164.25 / 163.0 49 bpm, 39.6F (Heritage Hills)
 10 double espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 11:00 early lunch
 50? green drink
@@ -3702,7 +3702,7 @@ Monday 20190325 weight 164.00 / 162.8 48 bpm, 40.0F (Heritage Hills)
 10 double espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50 green drink
 
 11:00 pre-lunch
@@ -3738,7 +3738,7 @@ Tuesday 20190326 weight 162.50 / 161.7 48 bpm, 37.6 (Heritage Hills)
 10 double espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50 green drink
 
 11:00 pre-lunch
@@ -3771,7 +3771,7 @@ Wednesday 20190327 weight 161.00 / 160.2 50 bpm, 52.0 (Heritage Hills)
 10 double espresso
 
 8:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50 green drink
 50? 16 oz. rice milk
 
@@ -3807,7 +3807,7 @@ Thursday 20190328 weight 161.00 / 159.8 55 bpm, 51.6 (Heritage Hills)
 10 double espresso
 
 8:00 post 8.9 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
  50 green drink
 
@@ -3850,7 +3850,7 @@ Friday 20190329 weight 1??.?? / 1??.? 54 bpm, 51.0 (Heritage Hills)
 10 double espresso
 
 7:00 post 5.4 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? 16 oz. rice milk
  50 green drink
 
@@ -3872,7 +3872,7 @@ Saturday 20190330 weight 1??.?? / 1??.? ?? bpm, ??.? (Jemez Springs)
 
 5:15 wake-up
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 6:45 pre-run caffeine
 30 three double espressos
@@ -3883,7 +3883,7 @@ during race calories
      *most* were water only)
 
 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 1pm lunch @ O'Niell's
@@ -3905,7 +3905,7 @@ Sunday 20190331 weight 164.75 / 163.5 43 bpm, 35.9F (Alameda & River)
 10 double espresso
 
 9:00 post 17.5 mi bike ride calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 300 medium avocado
 
@@ -3941,7 +3941,7 @@ WTF: Didn't poop until 6:45
 10 double espresso
 
 7:45 pre-run calories*
-533 normal oatmeal
+533 fortified oatmeal
 
 *I had planned on running before eating, but it was chilly and foggy and I
  changed my mind, preferring to let the fog burn off and the sun to come
@@ -3952,7 +3952,7 @@ WTF: Didn't poop until 6:45
  60 apple
 
 10:00 still haven't run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 10:40 early pre-lunch
@@ -3985,7 +3985,7 @@ Tuesday 20190402 weight 164.00 / 162.5 45 bpm, 44.1F (Heritage Hills)
 10 double espresso
 
 7:40 breakfast after 4.45 mi run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4019,7 +4019,7 @@ Wednesday 20190403 weight 161.00 / 160.4 50 bpm, 51.4F (Heritage Hills)
 48.4F 30 minutes after end (forgot to check)
 
 7:10 post 6.55 mi run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4062,7 +4062,7 @@ weight.  Ugh!  What a PITA.
 
 7:05 post 4.45 mi run calories
  50? green drink
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 8:50 Cocoa Conspiracy
@@ -4101,7 +4101,7 @@ Friday 20190405 weight 160.00 / 159.1 47 bpm, 42.8F (Heritage Hills)
 
 10:00 post-weighing calories
  50? green drink
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 11:00 early lunch
@@ -4133,7 +4133,7 @@ Saturday 20190406 weight 169.00 / 158.8 45 bpm, 37.2F (Edgewood)
 5 *SINGLE* espresso
 
 5:30 pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 pre-run caffeine
 20 two double espressos
@@ -4142,7 +4142,7 @@ Saturday 20190406 weight 169.00 / 158.8 45 bpm, 37.2F (Edgewood)
 300 3 scoops tailwind in 20 oz. water
 
 9:45 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 ??? variety of beer
@@ -4158,7 +4158,7 @@ Sunday 20190407 weight 161.75 / 160.3 50 bpm, ??.?F (Placitas)
 
 5:15 wake-up & pre-race calories
 10 double espresso
-533 normal oatmeal (albeit with almond milk and extra udo's oil due to running
+533 fortified oatmeal (albeit with almond milk and extra udo's oil due to running
                     out of soy milk)
 
 NOTE: Today's caffeine one and three quarter hours before the race is
@@ -4174,7 +4174,7 @@ side of a bush).
 300 3 scoops Tailwind in 20 oz. water
 
 10:15 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 ??? 4x 1/2 vegan sub 
 
@@ -4208,7 +4208,7 @@ yesterday's caffeine and the relatively late alcohol.  41 bpm taken @
 15 *triple* espresso (had a single left over from two days ago)
 
 8:15 post 3.275 run (w/ 3 intervals, 2 up, 1 down)
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 10:30
@@ -4247,7 +4247,7 @@ After my run and another poop: 158.75 / 157.8
 10 double espresso
 
 8:00 breakfast after 2.24 mi run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4290,7 +4290,7 @@ sweet potato and posole are probably the culprits in my weight gain
 10 double espresso
 
 9:15 breakfast after 3.28 mi run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4326,7 +4326,7 @@ Thursday 20190411 weight 159.75 / 158.5 48 bpm, 39.7F (Heritage Hills)
 10 double espresso
 
 6:45 post 2.23 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -4368,7 +4368,7 @@ Boston Marathon start time into consideration)
 10 double espresso
 
 9:00 breakfast after 3.28 mi run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 160 16 oz. soy milk (no rice milk, had remainder yesterday)
 
@@ -4411,7 +4411,7 @@ to get up *EARLIER* on race day
 10 double espresso
 
 9:00 EDT breakfast
-475? normal oatmeal (except with water, instead of soy milk, 'cause I haven't
+475? fortified oatmeal (except with water, instead of soy milk, 'cause I haven't
                      been shopping yet, and no udo's oil)
 10:00 fruit snack
 160 2 oranges
@@ -4445,7 +4445,7 @@ Sunday 20190414 weight ? / 159.6 47 bpm, 56.8F (Everett)
 10 double epresso
 
 6:10 morning calories
-475? normal oatmeal (except with water, instead of soy milk, 'cause I'm
+475? fortified oatmeal (except with water, instead of soy milk, 'cause I'm
                      not buying any, and no Udo's Oil)
 
 7:15 fruit snack
@@ -4484,7 +4484,7 @@ had my espresso at 5:45
 10 double espresso
 
 ?:?? breakfast
-475? normal oatmeal (except with water, instead of soy milk, 'cause I'm
+475? fortified oatmeal (except with water, instead of soy milk, 'cause I'm
                      not buying any, and no Udo's Oil)
 
 8:00 Athlete's Village snack one
@@ -4501,7 +4501,7 @@ During Boston Marathon
 700 7x Tailwind
 
 2:30 post-race
-475? normal oatmeal (except with water, instead of soy milk, 'cause I'm
+475? fortified oatmeal (except with water, instead of soy milk, 'cause I'm
                      not buying any, and no Udo's Oil)
 ? potato chips (forgot to look at calories before throwing away wrapper)
 240 2 bananas
@@ -4525,7 +4525,7 @@ Forgot to weigh myself before eating, then decided to skip all of today's
 measurements.
 
 7:15 breakfast
-475? normal oatmeal (except with water, instead of soy milk, 'cause I'm
+475? fortified oatmeal (except with water, instead of soy milk, 'cause I'm
                      not buying any, and no Udo's Oil)
 175 1/2 brick tempeh
 
@@ -4567,7 +4567,7 @@ Wednesday 20190417 weight 166.5 / 165.8 46 bpm, 45.0F (Heritage Hills)
 10 double espresso
 
 11:00 post 15.57 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4600,7 +4600,7 @@ Thursday 20190418 weight 163.5 / 162.7 47@4:56 bpm, 38.8F@6:20 (Heritage Hills)
 10 double espresso
 
 8:00 post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -4646,7 +4646,7 @@ Friday 20190419 weight 161.25 / 160.8 52@5:15 bpm, 49.5F@7:35 (Heritage Hills)
 10 double espresso
 
 9:30 post 15.56 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4685,7 +4685,7 @@ Saturday 20190420 weight 162.25 / 161.0 ?? bpm@4:22 , 56.3F@4:22 (Alamogordo)
 10 double espresso
 
 ?:?? breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 on drive down
 2 bananas
@@ -4708,7 +4708,7 @@ Sunday 20190421 weight 161.75 / 160.7 48 bpm@6:02, 52.4F@5:59 (Alameda & River)
 HR was rushed
 
 post 21.75 mi bike ride, post 3.1mi run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 11:30
@@ -4735,7 +4735,7 @@ Monday 20190422 weight 161.00 / 160.4 49 bpm@6:07, 47.5F@5:25 (Heritage Hills)
 10 double espresso
 
 6:40 pre-exercise calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 8:15 fruit snack
@@ -4779,7 +4779,7 @@ Tuesday 20190423 weight 160.75 / 160.3 47 bpm@5:11, 47.8F@6:20 (Heritage Hills)
 10 double espresso
 
 7:45 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4821,7 +4821,7 @@ HR was rushed
 180 3 tablespoons of chia seeds in 20 oz. water
 
 8:45 post 15.5 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -4866,7 +4866,7 @@ HR was after caffeine
 10 double espresso
 
 8:00 post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -4945,7 +4945,7 @@ Saturday 20190427 weight ???.?? / 160.7 ?? bpm@5:01, ??.?F@?:?? (car?)
 10 double espresso
 
 ?:?? pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 during run
 630 3.5x? 3 tablespoons chia (had 7 bags, but lost *A LOT* due to spillage)
@@ -4961,7 +4961,7 @@ few potato chips
 600? vegan brownie
 
 2:10 post run
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
  8 oz. stout
 24 oz. wheat beer
@@ -4990,7 +4990,7 @@ HR was rushed
 10 double espresso
 
 5:30 pre-ride calories
-533 normal oatmeal
+533 fortified oatmeal
 
 during 100 mile bike ride
 1,800 6x 3scoops Tailwind in 24 oz. water
@@ -5004,7 +5004,7 @@ during 100 mile bike ride
 
 post ride
 2x vegan sandwichs (provided)
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 ??? bag of chips Lays Barbeque
 ??? crazy amount of pickles
@@ -5045,7 +5045,7 @@ bring my mileage for the week ending today up to 100).
 ??? tiny bit of chia with water 
 
 7:30 decided to eat after short run, after all
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 9:40 - 11:45 during 12.21 mile run (forgot to take temperature)
@@ -5081,7 +5081,7 @@ Tuesday 20190430 weight 164.00 / 163.0 43 bpm@4:58, 49.5F@6:15 (Heritage Hills)
 10 double espresso
 
 7:45 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5126,7 +5126,7 @@ FWIW, I *meant* to have oatmeal after pooping and before running 15.5 miles
 360 2x 3 tablespoons of chia seeds in 20 oz. water
 
 8:45 post 15.5 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5172,7 +5172,7 @@ Thursday 20190502 weight 160.00 / 159.2 49 bpm@5:10, 45.0F@5:10 (Heritage Hills)
 10 double espresso
 
 7:45O post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -5221,7 +5221,7 @@ HR was rushed
 10 double espresso
 
 5:45 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 - 9:45 during run
 360 2x 3 tablespoons chia in 20 oz. water
@@ -5231,7 +5231,7 @@ During run, stopped to chat with
   Rich (howtobefit.com)
 
 9:45 post 15.56 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5313,13 +5313,13 @@ Sunday 20190505 weight 162.00 / 161.25 52 bpm @5:06, 47.7F@5:06 (Biopark)
 10 double espresso
 
 5:20 pre-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 - 8:40 during race
 300 3 scoops Tailwind in 20 oz. water (should have taken two bottles)
 
 8:45 post-race
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 180 1 1/2 bananas
 120 1 1/2 orange
@@ -5368,7 +5368,7 @@ FWIW, I did 5.6 miles (to AA, oneloop and back) earlier in the morning, but
 cut it short because I needed to sit on the toilet
 
 9:15 post 15.5 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5418,7 +5418,7 @@ Tuesday 20190507 weight 162.25 / 161.7 49 bpm @4:43, 53.1F@4:14 (Heritage Hills)
 150? almost 3 tablespoons of chia in 20 oz. water (left over from yesterday)
 
 8:00 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5508,7 +5508,7 @@ Thursday 20190509 weight 163.0 / 161.4 55 bpm @5:01, 47.5F@6:30 (Heritage Hills)
 10 double espresso
 
 8:00 post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -5546,7 +5546,7 @@ Friday 20190510 weight 160.00 / 159.1 52 bpm @4:55, 45.9F@5:48 (Heritage Hills)
 10 double espresso
 
 5:30 breakfast w/o exercise
-533 normal oatmeal
+533 fortified oatmeal
 
 7:45 lunch food for breakfast
  50? green drink
@@ -5570,7 +5570,7 @@ noon pizza at Dion's w/Lee
       Insanity
 
 4:15 post truck drop-off run
-533 normal oatmeal
+533 fortified oatmeal
 
 4:30 more calories
 ??? about 2 ladles of lentils and lots of water
@@ -5583,7 +5583,7 @@ noon pizza at Dion's w/Lee
 240 2 bananas
 
 10:30 pre Elevation Insanity Calories
-533 normal oatmeal
+533 fortified oatmeal
 ??? may have had some dates, too
 
 Saturday 20190511 weight unknown, HR unknown, 44F (I think) @ 00:01  (Cienega Trailhead)
@@ -5660,7 +5660,7 @@ Monday 20190513 weight 162.25 / 161.6 48 bpm @ 6:08 45.5F @ 6:32 (Heritage Hills
 360 2x 3 tablespoons of chia seeds in 20 oz. water
 
 9:15 post 15.5 (w/intervals) run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5696,7 +5696,7 @@ Tuesday 20190514 weight 161.50 / 160.6 ?? bpm @ ?:?? ??.?F @ ?:?? (Heritage Hill
 10 double espresso
 
 3:?? pre-SAR drive calories
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? extra caffeine
 10 double espresso
@@ -5709,7 +5709,7 @@ pre-assignment calories
 200? ancient (it turned black!) Larabar
 
 ?:?? post-assignment calories
-533 normal oatmeal
+533 fortified oatmeal
 140? 48? oz. rice milk
 120 banana
 100? 2? Halos
@@ -5737,13 +5737,13 @@ Wednesday 20190515 weight 160.50 / 159.4 52 bpm @5:06, 52.3F@6:24 (Heritage Hill
 10 double espresso
 
 5:40 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 - 9:30 during 15.5mi 40# pack run
 360 2x 3 tablespoons chia in 20 oz. water
 
 9:30 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5787,7 +5787,7 @@ no internet in the morning, so no temperatures
 10 double espresso
 
 7:45 post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  30? 10? oz. rice milk (the rest)
 
@@ -5837,7 +5837,7 @@ Friday 20190517 weight 160.50 / 160.1 54 bpm @5:09, 60.6F @5:42 (Heritage Hills)
 10 double espresso
 
 6:46 post 5.6 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -5864,7 +5864,7 @@ two big salads
  75 medium bowl steamed broccoli and cauliflower
  40 small salad
 320 4 Cara Cara oranges
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 final calories
 ??? handful of Sophie prepared sweet potatos
@@ -5880,7 +5880,7 @@ Got called out on a SAR mission, so this was all written after I got back
 Dancing Eagle parking lot
 4 oranges
 1 apple
-533 normal oatmeal
+533 fortified oatmeal
 
 provisional IB
 960? 6 oz. mixed nuts?
@@ -5890,7 +5890,7 @@ pre-mission caffeine
 
 after mission
 240 2 bananas
-533 normal oatmeal
+533 fortified oatmeal
 360 package of seitan
 
 3:15 worldwide stout
@@ -5912,7 +5912,7 @@ yesterday
 10 double espresso
 
 4:30 pre-ride breakfast calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:45 immediately pre-ride
 640 4 oz. mixed nuts
@@ -5930,7 +5930,7 @@ approx. mile 62
 10 double espresso
 
 1:20 post-ride
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 ??? 16 oz. 8.0% ABV Santa Fe Java Stout
 ??? 32 oz. 6.6% ABV Happy Camper IPA
@@ -5963,7 +5963,7 @@ Monday 20190520 weight 164.50 / 163.9 52 bpm @5:03, 56.7F@6:30 (Heritage Hills)
 360 2x 3 tablespoons of chia seeds in 20 oz. water
 
 9:20 post 15.5 (w/intervals) run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -6005,7 +6005,7 @@ HR was a little rushed and was post-caffeine
 10 double espresso
 
 8:20 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -6051,13 +6051,13 @@ Wednesday 20190522 weight 162.50 / 161.8 48 bpm @5:48, 41.0F@5:38 (Heritage Hill
 10 double espresso
 
 7:00 pre-run calories (running late due to filesystem badness)
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? - ?:?? during 15.5mi 40# pack run
 960 2x 3 scoops Tailwind, 3 tablespoons chia in 20 oz. water
 
 ?:?? post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -6106,7 +6106,7 @@ no internet, so no temperature
 10 double espresso
 
 8:00 post 8.9 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -6189,7 +6189,7 @@ Saturday 20190525 weight 16?.?? / 16?.? ?? bpm, ~49F @4:15 (Los Alamos)
 10 double espresso
 
 4:15 pre-run calories
-800 1 1/2 servings normal oatmeal
+800 1 1/2 servings fortified oatmeal
 
 4:50 pre-race bonus caffeine
 ??? cup of black coffee
@@ -6254,7 +6254,7 @@ Monday 20190527 weight 165.0 49 bpm @4:58,
 10 double espresso
 
 6:30? (forgot to write it down) no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 fruit snack
  50? green drink
@@ -6299,7 +6299,7 @@ Tuesday 20190528 weight 163.9 47 bpm @ 5:08 43.5F @ 5:14 (Heritage Hills)
  50? green drink
 
 8:30 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:00 pre co-working jelly fruit snack
@@ -6346,7 +6346,7 @@ Wednesday 20190529 weight 162.6 48 bpm @ 6:03 50.7F @ 6:04 (Heritage Hills)
 150 1 1/2 scoops tailwind in 10 oz. water (had full bottle, but only drank half)
 
 8:30 post 3.1 mile (40#) run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -6391,7 +6391,7 @@ have been)
 150 1 1/2 scoops Tailwind in ~10 oz. water (the rest)
 
 8:00 post 5.6 mi run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -6442,7 +6442,7 @@ Friday 20190531 weight 161.6 48 bpm @ 7:01 53.6F @ 7:02 (Heritage Hills)
 300 3 scoops Tailwind in 20 oz. water during 5.6 mi 40# pack run w/ intervals
 
 8:15 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -6487,7 +6487,7 @@ it around 5:15, but was better (but still high, considering) at 7:01
 10 double espresso
 
 5:30 pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 ibuprofen stomach buffer calories
 140 some sort of vegan Clif bar snack to go w/ my 200mg ibuprofen
@@ -6500,7 +6500,7 @@ it around 5:15, but was better (but still high, considering) at 7:01
 300 3 scoops Tailwind in 20 oz. water
 
 9:00 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 11:00? back home
@@ -6549,7 +6549,7 @@ didn't have any calories or consume any water on my 31 mile bike ride
 (31 miles, 132bpm, 19mph)
 
 9:10 post Team RWB Sunday Funday calories
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 20? two cups of (free!) black coffee
 
@@ -6591,7 +6591,7 @@ HR a little rushed
 10 double espresso taken at beginning of 3rd lap
 
 9:00 post 15.5 (w/intervals) run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 120 banana
@@ -6633,7 +6633,7 @@ Tuesday 20190604 weight 161.0 46 bpm @ 5:02 57.0?F @ 6:32 (Heritage Hills)
 10 double espresso
 
 8:05 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -6684,14 +6684,14 @@ Wednesday 20190605 weight 162.7 49 bpm @ 5:05 56.8F @ 6:49 (Heritage Hills)
 10 double espresso
 
 5:40 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 - 10:00 during 15.5 mile 40# ruck run
 360 2x 3 tablespoons chia in 20 oz. water
 300 3 scoops Tailwind in 20 oz. water
 
 10:15 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 100 small banana
 ??? small whole wheat tortilla
@@ -6731,7 +6731,7 @@ Thursday 20190606 weight 161.9 49 bpm @ 5:03 51.6F @ 5:06 (Heritage Hills)
 10 double espresso
 
 8:30 post 8.9 mile run  breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 230 10 dates
@@ -6772,7 +6772,7 @@ Friday 20190607 weight 160.8 49 bpm @ 5:49 59.0F @ 5:03 (Heritage Hills)
 360 2x 3 tablespoons chia in 20 oz. water
 
 9:15 post 15.5 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 345 15 dates (no apples, oranges or bananas)
@@ -6806,18 +6806,18 @@ Saturday 20190608 weight 162.7 47 bpm @ 5:09 67.8F @ 5:11 (Heritage Hills)
 10 double espresso
 
 5:30 pre-Chimney-melon 50k breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:00 during CM50k
  120 2 tablespoons chia
   20 quad espresso
 2300 12x 1 scoops Tailwind
 1600 10 oz. mixed nuts
- 533 normal oatmeal
+ 533 fortified oatmeal
   70? 24 oz. rice milk
 
 6:30 post CM50k
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 8:00 back home
@@ -6835,13 +6835,13 @@ Sunday 20190609 weight 160.5 46 bpm @ 5:09 53.2F @ 5:11 (Heritage Hills)
 10 double espresso
 
 6:15 pre-exercise calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 extra calories
 240 2 bananas
 
 9:00 post 5.74 mi 40# pack run calories 
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 back home
  50? green drink
@@ -6861,7 +6861,7 @@ Sunday 20190609 weight 160.5 46 bpm @ 5:09 53.2F @ 5:11 (Heritage Hills)
 480 3 oz. mixed nuts
 
 2:45 post bike ride calories
-533 normal oatmeal
+533 fortified oatmeal
 
 3:15 post ride beer
 32 oz. 8.4% ABV Bosque Scotia
@@ -6884,7 +6884,7 @@ afternoon.
 10 double espresso
 
 7:00 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 fruit snack
 240 two bananas
@@ -6897,7 +6897,7 @@ afternoon.
 
 11:15 post 5.6 mile dog walk / early lunch
  50? 16 oz. rice milk
-533 normal oatmeal
+533 fortified oatmeal
 40? small salad
 75 medium bowl steamed broccoli and cauliflower
 ??? 4 ladles mung beans, (no Tabasco!)
@@ -6926,7 +6926,7 @@ walked the dog 5.6 miles).
 10 double espresso
 
 8:00 post core, pre cardio calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 early veggies
 75 medium bowl steamed broccoli and cauliflower
@@ -6970,7 +6970,7 @@ Wednesday 20190612 weight 159.8 46 bpm @ 4:46 67.6F @ 7:15 (Heritage Hills)
 10 double espresso
 
 5:30 pre-pack run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:25 pre-pack run caffeine & liquid
 10 double espresso
@@ -6982,7 +6982,7 @@ Wednesday 20190612 weight 159.8 46 bpm @ 4:46 67.6F @ 7:15 (Heritage Hills)
 
 10:40 post pack run
 100? 2x 16 oz. rice milk
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 lunch
 120 banana
@@ -7021,7 +7021,7 @@ Thursday 20190613 weight 159.8 47 bpm @ 4:39 64.6F @ 4:35 (Heritage Hills)
 10 double espresso
 
 8:00 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -7080,7 +7080,7 @@ probably go out again and walk the dog at least.
 360 2x 3 tablespoons chia in 20 oz. water
 
 9:30 post 12.2 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -7122,7 +7122,7 @@ Saturday 20190615 weight 161.8
 10 double espresso
 
 4:00 at house calories
-533 normal oatmeal
+533 fortified oatmeal
 
 at Tunnel Springs calories
 320? 2? oz. nuts (didn't weigh)
@@ -7151,7 +7151,7 @@ sour power
 hot funions
 
 back at car
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
  
 Sunday 20190616 weight 163.0 46 bpm @ 6:09 57.1F @ 6:06 (Alameda & River)
@@ -7162,7 +7162,7 @@ HR was late and rushed
 10 double espresso
 
 7:45 post Team RWB ruck run
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 360 3 bananas
 150 3 Cuties
@@ -7209,7 +7209,7 @@ Did not sleep well last night, too much alcohol yesterday.  Ugh.
 10 double espresso
 
 8:30 breakfast (no workout yet)
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 fat snack
 300 avocado
@@ -7254,7 +7254,7 @@ Tuesday 20190618 weight 163.0 42 bpm @ 5:04 52.7F @ 6:35 (Heritage Hills)
 10 double espresso
 
 8:10 post core + 8.9 mi calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -7293,14 +7293,14 @@ Wednesday 20190619 weight 161.9 52 bpm @ 5:03 58.8F @ 6:31 (Heritage Hills)
 10 double espresso
 
 5:30 pre-run
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 - 9:00 during 12.2 42# pack run run
 240 2x 2 tablespoons chia in 20 oz. water
 450 1.5x 3 scoops Tailwind in 20 oz. water
 
 9:10 post-run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 ??? homemade roll (non-vegan, I took a bite before I knew that)
@@ -7312,7 +7312,7 @@ Wednesday 20190619 weight 161.9 52 bpm @ 5:03 58.8F @ 6:31 (Heritage Hills)
 ??? 6 ladles yellow lentils, no chile, no extra water
 
 2:30 snack
-533 normal oatmeal
+533 fortified oatmeal
 
 4:00 dinner
 190 flour tortilla
@@ -7330,7 +7330,7 @@ HR was late and rushed
 10 double espresso
 
 8:30 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -7375,7 +7375,7 @@ Friday 20190621 weight 160.4 49 bpm @ 5:32 62.6F @ 5:30 (Heritage Hills)
 450 1.5x 3 scoops Tailwind in 20 oz. water
 
 8:10 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -7415,7 +7415,7 @@ Saturday 20190622 weight 162.4 49 bpm @ 3:49 55.4F @ 3:51 (Placitas)
 10 double espresso
 
 4:00 pre run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 5:15 time for more caffeine
 10 double espresso
@@ -7427,7 +7427,7 @@ Saturday 20190622 weight 162.4 49 bpm @ 3:49 55.4F @ 3:51 (Placitas)
 
 12:20 at turnaround
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
   0 200 mg ibuprofen
 
@@ -7439,7 +7439,7 @@ Saturday 20190622 weight 162.4 49 bpm @ 3:49 55.4F @ 3:51 (Placitas)
   460 2x 10 dates
 
 8:45 post run/hike recovery food
-533 normal oatmeal
+533 fortified oatmeal
  70? 24 oz. rice milk
 
 Sunday 20190623 weight 161.8 51 bpm @ 5:13 52.5F @ 5:18 (Near North Valley)
@@ -7451,7 +7451,7 @@ from yesterday.  Today will be interesting.
 10 double espresso
 
 5:40 pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:53 pre-race bonus calories and meds
 230 10 dates
@@ -7464,7 +7464,7 @@ from yesterday.  Today will be interesting.
 300 3 scoops tailwind in 20 oz. water
 
 8:45 post 5k race (1st AG, 15 OA)
-533 normal oatmeal
+533 fortified oatmeal
 25? 10? oz. (the rest) rice milk
 
 10:45 non-nut fat snack
@@ -7500,7 +7500,7 @@ Monday 20190624 weight 163.6 47 bpm @ 5:13 49.8F @ 5:14 (Heritage Hills)
 10 double espresso
 
 7:00 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 100? botched whole milk latte (would have been thrown out, so I drank it instead)
 250 5 Costco mandarins
 
@@ -7545,7 +7545,7 @@ Tuesday 20190625 weight 160.1 46 bpm @ 5:24 54.0F @ 5:27 (Heritage Hills)
  50? green drink
 
 7:00 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:15 snack
  60 apple
@@ -7587,7 +7587,7 @@ Wednesday 20190626 weight 161.6 47 bpm @ 4:30 63.0F @ 4:47 (Heritage Hills)
 10 double espresso
 
 6:00 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 bonus (pre-run) caffeine
 10 double espresso
@@ -7596,7 +7596,7 @@ Wednesday 20190626 weight 161.6 47 bpm @ 4:30 63.0F @ 4:47 (Heritage Hills)
  50? green drink
 
 8:30 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 ??? bunch of grapes
  60 apple
@@ -7630,7 +7630,7 @@ Thursday 20190627 weight 159.4 47 bpm @ 5:08 66.0F @ 5:03 (Heritage Hills)
 10 double espresso
 
 7:00 post-core (Team RWB 1776 challenge: 100 bicycle crunches) breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 8:45 pre-Cocoa Conspiracy "free" coffee (Michael Thomas)
@@ -7667,7 +7667,7 @@ Friday 20190628 weight 159.8 48 bpm @ 4:38 60.6F @ 4:40 (Heritage Hills)
 10 double espresso
 
 6:45 post Team RWB 1776 challenge breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 "fruit" snack
  50? green drink
@@ -7715,7 +7715,7 @@ Saturday 20190629 weight 160.8 50 bpm @ 5:08 73.0F @ 5:10 (Heritage Hills)
 10 double espresso
 
 7:00 breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 9:00 fruit snack
@@ -7757,7 +7757,7 @@ Sunday 20190630 weight 160.5 46 bpm @ 5:09 62.5 @ 5:11 (Alameda & River)
 180 3 tablespoons chia in 20 oz. water
 
 8:00 post 40# ruck breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  70? 24 oz. rice milk
 
@@ -7799,7 +7799,7 @@ Monday 20190701 weight 160.4 46 bpm @ 5:37 72.3F @ 7:17 (Heritage Hills)
 10 double espresso
 
 6:15 pre-interval training calories & caffeine
-533 normal oatmeal
+533 fortified oatmeal
 10 double espresso
 
 7:20 pre-run liquid
@@ -7809,7 +7809,7 @@ Monday 20190701 weight 160.4 46 bpm @ 5:37 72.3F @ 7:17 (Heritage Hills)
 360 2x 3 tablespoons chia in 20 oz. water
 
 8:30 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:30 fruit snack
@@ -7852,7 +7852,7 @@ Tuesday 20190702 weight 160.1 50 bpm @ 5:05 63.9F @ 6:34 (Heritage Hills)
 180 3 tablespoons chia in 20 oz. water
 
 8:10 post core + 8.9 mi calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -7885,7 +7885,7 @@ Wednesday 20190703 weight 160.5 52 bpm @ 4:35 61.9F @ 6:08 (Heritage Hills)
 81.9F at end
 
 5:10 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 5:15 wake-up
 10 double espresso
@@ -7897,7 +7897,7 @@ Wednesday 20190703 weight 160.5 52 bpm @ 4:35 61.9F @ 6:08 (Heritage Hills)
 
 9:30 post pack run
  50? green drink
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:30 lunch
@@ -7935,10 +7935,10 @@ Replaced battery in my HRM strap
 10 double espresso
 
 6:30 post core (which included 76 burpees, most in really poor form) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:45 post Team RWB ruck (4.38 miles w/43# ruck) calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 150 two fairly small oranges
 ??? cup of fruit (cherries, pineapple, ?can't remember the others)
@@ -7983,7 +7983,7 @@ Friday 20190705 weight 161.4 48 bpm @ 4:52 72.5F @ 6:52 (Heritage Hills)
 360 2x 3 tablespoons chia in 20 oz. water
 
 8:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:45 fruit snack
@@ -7998,7 +7998,7 @@ Friday 20190705 weight 161.4 48 bpm @ 4:52 72.5F @ 6:52 (Heritage Hills)
  50? green drink
 
 2:15 snack (would have been post run, but decided it was too hot (99.9F))
-533 normal oatmeal
+533 fortified oatmeal
 180 3 tablespoons chia in 20 oz. water
 
 3:00 date snack
@@ -8017,7 +8017,7 @@ Saturday 20190706 weight 160.5 49 bpm @ 5:54 69.8F @ 5:55 (Heritage Hills)
 10 double espresso
 
 7:45 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 fruit snack
 240 two bananas
@@ -8063,7 +8063,7 @@ Sunday 20190707 weight 160.1 47 bpm @ 5:52 62.5F @ 5:39 (Alameda and the River)
 175 1/2 brick tempeh
 
 8:00 post 5 mi 40# ruck run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 10:00 protein snack
@@ -8104,7 +8104,7 @@ Monday 20190708 weight 160.1 46 bpm @ 5:38 64.4F @ 5:25 (Heritage Hills)
 180 3 tablespoons chia in 20 oz. water (and another 20 oz. w/o chia)
 
 8:30 after 8.9 mile run
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -8143,7 +8143,7 @@ Tuesday 20190709 weight 158.8 45 bpm @ 5:08 57.9F @ 5:10 (Heritage Hills)
  50? green drink
 
 8:15 breakfast after 8.9 mi run
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:00 fat snack
@@ -8178,7 +8178,7 @@ Wednesday 20190710 weight 156.9 47 bpm @ 4:57 60.4F @ 5:54 (Heritage Hills)
 
 5:27 ibuprofen and buffer
   0 200 mg ibuprofen
-533 normal oatmeal
+533 fortified oatmeal
 
 5:55 bonus caffeine
 10 double espresso
@@ -8187,7 +8187,7 @@ Wednesday 20190710 weight 156.9 47 bpm @ 4:57 60.4F @ 5:54 (Heritage Hills)
 1200 4x 3 scoops Tailwind in 20 oz. water
 
 8:30 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8228,7 +8228,7 @@ Thursday 20190711 weight 158.0 46 bpm @ 4:30 66.4F @ 6:30 (Heritage Hills)
 180 3 tablespoons chia in 16 oz. water
 
 ?:?? post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8269,7 +8269,7 @@ Friday 20190712 weight 156.7 45 bpm @ 4:21 ??.?F @ ?:?? (Heritage Hills)
 360 2x 3 tablespoons chia in 16 oz. water
 
 7:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8352,7 +8352,7 @@ Sunday 20190714 weight 160.7 46 bpm @ 4:44 72.1 @ 4:48 (Near North Valley)
 10 double espresso
 
 5:50 pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:50 pre-race bonus calories and meds
 230 10 dates
@@ -8365,7 +8365,7 @@ Sunday 20190714 weight 160.7 46 bpm @ 4:44 72.1 @ 4:48 (Near North Valley)
 600 6 scoops tailwind in 20 oz. water
 
 8:45 post race
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 10:15 back home
@@ -8400,7 +8400,7 @@ Monday 20190715 weight 161.4 41 bpm @ 7:58 76.3F @ 8:01 (Heritage Hills)
 10 double espresso
 
 9:45 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8443,7 +8443,7 @@ Tuesday 20190716 weight 159.6 47 bpm @ 5:11 71.4F @ 7:00 (Heritage HJills)
 100? double espresso horrible milk (non-vegan!) latte (botched, trash)
 
 8:45 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8493,7 +8493,7 @@ Wednesday 20190717 weight 158.8 46 bpm @ 4:29 69.1F @ 6:26 (Heritage Hills)
 1320 4x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
 
 9:15 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:45 protein snack
@@ -8531,7 +8531,7 @@ Thursday 20190718 weight 158.6 44 bpm @ 5:09 36.9F @ 5:15 (Silverton, CO)
 
 6:30 waiting for gas station to open
 ??? bag of melon
-533 normal oatmeal
+533 fortified oatmeal
 160 two oranges
 75 nectarine
 
@@ -8575,7 +8575,7 @@ Friday 20190719 weight ???.? 52 bpm @ 5:01 37F @ 6:45 (Silverton, CO)
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 during 20 mile Hardrock course (10 out, 10 back) calories
 1600 Tailwind
@@ -8597,7 +8597,7 @@ Saturday 20190720 weight 164.6 44 bpm @ 6:50 45F @ 7:00 (Silverton, Co)
 10 double espresso
 
 5:45 pre-hike calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 pre-hike caffeine
 300? quad soy latte
@@ -8650,7 +8650,7 @@ Monday 20190722 weight 163.8 42 bpm @ 4:57 73.8F @ 4:58 (Heritage Hills)
 10 double espresso
 
 5:50 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 more calories
  50? green drink
@@ -8695,7 +8695,7 @@ Tuesday 20190723 weight 161.8 42 bpm @ 4:56 67.6F @ 5:25 (Heritage Hills)
 10 double espresso
 
 6:00 pre-exercise calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 remaining plums
 210 7 plums
@@ -8754,7 +8754,7 @@ HR was rushed
 1320 4x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
 
 9:45 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:00 snack
@@ -8794,7 +8794,7 @@ Thursday 20190725 weight 161.2 50 bpm @ 5:02 75.2F @ 8:39 (Heritage Hills)
     double I made from excess ground beans from my earlier shots).  Ugh!
     
 10:30 after 8.9 mile run
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8837,7 +8837,7 @@ Friday 20190726 weight 159.3 49 bpm @ 4:40 65.1F @ 5:40 (Heritage Hills)
 360 2x 3 tablespoons chia in 20 oz. water
 
 7:30 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8873,7 +8873,7 @@ Saturday 20190727 weight 159.3 50 bpm @ 4:38 forgot to look at temperature
 10 double espresso
 
 8:00 post exercise calories (3.6 mile walk/run with Iris)
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -8912,7 +8912,7 @@ Sunday 20190728 weight 158.6 46 bpm @ 5:12 69.0F (Alameda and River)
 180 3 tablespoons chia in 16 oz. water
 
 8:00 post Team RWB "run" calories & caffeine
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 5? two paper cups of Starbucks coffee
 
@@ -8953,7 +8953,7 @@ Monday 20190729 weight 158.7 47 bpm @ 5:05 74.7F @ 6:17 (Heritage Hills)
 10 double espresso
 
 8:50 post 13.1 mile (w/ intervals) breakfast (no chia or Tailwind earlier)
-533 normal oatmeal
+533 fortified oatmeal
 112? 36? oz. (the rest) rice milk
  50? green drink
 450 two avocados
@@ -8979,7 +8979,7 @@ Tuesday 20190730 weight 158.6 47 bpm @ 4:17 88.3F @ 4:44 (Mountainbrook Village)
 10 double espresso
 
 7:00 after 8.9 mile run
-950 2x normal oatmeal minus the Udo's 3-6-9
+950 2x fortified oatmeal minus the Udo's 3-6-9
 5? Keurig coffee
 
 8:30 bonus caffeine
@@ -9010,7 +9010,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE421
 10 double espresso
 
 7:30 breakfast
-950 2x normal oatmeal minus the Udo's 3-6-9
+950 2x fortified oatmeal minus the Udo's 3-6-9
 
 9:00 - 10:00 during run into GVR
 660 2x (20 oz. bottles of water, w/ 3 tablespoons chia & 1.5 scoop Tailwind)
@@ -9035,7 +9035,7 @@ https://www.wunderground.com/weather/us/nv/las-vegas/KNVLASVE521
 10 double espresso
 
 7:00 breakfast
-870 2x normal oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
+870 2x fortified oatmeal minus the Udo's 3-6-9 (second one also missing soy milk)
 
 9:30 snack
 80 1/2 oz. mixed nuts (the rest, after bagging 8 oz. for latet)
@@ -9290,7 +9290,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:00 post 3.5 mi 35# pack run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
 
 9:00 snack
@@ -9299,7 +9299,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 77.9F @ 9:15 before running down to pick up my truck
 
 10:30 post 3.5mi 35# pack run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 lunch
  50 medium bowl steamed broccoli and cauliflower
@@ -9328,7 +9328,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 8:15 no exercise (minor? injury) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 snack
 50? green drink
@@ -9369,7 +9369,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 8:45 no exercise (yet?) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 fruit snack
 50? green drink
@@ -9404,7 +9404,7 @@ https://www.wunderground.com/weather/us/nm/santa-fe/KNMSANTA191
 10 double espresso
 
 5:30 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 pre-baldy caffeine
 10 double espresso
@@ -9423,7 +9423,7 @@ during race
 
 7:15 post-race
 ??? 12 oz. 8.5% ABV Founders something or other
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 9:00 back home protein
@@ -9436,7 +9436,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:00? post Team RWB run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
  5? paper cup of Starbucks coffee
 
@@ -9444,7 +9444,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 ??? 12 oz. 7% ABV Santa Fe Brewing Social Hour
 
 11:00 post hike calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 12:00 beginning of late lunch
@@ -9482,7 +9482,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 9:00 no exercise (yet?) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
 
 10:00 fruit snack
@@ -9526,7 +9526,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 50? green drink
 
 7:45 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:45 fruit snack
@@ -9567,7 +9567,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 9:15 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
 
 10:50 tiny snack
@@ -9609,7 +9609,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 9:00 post dental (no exercise yet) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
 
 11:30 lunch
@@ -9662,7 +9662,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 9:00 no exercise calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 snack
 60 apple
@@ -9705,7 +9705,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 9:00 no exercise (yet?) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 fruit snack
  30 plum
@@ -9747,12 +9747,12 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:15 post Team RWB pack run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. (the rest) rice milk
 10? 2 paper cups of Starbucks coffee
 
 12:15 post SAR search & nav eval calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 150? small salad with some amount of avocado thrown in
 
@@ -9790,7 +9790,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 180 3 tablespoons chia in 20 oz. water
 
 8:45 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 600? two medium (or perhaps small) avocados
 
@@ -9830,7 +9830,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 8:20 post 9.8 mile run calories
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
  50? 16 oz. rice milk
 
@@ -9920,7 +9920,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:40 post 8.9 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
  50? 16 oz. rice milk
 
@@ -9933,7 +9933,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 120 banana
 
 10:00 more calories
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 lunch
  50 medium bowl steamed broccoli and cauliflower
@@ -10016,7 +10016,7 @@ HR was rushed
 10 double espresso
 
 5:30 pre-run calories & NSAID
-533 normal oatmeal
+533 fortified oatmeal
   0 200 mg ibuprofen
 
 5:50 pre-run liquids
@@ -10043,7 +10043,7 @@ post run
 12:51 late lunch
  50 medium bowl steamed broccoli and cauliflower
 ??? 12 oz. 15% ABV Dogfish Head Raison D'Extra
-533 normal oatmeal
+533 fortified oatmeal
 
 1:40 more calories
 ??? 3 ladles northern beans, extra water
@@ -10075,7 +10075,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:15 post Team RWB run
-533 normal oatmeal
+533 fortified oatmeal
 10 small amount of rice milk
 250 5 Cuties
 40? 4 paper cups of Starbucks coffee
@@ -10122,13 +10122,13 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 ?:?? pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 bonus caffeine
 10 double espresso
 
 9:30 not running today (probably / maybe?) but made oatmeal already
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 bonus caffeine
 10 double espresso
@@ -10173,13 +10173,13 @@ Tuesday 20190827 weight 160.1 51 bpm @ 5:53
 10 double espresso
 
 8:00 no exercise yet calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 bonus caffeine
 10 double espresso
 
 10:00 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 fruit snack
 160 two oranges
@@ -10217,7 +10217,7 @@ Wednesday 20190828 weight 158.0 47 bpm @ 5:09
 10 double espresso
 
 7:50 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 fat snack
 250 small avocado
@@ -10263,7 +10263,7 @@ HR was rushed
 10 double espresso
 
 7:00
-533 normal oatmeal
+533 fortified oatmeal
 180 3 tablespoons chia in 20 oz. water
 
 9:00
@@ -10305,10 +10305,10 @@ Friday 20190830 weight 158.8 50 bpm @ 8:00
 10 double espresso
 
 7:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 fruit snack
 ??? 3 (the rest) small peaches
@@ -10341,7 +10341,7 @@ Saturday 20190831 weight 158.7? 47 bpm @ 5:03
 10 double espresso
 
 7:30 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 fruit snack
 180 1 1/2 bananas (Sophie didn't want to eat a whole one)
@@ -10387,7 +10387,7 @@ Sunday 20190901 weight 158.5 48 bpm @ 5:09
 5:15 wake-up
 10 double espresso
 
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 30? 3 paper cups of Dunkin Donuts coffee
 
@@ -10435,7 +10435,7 @@ HR was rushed and post caffeine
 50? green drink
 
 9:00 no exercise (yet?) calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 fruit snack
 160 two oranges
@@ -10463,12 +10463,12 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:40 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
  50? 16 oz. rice milk
 
 9:00 bonus oatmeal
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 fruit snack
 160 two oranges
@@ -10506,7 +10506,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 72.5F @ 8:42 (near end)
-533 normal oatmeal
+533 fortified oatmeal
 50? green drink
  50? 16 oz. rice milk
 
@@ -10519,7 +10519,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 200? 4 Trader Joe's (very small) mandarin oranges
 
 10:30 more cereal
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 fruit snack
 ??? nectarine
@@ -10560,11 +10560,11 @@ after run 81.1F @ 9:54
 10 double espresso
 
 7:45 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 10 double espresso
 
 10:00 post-run calories
-533 normal oatmealo
+533 fortified oatmealo
 
 10:30 fruit snack
 3 nectarines
@@ -10675,7 +10675,7 @@ Saturday 20190907 weight 161.1
 No 5:15 caffeine
 
 7:45
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 more calories
 50? green drink
@@ -10705,7 +10705,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 post Team RWB 3 mile run (no coffee for me today, thank you)
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 ?:?? pre-lunch fruit snack
@@ -10732,13 +10732,13 @@ Monday 20190909 weight 159.4. 45 bpm @ 6:56
 HR taken late due to SAR callout.
 
 7:00 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 ... all of this is way after the fact, due to CSAR mission
 
  50 medium bowl steamed broccoli and cauliflower
 40? small salad
-1066 2x normal oatmeals
+1066 2x fortified oatmeals
 1280 8 oz. mixed nuts
 500? 5? gels
 120 2x apples
@@ -10752,7 +10752,7 @@ Tuesday 20190910 weight 159.5. 46 bpm @ 5:04 68.9F @ 7:41
 71.4F @ 8:17 (about fifteen minutes after I finished)
 
 8:00 post 2mile run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -10798,7 +10798,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 8:30 back from Team RWB flag bearing
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -10819,7 +10819,7 @@ during Team RWB run
 84.9F @ 2:13
 
 2:15 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 3:30 nut snack
@@ -10835,7 +10835,7 @@ during Team RWB run
 
 Thursday 20190912 weight 160.7 57 bpm @ 5:14
 
-533 normal oatmeal
+533 fortified oatmeal
 green drink
 
 on drive to Moab
@@ -10889,7 +10889,7 @@ woke up at 3:15, drove up to the finish line, parked my rental car
 hopped on the bus, all without calories
 
 5:15
-533 normal oatmeal
+533 fortified oatmeal
 10 double espresso
 0 200 mg ibuprofen
 
@@ -10928,7 +10928,7 @@ https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ52
 ??? remainder of big curry plate (mostly just rice)
 
 ?:?? post 2.8 mile Team RWB "run" calories
-533 normal oatmeal
+533 fortified oatmeal
 10? 2 cups Starbucks coffee
 
 11:00 Michael Thomas caffeine
@@ -10962,7 +10962,7 @@ Monday 20190916 weight 160.1 45 bpm @ 5:05
 10 double espresso
 
 6:30 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 extra calories
 ??? 3 ladles lentils, extra water
@@ -11005,14 +11005,14 @@ Tuesday 20190917 weight 161.5 47 bpm @ 5:09
 10 double espresso
 
 6:40 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 snack
 ??? 2 small sweet potatoes
  75? large apple
 
 8:15 more calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:45 more caffeine
 10 double espresso
@@ -11053,7 +11053,7 @@ Wednesday 20190918 weight 162.2 49 bpm @ 5:05
 10 double espresso
 
 6:30 breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 fruit snack
 160 two oranges
@@ -11091,7 +11091,7 @@ Thursday 20190919 weight 160.1 50 bpm @ 5:09
 10 double espresso
 
 6:30 early breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:00 fruit snack
 2 figs
@@ -11102,7 +11102,7 @@ Thursday 20190919 weight 160.1 50 bpm @ 5:09
 60 apple
 
 9:30 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 snack
 120 two apples
@@ -11137,7 +11137,7 @@ Friday 20190920 weight 161.2 53 bpm @ 5:12
 10 double espresso
 
 post 8.9 mile run/walk
-533 normal oatmeal
+533 fortified oatmeal
 
 CSAR caffeine
 20 quad espresso
@@ -11148,7 +11148,7 @@ during CSAR assignments
 
 post CSAR
 green drink
-533 normal oatmeal
+533 fortified oatmeal
  40? small salad
   50 medium bowl steamed broccoli and cauliflower
 ??? 8 oz. (split with Sophie) 17%? ABV Dogfish Head Worldwide Stout
@@ -11166,14 +11166,14 @@ https://www.wunderground.com/weather/us/nm/cuba/KNMCUBA4?cm_ven=localwx_today
 10 double espresso
 
 7:30 pre-run
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 post-run (during drive home)
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 11:15 back at the house
-533 normal oatmeal
+533 fortified oatmeal
 
 11:45 lunch
   50 medium bowl steamed broccoli and cauliflower
@@ -11200,7 +11200,7 @@ Sunday 20190922 weight 157.8 49 bpm @ 5:09 49.3F @ 4:26 (Alameda & River)
 10 double espresso
 
 9:30 post 8.46 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ?? 10? oz. Dunkin Donuts coffee
 
@@ -11241,7 +11241,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 480 3 scoops of Tailwind, w/ 3 tablespoons chia in 20 oz. water
 
 8:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -11283,7 +11283,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:30 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -11331,7 +11331,7 @@ forgot to look up temperature on return, but it was still fairly cool
 480 3 scoops of Tailwind, w/ 3 tablespoons chia in 20 oz. water
 
 8:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -11371,7 +11371,7 @@ FWIW, I didn't have my normal poop this morning, so my weight should be lower
 10 double espresso
 
 8:40 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -11440,7 +11440,7 @@ did not know weight because did not take scale
 10 double espresso
 
 5:30 Pre-race calories
-533 normal oatmeal
+533 fortified oatmeal
 0 200 mg ibuprofen
 
 6:15 pre-race caffeine
@@ -11492,7 +11492,7 @@ I had a half an IPA the first time I got to Caldera Rim aid station and
 then another half IPA when I got back to Caldera Rim aid tation
 
 post race
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 8? oz 12.1% ABV Barrel-aged Old Rasputin (split with Jeff)
 3 vegan patties with two buns, lots of green chile
@@ -11557,13 +11557,13 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:20 no-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:15 bonus caffeine
 10 double espresso
 
 10:15 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:45 date snack
 115 5 dates
@@ -11603,7 +11603,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 10 double espresso
 
 8:30 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -11645,11 +11645,11 @@ https://www.wunderground.com/forecast/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:00 no-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 bonus caffeine and calories
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 fruit snack
 60 apple
@@ -11694,13 +11694,13 @@ https://www.wunderground.com/forecast/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:00 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 bonus caffeine
 10 double espresso
 
 8:00 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:15 fruit snack
 240 2 bananas
@@ -11743,13 +11743,13 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 10 double espresso
 
 6:00 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 bonus caffeine
 10 double espresso
 
 8:00 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 9:00 bonus caffeine
 10 double espresso
@@ -11790,7 +11790,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double espresso
 
 7:15 after walking to AIBF breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:00 they were there
 400 misc chips
@@ -11835,7 +11835,7 @@ crew breakfast.
 300 bag of chips
 
 pre-launch
-533 normal oatmeal
+533 fortified oatmeal
 ??? crap-ton of potato chips
 ??? mini-pretzels
 
@@ -11887,7 +11887,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double-espresso
 
 6:45 @ AIBF after 4.75 mile run into field
-533 normal oatmeal
+533 fortified oatmeal
 
 ??? tons of chips
 ??? Sparkling Sake
@@ -11927,7 +11927,7 @@ HR was post-caffeine and rushed
 10 double-espresso
 
 7:00 at field after running 4.75 miles in
-533 normal oatmeal
+533 fortified oatmeal
 
 8:48 in truck, chasing
 50? rice cracker
@@ -11973,7 +11973,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double-espresso
 
 7:00 at field after running 4.75 miles in
-533 normal oatmeal
+533 fortified oatmeal
 
 post ballooning beverages
 6 oz.? 11.5% ABV Cook's Brut California Champagne 9:19am
@@ -12027,7 +12027,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double-espresso
 
 8:00 back from Balloon Fiesta (9.5 mi round trip)
-533 normal oatmeal
+533 fortified oatmeal
  62.5? 20 oz. rice milk
  10 double-espresso
 
@@ -12079,7 +12079,7 @@ weight was pre-poop
 
 6:00 pre-ballooning calories
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? - ?:?? pre-ballooning and post chase
 750? 2+ big bags of chips
@@ -12133,7 +12133,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double-espresso
 
 7:15 after 4.75 mile walk in to Balloon Field (and launch and boarding)
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? crazy amount of chips
 1200? bunch of chips (including small amount of non-vegan sour-cream open
@@ -12180,7 +12180,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ415
 10 double espresso
 
 7:30 in truck, chasing Lofty
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 final AIBF beer (& snacks) Some pours were < 2 oz., some more
 ??? 12 oz.? 11.5% ABV Cook's Brut California Champagne 8:33am
@@ -12225,7 +12225,7 @@ HR was rushed and taken about 45 minutes after my morning caffeine
 10 double espresso
 
 7:00 no run (yet?) calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:15 fat calories
 600 2 medium avocados
@@ -12274,7 +12274,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:00 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:47 bonus caffeine
 10 double espresso
@@ -12283,7 +12283,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 10:00 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:30 more calories
 250? medium (didn't weigh it) sweet potato
@@ -12324,7 +12324,7 @@ HR was post caffeine and rushed
 10 double espresso
 
 6:45 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 more calories
 120 banana
@@ -12335,7 +12335,7 @@ HR was post caffeine and rushed
 
 9:15 more caffeine & calories
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 10:50 fruit snack
 200 4 mandarin oranges
@@ -12375,13 +12375,13 @@ HR was rushed
 10 double espresso
 
 6:20 early pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 bonus caffeine
 10 double espresso
 
 8:45 post tiny (3.43 mi) uphill run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 bonus caffeine
 10 double espresso
@@ -12426,7 +12426,7 @@ from work), but that I prepared for
 480 3 scoops of Tailwind, w/ 3 tablespoons chia in 20 oz. water
 
 9:30 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -12518,7 +12518,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ511
 10 double espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:25 pre-run caffeine
 20 quad espresso
@@ -12532,7 +12532,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ511
 60 apple
 
 1:00 at Marcia's and Jeff's
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ??? big vegan chili bowl
 ??? big vegan salad bowl
@@ -12555,7 +12555,7 @@ HR was with a fresh battery, well after caffeine, but in a very cold room
 180 3 tablespoons chia in 20 oz. water
 
 10:45 breakfast (post 13.1 mile run)
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -12608,7 +12608,7 @@ yesterday and figure out if yesterday's and today's trainings were net
 10 double espresso
 
 6:30 experimental breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:50 more experimental calories
  50? green drink
@@ -12616,7 +12616,7 @@ yesterday and figure out if yesterday's and today's trainings were net
 300? a bunch of spaghetti (leftover from my low-fiber protocol day)
 
 10:30 post 8.9 mile run recovery food
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 12:15 business lunch (@ Annapurna)
@@ -12644,13 +12644,13 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:40 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 ?:?? (long before I ran, while I was making espresso for my trip)
 50? green drink
 
 9:55 breakfast (post 5.6 mile run (with intervals))
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:00 fruit snack
@@ -12687,7 +12687,7 @@ car, then drive to Gold Canyon.  We'll see how I feel
 
 5:15 MDT (Albuquerque) wake-up
 10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 nothing on flight
 
@@ -12814,7 +12814,7 @@ Will not have a scale.
 10 double espresso
 
 5:30 pre-race breakfast
-530 normal oatmeal (w/o Udo's oil)
+530 fortified oatmeal (w/o Udo's oil)
 320 2 oz. mixed nuts
 
 5:35 am MST pre-race
@@ -12864,7 +12864,7 @@ pre lap 5
 Sunday 20191027 weight 1??.? ?? bpm @ ?:?? ??.?F @ ?:?? (Fountain Hills)
 
 4:51am post-race
-530 normal oatmeal (w/o Udo's oil)
+530 fortified oatmeal (w/o Udo's oil)
 ??? 12 oz. 8% ABV Bosque Brewing Scotia scotch ale
 
 5:30 more beer
@@ -12899,7 +12899,7 @@ Chose not to exercise, mostly due to sore left calf
 10 double espresso
 
 5:30 no exercise calories
-500 normal oatmeal, but without Udo's oil
+500 fortified oatmeal, but without Udo's oil
 120 banana
 
 7:30 more calories
@@ -12925,7 +12925,7 @@ Chose not to exercise, mostly due to sore left calf
 60 apple
 
 3:30 early dinner
-530 normal oatmeal (w/o Udo's oil)
+530 fortified oatmeal (w/o Udo's oil)
 ??? 12 oz. 11.8% ABV Boulevard Whiskey Barrel Imperial Stout
 
 5:00 dinner w/dad & Jeanne
@@ -12946,7 +12946,7 @@ Forgot to record temperature, but it was noticeably chilly
 10 double espresso
 
 6:00 no exercise calories
-530 normal oatmeal (w/o Udo's oil)
+530 fortified oatmeal (w/o Udo's oil)
 120 banana
 
 7:00 fruit snack
@@ -12990,13 +12990,13 @@ my toes and left calf
 10 double espresso
 
 7:20 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 bonus caffeine
 10 double espresso
 
 9:00 still haven't run yet calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:00 more protein
 ??? 2 ladles pinto beans, generous amount of mung bean sprouts, tiny bit of Andrew's Insanity Sauce, extra water
@@ -13031,7 +13031,7 @@ HR was post caffeine; I didn't sleep well last night
 10 double espresso
 
 6:45 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 115 5 dates
 ??? 3 ladles lentils, Andrew's Insanity Sauce, extra water
 
@@ -13081,7 +13081,7 @@ bed early and slept fairly well last night.
 10 double espresso
 
 6:45 no exercise yet calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 (mostly) low-fiber calories
 50? green drink
@@ -13092,7 +13092,7 @@ bed early and slept fairly well last night.
 ??? 3 pieces of halloween candy
 
 10:50 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:20 lunch
@@ -13133,8 +13133,8 @@ weight was post breakfast (I forgot; I'm pretty tired)
 10 double espresso
 
 5:30 early morning leftovers
-250 ~ 1/2 normal oatmeal (didn't finish yesterday)
-533 normal oatmeal (didn't start yesterday)
+250 ~ 1/2 fortified oatmeal (didn't finish yesterday)
+533 fortified oatmeal (didn't start yesterday)
 
 7:30 protein & pain
 ??? 3 ladles pinto beans (w/onions) & insane amount of Andrew's Insanity Sauce
@@ -13225,7 +13225,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 10 double espresso
 
 7:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -13274,7 +13274,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 1280 4x 20 oz. water + 2 scoops of Tailwind + 2 tablespoons of chia
 
 8:45 breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -13315,7 +13315,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 10 double espresso
 
 7:30 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 8:00 green drink
@@ -13362,7 +13362,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 180 3 tablespoons of chia seeds in 20 oz. water
 
 8:30 post 13.1 mile breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -13406,7 +13406,7 @@ Kathy's car said that it was 24 (or perhaps 26) a little before the start
 10 double espresso
 
 5:30 pre-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
 300? dinner roll
 100 slice of bread
 
@@ -13428,7 +13428,7 @@ Kathy's car said that it was 24 (or perhaps 26) a little before the start
  645 30 dates
 
 2:45? post-race
-533 normal oatmeal
+533 fortified oatmeal
  70? 20 oz. rice milk
 ??? small bag of Lays Potato Chips
 9? oz. 15% ABV Dogfish Head Raison D'Extra (shared)
@@ -13458,7 +13458,7 @@ HR was so low.
 250? 12? leftover dates
 
 8:45 post Team RWB run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ??? big cup Starbucks Coffee
 
@@ -13509,7 +13509,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 180 3 tablespoons chia in 20 oz. water
 
 8:30 breakfast (post 13.1 mile run)
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -13553,7 +13553,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
  50? green drink
 
 8:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:30 fruit snack
@@ -13602,7 +13602,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 
 7:45 post 6 mi 40# pack run
  60 remaining 1/5th (20 oz. water & 3 scoops Tailwind)
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -13647,7 +13647,7 @@ HR was taken very late, after caffeine & morning chores
 10 double espresso
 
 8:15 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 (I think I forgot to drink my rice milk, due to SAR mission)
 
@@ -13699,7 +13699,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 300 3 scoops tailwind in 20 oz. water
 
 9:30 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -13740,7 +13740,7 @@ Saturday 20191116 weight 156.6 47 bpm @ 5:27 37F @ 6:45 (car thermometer)
 10 double espresso
 
 5:40 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 300? 3 slices bread
 
 6:30 pre-run caffeine
@@ -13750,7 +13750,7 @@ Saturday 20191116 weight 156.6 47 bpm @ 5:27 37F @ 6:45 (car thermometer)
 600 2x 3 scoops Tailwind in 20 oz. water
 
 9:30 post-race calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 11:00 fat snack
@@ -13790,12 +13790,12 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:30 post Team RWB exercise (3 mile 40# ruck run)
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ??? 2 1/2 cups Starbucks coffee
 
 1:05 back home after SAR litter (& knots!) training
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 1:55 late lunch
@@ -13848,7 +13848,7 @@ during 13.1 mi 40# pack run (with intervals)
 600 2x (20 oz. water w/ 3 scoops Tailwind)
 
 9:45 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -13892,14 +13892,14 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
  50? green drink
 
 7:10 post core, pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:10 snack
 60 (nice gala) apple
 140 8 oz. bag edamame
 
 10:30 post 8.9 mile (late) run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:50 apple
@@ -13931,7 +13931,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:15 pre-run calories (run will be late due to rain)
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 pre-run caffeine
 10 double espresso
@@ -13940,7 +13940,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 300 3 scoops Tailwind in 20 oz. water
 
 8:45 post run calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  50? green drink
 
@@ -13983,7 +13983,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:15 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 
 8:30 post core protein
@@ -14037,7 +14037,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 180 3 tablespoons chia in 20 oz. water
 
 8:15 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -14083,7 +14083,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 5:45 bonus calories
 150? whole wheat tortilla
@@ -14095,7 +14095,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 900 3x 3 scoops Tailwind in 20 oz. water
 
 9:15 post-run recovery
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 9:30 back home
@@ -14139,7 +14139,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:30 post Team RWB exercise (likely a 3 mile 40# ruck run)
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ??? 2 cups Starbucks coffee
 
@@ -14189,7 +14189,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 180 3 tablespoons chia in 20 oz. water
 
 9:00 breakfast (post 13.1 mile run)
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -14234,7 +14234,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:45 post 8.9 mile run (but pre core workout) breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -14277,13 +14277,13 @@ strap.
 
 5:15 wake-up & pre-run calories
 20 quad espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 6:00 - 7:00 during 7.0 mile run
 < 300 didn't drink all of 3 scoops of Tailwind in 20 oz. water
 
 7:00 post-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 8:45 protein snack
@@ -14326,7 +14326,7 @@ HR was rushed
 10 double espresso
 
 10:00 post Team RWB ruck calories
-533 normal oatmeal
+533 fortified oatmeal
  ?? vegan tamale
 10 double espresso
 
@@ -14425,7 +14425,7 @@ noon  sunny      37F  0% 0 inches    19 mph wnw
 10 double espresso
 
 5:30 pre-race breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 pre-race caffeine
 10 double espresso
@@ -14437,7 +14437,7 @@ during race
 1200? 3x large slice vegan apple pie
 
 post-race
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ??? 16 oz. 14.5% ABV Bow and Arrow ?Hazelnut Imperial Stout?
 4 (or more) big handfuls of kettle chips
@@ -14456,7 +14456,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:45 post Team RWB 40# 3.18 mi run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ? 2 cups Dunkin' Donuts coffee
 
@@ -14499,10 +14499,10 @@ muscles in ways that a normal 50k doesn't use.
 20 quad espresso
 
 5:55 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:15 more calories
-533 normal oatmeal
+533 fortified oatmeal
 
 10:15 more calories
 ??? 2 ladles lentils, mixed beans, La Victoria Medium, extra water
@@ -14543,7 +14543,7 @@ from a normal Tuesday's, but not by much.
 10 double espresso
 
 8:30 post 6 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
 70? 24 oz. rice milk
 
@@ -14601,7 +14601,7 @@ ice hat, but I  probably should have
 600 2x 3 scoops Tailwind in 20 oz. water
 
 8:00 post-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -14659,7 +14659,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
 10 double espresso
 
 10:30 post 8.9 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:30 lunch
@@ -14701,7 +14701,7 @@ Friday 20191206 weight 157.7 51 @ 6:24 30F @ 7:45 (truck thermometer)
 10 double espresso
 
 6:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 7:05 pre-run caffeine
 20 quad espresso
@@ -14711,7 +14711,7 @@ Friday 20191206 weight 157.7 51 @ 6:24 30F @ 7:45 (truck thermometer)
 900 3x 20 oz. water w/ 3 scoops tailwind
 
 10:30 post-run calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 11:30 lunch
@@ -14747,7 +14747,7 @@ https://www.wunderground.com/hourly/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 8:00 post 13.1 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 25? 8 oz.? (the rest) rice milk
 
 8:30 bonus caffeine
@@ -14785,7 +14785,7 @@ HR was rushed and post caffeine
 10 double espresso
 
 6:00 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 ??? bowl of vegan soup w/ 4! (the rest) ladles veggies & potatos
 100 2 halos
 100 small banana
@@ -14797,7 +14797,7 @@ HR was rushed and post caffeine
 10 double espresso
 
 9:00 no run (had the wrong date!) breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:45 fruit snack
 120 two (the rest) apples (first one was mealy, so I ate the second also)
@@ -14883,7 +14883,7 @@ better than when we found him.  Yay!
 10 double espresso
 
 9:00 back home breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:20 celebratory beverage
@@ -14934,7 +14934,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ591
  50? green drink
 
 9:00 post 13.1 mile (w/intervals) run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 11:00 protein snack
@@ -14978,7 +14978,7 @@ HR, rushed, taken 1:06 after quad espresso
 20 quad espresso
 
 5:30 pre-run breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 pre-run liquid
  50? green drink
@@ -14992,7 +14992,7 @@ HR, rushed, taken 1:06 after quad espresso
     easily operate the second bottle
 
 8:45 post run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 10:00 protein snack
@@ -15086,7 +15086,7 @@ but to get it over with.
 10 double espresso
 
 6:15 I guess I'm going to run after all calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 prophylactic analgesic
   0   200 mg ibuprofen
@@ -15102,7 +15102,7 @@ REPLACED HRM BATTERY
    0 200 mg ibuprofen (at turnaround)
 
 10:15 post run calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk (took me over an hour to finish it though)
 
 11:30 lunch
@@ -15141,7 +15141,7 @@ HR was rushed
 10 double espresso
 
 8:00 post 13.1 mile run breakfast
-533 normal oatmeal
+533 fortified oatmeal
  50? green drink
  50? 16 oz. rice milk
 
@@ -15209,7 +15209,7 @@ so I had already made it
 
 11:30 lunch
  50 medium salad
-533 normal oatmeal
+533 fortified oatmeal
  75 medium bowl steamed broccoli and cauliflower
  60 apple
  80 medium grapefruit
@@ -15239,7 +15239,7 @@ HR was rushed
 10 double espresso
 
 5:30 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 6:30 more caffeine
 10 double espresso
@@ -15252,7 +15252,7 @@ HR was rushed
 500? < 2x (3 scoops Tailwind in 20 oz. water)
 
 9:30 post 11.2 mile 40# run calories
-533 normal oatmeal
+533 fortified oatmeal
  35? 12 oz. (the rest) rice milk
 
 10:30 protein snack
@@ -15292,7 +15292,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:50 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 fruit snack
  60 apple
@@ -15304,7 +15304,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 
 9:00 more calories
  50? green drink
-533 normal oatmeal 
+533 fortified oatmeal 
 
 10:00 fruit snack
  60 apple
@@ -15351,7 +15351,7 @@ Like yesterday, I'm not running again today.  It is likely that I have flu.
 
 7:00 no exercise calories and analgesics
 0 650 mg acetaminophen
-533 normal oatmeal
+533 fortified oatmeal
 
 8:30 calories & caffeine
 ??? 2 ladles lentils, La Victoria Medium, extra water 
@@ -15395,7 +15395,7 @@ Thursday 20191219 weight 154.4 57 bpm @ 6:00 no temp taken, no running
 10 double espresso
 
 7:10 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:40 bonus caffeine
 10 double espresso
@@ -15416,7 +15416,7 @@ Thursday 20191219 weight 154.4 57 bpm @ 6:00 no temp taken, no running
 12:45 lunch continued or breakfast revisited
  50 medium salad
  10 double espresso
-533 normal oatmeal
+533 fortified oatmeal
 
 2:15 fruit snack
  60 apple
@@ -15449,7 +15449,7 @@ and run a small amount today, but only after the sun is shining.
 10 double espresso
 
 6:30 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:45 bonus caffeine
 10 double espresso
@@ -15506,7 +15506,7 @@ morning.
 10 double espresso
 
 7:00 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 9:30 fruit snack
  60 apple
@@ -15517,7 +15517,7 @@ morning.
 20 quad espresso
 
 noon post-race calories
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 16 oz. 7.6% ABV Cantero Deaf Dog Brown Brown Ale
 16 oz. 7.22% ABV Cantero Cream Sour Sour
@@ -15551,7 +15551,7 @@ me back.
 10 double-espresso
 
 8:45 post Team RWB 40# 3.19 mi run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ? 2 cups Starbucks coffee
 
@@ -15587,7 +15587,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 6:30 no exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 10 double espresso
 
 8:15 liquids & calories
@@ -15622,13 +15622,13 @@ Tuesday 20191224 weight 153.9 52 bpm @ 5:07
 10 double espresso
 
 6:30 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:15 more caffeine
 10 double espresso
 
 8:00 more calories
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
 
 9:00 fruit snack
@@ -15677,13 +15677,13 @@ Wednesday 20191225 weight 153.1 46 bpm @ 4:56
 10 double espresso
 
 6:30 no exercise breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 7:30 bonus caffeine
 10 double espresso
 
 8:30 bonus calories
-533 normal oatmeal
+533 fortified oatmeal
 
 11:00 bonus caffeine
 10 double espresso
@@ -15736,7 +15736,7 @@ out otherwise.
 100 whole milk cappuccino (double espresso) that Sophie didn't want
 
 7:00 pre-run calories
-533 normal oatmeal
+533 fortified oatmeal
 
 8:45 bonus caffeine
 10 double espresso
@@ -15750,7 +15750,7 @@ cover to disappear and it didn't by the time I got hungry again.  So I
 at my recovery oatmeal ... and never did run :-(
 
 10:15 didn't run after all recovery food
-533 normal oatmeal
+533 fortified oatmeal
 
 11:30 lunch
  75 medium bowl steamed broccoli and cauliflower
@@ -15784,14 +15784,14 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ889
 10 double espresso
 
 7:00 no-exercise yet breakfast
-533 normal oatmeal
+533 fortified oatmeal
 
 8:15 bonus caffeine
 10 double espresso
  50? green drink
  
 11:15 post 13.1 mile recovery food
-533 normal oatmeal
+533 fortified oatmeal
  50? 16 oz. rice milk
  
 noon lunch
@@ -15816,7 +15816,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 20 quad espresso
 
 5:38 pre-run calories & analgesics
-533 normal oatmeal
+533 fortified oatmeal
 0 200 mg ibuprofen
 
 6:45 pre-run caffeine
@@ -15828,7 +15828,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
    0 200 mg ibuprofen (at turnaround)
 
 11:40 post run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 
 12:15 lunch
@@ -15869,7 +15869,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ52
 10 double espresso
 
 8:30 post Team RWB 40# 3.19 mi run
-533 normal oatmeal
+533 fortified oatmeal
 70? 24 oz. rice milk
 ? 2 cups Starbucks coffee
 
@@ -15917,7 +15917,7 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 10 double espresso
 
 7:00 pre-run calories (oops ... never did run)
-533 normal oatmeal
+533 fortified oatmeal
 
 8:06 bonus caffeine
 10 double espresso
