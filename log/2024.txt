@@ -117,10 +117,10 @@ weight was at 5:28
 533 fortified oatmeal
 
 5:54 forgotten analgesic (for right knee, which I fell on about a week ago)
-0 200mg ibuprofen with some hot water from the espresso machine
+0 200 mg ibuprofen with some hot water from the espresso machine
 
 6:56 - 8:26 during 9.50 mile 40.0 ruck run (with substitute for Tailwind)
-300 20 oz. water with 3 Caramel Gus (each with 20mg caffeine)
+300 20 oz. water with 3 Caramel Gus (each with 20 mg caffeine)
 227 15 oz. water with Jolly Rancher Candies in it (started with
     20 oz. of water with 13 pieces, and it's 70 calories per 3 pieces)
     
@@ -293,7 +293,7 @@ available gut capacity has changed since then though.
 
 6:15 more calories and analgesic
 510 3 oz. mixed nuts
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 6:52 pre-run caffeine
 30 3x double espresso (or single hex espresso, depending on one's POV)
@@ -859,7 +859,7 @@ Did not run, felt too sick
 
 1:30? forgot to write it down at the time
 680 4 oz. mixed nuts
-  0 200mg ibuprofen
+  0 200 mg ibuprofen
 
 3:10 hungry, finally
 300 3 oz. dried mango
@@ -1318,8 +1318,6 @@ weight was at 6:43
 
 8:00 more calories
 ??? two handfuls of wasabi peas (because they were tempting me)
-
-ANTICIPATED
 
 9:00 final pre-race calories
 ??? large store bought flour tortilla with peanut butter and sugar-laden
@@ -1985,7 +1983,7 @@ weight was at 5:10, after big poop, and before my espresso
 533 fortified oatmeal, but with double hemp and no chia
 
 5:36 forgotten analgesic (should have had with my oatmeal)
-  0 200mg ibuprofen
+  0 200 mg ibuprofen
 
 6:15 pre-run caffeine
 20 quad espresso
@@ -2203,7 +2201,7 @@ weight was at 5:25
 
 5:28 pre-run calories an analgesic (for my foot)
 533 fortified oatmeal
-  0 200mg ibuprofen
+  0 200 mg ibuprofen
 
 6:15 pre-run bonus-bonus caffeine
 30 hex espresso (i.e. three doubles)
@@ -2370,7 +2368,7 @@ NOTE: I had 5 baggies, each with 2 oz. of mixed nuts and I never ate any
 533 fortified oatmeal, but with double hemp, no chia
 
 7:30 pre-race analgesics, buffer and caffeine
-400mg ibuprofen
+  0 400 mg ibuprofen
 238 1.4 oz. nuts
 30 hex espresso
 
@@ -2443,7 +2441,7 @@ weight was at 7:30
 
 9:25 toothache
  50? 16 oz. rice milk
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 Monday 20240219 weight 162.9 33.1F, 73% humidity @ 6:48 (Sevano Circle)
 https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
@@ -2452,14 +2450,14 @@ https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
 weight was at 5:20
 
 4:21am toothache
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 5:15 wake-up
 10 double espresso
 
 5:30 pre-run calories and bonus analgesic
 533 fortified oatmeal
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 6:50 pre-run bonus caffeine
 10 double espresso
@@ -2471,7 +2469,7 @@ weight was at 5:20
 533 fortified oatmeal
 
 9:20 ouch
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 11:00 early lunch
 240 two bananas
@@ -2483,7 +2481,7 @@ weight was at 5:20
 20? green drink
 
 12:15 alternate analgesic
-500mg acetaminophen
+0 500 mg acetaminophen
 
 12:45 painful to eat, but good for me
 ??? small (for me) salad: spring mix, garlic, cucumber, pickle,
@@ -2495,7 +2493,7 @@ weight was at 5:20
 210 large store bought flour tortilla with yellow mustard
 
 1:30 ouch
-0 200mg ibuprofen
+  0 200 mg ibuprofen
 400 4 oz. dried mango
 
 3:20 (failed) experiment in pain management
@@ -2509,7 +2507,7 @@ weight was at 5:20
 420 2x (large store bought flour tortilla with yellow mustard)
 
 6:00 poker fuel
-0 400mg ibuprofen
+0 400 mg ibuprofen
 
 6:46 still in discomfort
 0 powerful analgesic containing acetaminophen
@@ -2521,12 +2519,12 @@ weight was at 5:20
 0 powerful analgesic containing acetaminophen
 
 12:53 can't sleep due to my discomfort
-0 400mg ibuprofen
+0 400 mg ibuprofen
 
 Tuesday 20240220 weight 166? (forgot to write it down, but it was very high)
 
 4:25 can't sleep due to my discomfort
-0 400mg ibuprofen
+0 400 mg ibuprofen
 
 5:15 "wake-up"
 10 double espresso
@@ -2559,7 +2557,7 @@ weight was at 5:48
 
 5:48 pre-run (late) calories (made this morning, running late due to toothache)
 533 fortified oatmeal, but with double hemp and no chia
-0 200mg ibuprofen
+0 200 mg ibuprofen
 
 6:15 pre-run bonus caffeine
 20 quad espresso
@@ -2573,3 +2571,358 @@ weight was at 5:48
             drink as much as I wanted, but my foot was chirping, so I also
             wasn't running as quickly as I should have been)
 
+9:05 post run recovery food
+533 fortified oatmeal (mostly chilled, but I had only made it this morning)
+
+10:50 while making salad
+20? green drink
+
+11:10 beginning of early lunch
+25? 8 oz. rice milk
+??? small (for me) salad: spring mix, garlic, cucumber, pickle, tomato,
+           white onion, purple onion, ginger (the rest?), jalapeño,
+           shiitake mushroom, jalapeño & garlic stuffed olives, sweet pepper,
+           habanero, pistachios, Hermon pepper, hot chili peppers
+
+11:30 - 1:00 rest of lunch
+??? lentils 2/3rd cup in 2 1/2 cups water, Brussels Sprouts, (out of broccoli),
+    cauliflower, green chile
+
+4:00 early dinner and anlgesics
+??? 1/2 brick tofu with Sadie's Hot Salsa
+0 200 mg ibuprofen
+0 500 mg acetaminophen
+210 large store bought flour tortilla with yellow mustard
+
+5:23 nut snack (eaten very slowly on left side of my mouth)
+340 2 oz. mixed nuts
+
+5:35 date snack (yes, it took me 12 minutes to eat a handful of nuts)
+230 10 dates
+
+8:00 soft final calories
+420 2x (large store bought flour tortilla with yellow mustard)
+
+9:50 haven't been able to sleep yet
+400 4 oz. dried mango
+
+12:25 at least I've gotten *some* sleep
+0 powerful analgesic with acetaminophen
+30 4 jalapeño & garlic stuffed olives
+
+Thursday 20240222 weight 163.3*
+
+*weight was at 8:26 after considerable eating
+
+5:15 wake-up
+10 double espresso
+
+??? oops, beginning of traditional Thursday fare
+140? 1/2? bag of edamame before I remembered today should be low fiber
+
+7:45 no exercise to speak of breakfast
+??? medium bowl of spaghetti, with Sadie's Hot Salsa
+0 400mg ibuprofen
+??? medium bowl of spaghetti, plain
+
+10:05 hungry again
+??? medium bowl of spaghetti, 1/4 brick of tofu, mustard
+??? medium bowl of spaghetti, 1/4 brick of tofu, Sadie's Hot Salsa (mustard
+                                                 didn't work well)
+
+11:10 fruit snack
+240 two very ripe bananas
+
+1:30 last pre-dentist food 
+340? small handful of pistachios
+30 4 jalapeño & garlic stuffed olives
+
+6:42 - 7:30 pretty hungry
+210 large store bought flour tortilla with yellow mustard
+230 10 dates
+120 banana (the last of overripe ones)
+??? large handful of large purple grapes
+??? large store bought tortilla with peanut butter
+160 two cara oranges
+
+2:30 woke up due to dental discomfort
+  0 200 mg ibuprofen
+  0 500 mg acetaminophen
+230 10 dates
+
+Friday 20240223 weight 162.8
+
+5:15 wake-up
+10 double espresso
+
+5:34 pre-run calories
+800 1.5 x fort double hemp
+
+6:15 more calories and analgesic
+390 6 squares Trader Joe's chocolate
+  0 400 mg ibuprofen
+  0 500 mg acetaminophen
+
+7:11 - 11:55 during 24.04 mile 40.3# ruck run
+1350 4.5 (20 oz. water with 30 scoops of Tailwind)
+   0 400 mg ibuprofen (around 8pm)
+   0 500 mg acetaminophen (around 8pm)
+  20 quad espresso (at turnaround)
+   0 more water (picked up at Tingley beach)
+
+12:25 - 2:00? at Nexus (oatmeal and rice milk in the parking lot)
+533 fortified oatmeal
+ 70 24 oz. rice milk
+ 10 oz. 4.9% ABV Chocolate Stout
+??? Large quinoa salad
+
+3:00? back home
+533 fortified oatmeal
+
+3:25 leftover protein found in the fridge
+140 remaining edamame (probably closer to 200...)
+
+5:45 dinner I made around 4pm
+??? lentils 2/3rd cup in 2 1/2 cups water, Brussels Sprouts, (out of broccoli),
+    cauliflower, 20 squirts of Tabasco
+  0 400mg ibuprofen
+
+7:30? leftover cereal
+266 0.5 fortified oatmeal, but with double hemp and no chia
+
+7:50 proteinish snack
+??? bowl of weird chips, tofu and salsa
+
+1:00 woke up hungry
+340 2 oz. mixed nuts
+
+Saturday 20240224 weight 161.8
+
+weight was at 8:40
+
+5:15 wake-up
+10 double espresso
+
+8:41 pre-run calories
+533 fortified oatmeal
+
+8:49 jaw discomfort
+0 200 mg ibuprofen
+
+9:00 more calories
+210 large store bought flour tortilla with yellow mustard
+
+9:30 fruit snack
+240 two bananas
+200 four mandarins
+
+10:00 still sore
+0 200 mg ibuprofen
+
+~noon post-race recovery, then a celebratory beer
+533 fortified oatmeal
+ 70? 25 oz. rice milk
+??? 16 oz. 5.1% ABV Perle Haggard
+
+2:20 salty salad fixin's
+30 4 jalapeño & garlic stuffed olives
+0 pickle slice
+
+2:50 late lunch or early dinner
+??? lentils 2/3rd cup in 2 1/2 cups water, Brussels Sprouts, (out of broccoli),
+    (out of cauliflower), green chile
+
+3:40 early nut snack
+340 2 oz. mixed nuts
+
+4:20 date snack
+230 10 dates
+
+4:40 dinnerish
+??? single leftover piece of dried mango from yesterday
+??? medium handful (the rest) of large purple grapes
+??? bowl of grain free chips
+
+7:20 final calories
+??? some dried jackfruit (*bad choice*--too tough)
+0 200 mg ibuprofen
+
+Sunday 20240225 weight 161.7
+
+weight was at 162.2 at 5:43
+weight was at 7:50
+
+5:15 wake-up
+10 double espresso
+
+8:00 pre exercise breakfast (oops ... no exercise; went to mom's instead)
+1066 2x fortified oatmeal
+
+11:30 at mom's
+??? 25.36 oz. (750ml) 10.5% ABV Gulden Draak
+??? 200 4 mandarins
+??? 240 2 bananas
+??? lentils 2/3rd cup in 2 cups water
+??? 3 sweet pickles, each with Grey Poupon (sp?) mustard
+??? big bowl of triple bean salad
+??? 5 or 7 sweet pickles, each with Grey Poupon (sp?) mustard
+
+~4pm back home
+  0 200 mg ibuprofen (tooth)
+??? whole bunch of yucca fries
+210 large store bought flour tortilla with yellow mustard
+
+4:45 dates w/o nuts due to teeth problems
+460 20 dates
+
+8:00 final calories
+??? large store bought tortilla with peanut butter and mustard
+30 4 jalapeño & garlic stuffed olives
+0 pickle slice
+
+Monday 20240226 weight 162.9 52.7F, 49% humidity @ 6:53 (Sevano Circle)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+58.6F, 47% humidity at 9:41 (at end)
+
+weight was at 5:30
+
+5:15 wake-up (to alarm)
+10 double espresso
+
+5:35 pre-run calories
+533 fortified oatmeal, but with double hemp and no chia
+
+6:15 pre-run caffeine
+30 three double espressos
+
+6:57 - 9:39 during 13.10 mile 40.8# interval run
+600 2x 3 scoops Tailwind per 20 oz. water
+
+9:45post-run calories
+533 fortified oatmeal
+ 50? 16 oz. rice milk
+
+11:02 fruit snack
+300 avocado
+200 4 clementines
+120 banana
+
+11:30 lunch
+??? lentils 2/3rd cup in 2 1/2 cups water, (out of Brussels Sprouts),
+    (out of broccoli), (out of cauliflower), green chile
+
+12:30 bonus protein
+??? 3/4 brick of tofu, with Sadie's Hot Salsa
+
+2:07 no time to make salad
+340 2 oz. pistachios
+
+4:30 dinner
+??? navy beans (2/3rd cup in 3 cups water, cooked for 3 hours),
+    10 squirts of Tabasco
+230 10 dates
+
+~5:30 at Anodyne, with Elvis
+??? 16 oz. 8.7% ABV La Cumbre something or other porter
+
+8:10 evening calories
+290 2.9 oz. (the rest) dried mango 
+210 large store bought flour tortilla with yellow mustard
+
+10:00 woke up hungry
+30 4 jalapeño & garlic stuffed olives
+0 pickle slice
+??? two handfuls of candy grapes
+400 2 oz. unsalted dry roasted mixed nuts
+150 3 (the rest) mandarin oranges
+ 80 cara cara orange
+??? grapefruit
+
+
+Tuesday 20240227 weight 163.5
+weight was at 6:54
+
+Chose not to do any cardio today to rest up for tomorrow, my last
+full-length Wednesday speed run.  That's what I did in 2019 and I was
+in my best BMDM shape in 2019 (although my pack broke).
+
+5:15 wake-up
+10 double espresso
+
+5:15 - 5:41 while doing abbreviated core
+nothing
+
+6:55 (way) post core protein
+280 bag of edamame
+
+8:30? no exercise breakfast (forgot to write it down at the time)
+1066 2x fortified oatmeal
+
+10:15 fruit snack
+300 medium avocado
+160 two cara cara oranges
+??? grapefruit
+
+10:33 still hungry
+200 1 oz. unsalted dry roasted mixed nuts
+
+11:30 beginning of lunch
+??? lentils 2/3rd cup in 2 1/2 cups water, Brussels Sprouts, broccoli,
+    (out of cauliflower), green chile
+
+1:30
+270 3 oz. dried jackfruit
+
+4:45 dinner substitute
+420 2x (large store bought flour tortilla with yellow mustard)
+
+7:30 easy to get and eat final calories
+50? 8 oz. rice milk (misplaced it and only drank half)
+??? two handfuls of purple candy grapes
+30 4 jalapeño & garlic stuffed olives
+0 pickle slice
+230 10 dates
+210 large store bought flour tortilla with yellow mustard
+
+Wednesday 20240228 weight 163.1 30.9F, 50% humidity @ 6:47 (Sevano Circle)
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ429
+40.1F, 35% humidity at 9:26 (? minutes after end)
+
+weight was at 5:29
+
+5:15 wake-up
+10 double espresso
+
+5:30 pre-run breakfast
+533 fortified oatmeal, but with double hemp and no chia
+
+5:40 Oops ... it was left over
+50? 8 oz. rice milk (the other half)
+
+6:45 pre-run bonus caffeine
+30 three double espressos
+
+7:00 - 9:08 during 13.10 mile 40.6# ruck run
+536 1.78x 3 scoops of Tailwind in 20 oz. water (had 4.25 oz. leftover)
+
+9:20 post run recovery food
+533 fortified oatmeal
+
+10:05 drinking it rather than storing it
+36 remaining Tailwind water
+
+~10:30 pre dentist visit food
+???  1/2 brick tofu w/ Sadie's
+ 50? 16 oz. rice milk
+160 two cara cara oranges
+
+1:48 celebratory drinking (yay; my dental work will cost less than $6k!)
+??? 16 oz. 7.5% ABV La Cumbre Malpais Stout
+
+2:20 late lunch
+??? lentils 2/3rd cup in 2 1/2 cups water, Brussels Sprouts, broccoli,
+    (out of cauliflower), green chile
+
+ANTICIPATED
+
+Christmas Lima Beans
