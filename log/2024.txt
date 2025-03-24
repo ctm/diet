@@ -1486,7 +1486,7 @@ weight was at 5:46
 210 large store bought flour tortilla with yellow mustard
 
 
-Wednesday 20230131 weight 159.1
+Wednesday 20240131 weight 159.1
 
 weight was 159.4 at 7:02
 weight was at 7:36
@@ -1671,7 +1671,7 @@ weight was at 6:01
 6:15 more calories
 400 4 oz. dried mango
 
-Sunday 20230204 weight 161.1 37F @ 8:22 (van thermometer)
+Sunday 20240204 weight 161.1 37F @ 8:22 (van thermometer)
 ~50F at end
 
 weight was 161.3 5:33
@@ -6696,7 +6696,7 @@ nothing
 8:35 final calories
 360 4 oz. jackfruit
 
-Friday 20230524 weight 163.2
+Friday 20240524 weight 163.2
 weight was at 7:05
 
 5:15 wake-up
