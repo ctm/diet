@@ -60,7 +60,7 @@ weight was at 10:15
 
 3:00 leftover snack begat fruit snack
 ??? four large handfuls of sweet potato kettle chips (avocado oil)
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 
 
@@ -166,7 +166,7 @@ weight was at 7:12
  60 tiny rockit apple
  80 naval orange
 120 banana
-??? kiwifruit
+ 50 kiwifruit
 
 10:19 hungry
 ??? huge salad: spinach, shiitake mushrooms, pickle,
@@ -277,7 +277,7 @@ npthing
 
 9:30 fruit snack
 240 two overripe bananas
-??? kiwifruit
+ 50 kiwifruit
  80 naval orange
 100 grapefruit
 
@@ -473,7 +473,7 @@ weight was at 5:36
 120 huge banana
 
 10:09 more fruit
-??? kiwifruit
+ 50 kiwifruit
  60 rockit apple
  80 naval orange
 
@@ -508,7 +508,7 @@ weight was at 7:10
 ??? small bowl of cauliflower, broccoli
 
 2:50 fruit snack
-??? kiwifruit
+ 50 kiwifruit
  60 rockit apple
  80 naval orange
 120 huge banana
@@ -573,7 +573,7 @@ possibility of the wrist-band exacerbating the situation.
  60 rockit apple
  80 naval orange
 120 huge banana
-??? kiwifruit
+ 50 kiwifruit
 
 1:30 warm food
 533 fortified oatmeal
@@ -2093,7 +2093,7 @@ weight was at 6:11
  80 orange
 
 4:00 at 4744, back from Costco
-??? kiwifruit
+ 50 kiwifruit
 160 two naval oranges
 
 5:30 dinner
@@ -2131,7 +2131,7 @@ weight was at 6:14
 533 fortified oatmeal
 
 11:20 fruit snack
-??? kiwifruit
+ 50 kiwifruit
 160 two naval oranges
 100 grapefruit
 
@@ -2183,7 +2183,7 @@ noon still at Green Jeans
 
 2:08 - 2:47 during walk with mom
 ??? two heels of San Francisco style sourdough, with peanut butter and musard
-??? kiwifruit
+ 50 kiwifruit
  60 rockit apple
 160 two naval oranges
 
@@ -2220,7 +2220,7 @@ weight was at 6:27
 300 avocado
 100 grapefruit
  60 rockit apple
-??? kiwifruit
+ 50 kiwifruit
 160 two naval oranges
 
 11:31 - 11:57 during 3.25 mile V Day run
@@ -2263,7 +2263,7 @@ weight was at 7:11
 300 avocado
 100 grapefruit
  60 rockit apple
-??? kiwifruit
+ 50 kiwifruit
 160 two naval oranges 
 
 10:11 hungry, so I ate my salad early
@@ -2392,7 +2392,7 @@ green drink
 160 two naval oranges
 ??? broccoli and cauliflower (overcooked because I didn't hear the timer)
 100 grapefruit
-??? kiwifruit
+ 50 kiwifruit
 
 2:00 nut snack
 600 3 oz. dry roasted mixed nuts
@@ -2454,7 +2454,7 @@ during walk with mom
 
 5:39 @ Ideas and Coffee parking lot
 240 two bananas
-??? kiwifruit
+ 50 kiwifruit
 
 6:02 at Rust get-together
 ??? 12 oz.? 13.8% ABV Ex Novo Kill the Sun Grand Cru (split with others)
@@ -2627,7 +2627,7 @@ the Firefly landing and post landing livestream.
 533 fortified oatmeal (but made fresh because I didn't do it yesterday)
 
 8:55 fruit snack
-??? kiwifruit
+ 50 kiwifruit
 160 two naval oranges
  60 rockit apple
 120 banana
@@ -3200,7 +3200,7 @@ weight was at 5:26
 11:56 fruit snack (out of apples and unhappy with recent rockits)
 300 avocado
 160 two cara cara oranges
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 
 12:13 late lunch
@@ -3249,7 +3249,7 @@ green drink
 
 11:07 fruit snack (with pack on)
 300 avocado
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 160 two cara cara oranges
 
@@ -3288,7 +3288,7 @@ weight was at 9:30
 ??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes, Tabasco
 
 2:00 fruit snack and salad
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 160 two cara cara oranges
  ??? medium salad: spinach (the rest), shiitake mushrooms,  onion,
@@ -3317,7 +3317,7 @@ weight was at 6:15
 
 ~8am - ~2pm during Shenanigains
 ??? sweet potato
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 160 two cara cara oranges
 300 avocado
@@ -3369,7 +3369,7 @@ nothing
     cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
     carrot, pistachios, sweet peppers, cherry tomatoes, pickle, habanero
 160 two cara cara oranges (the rest)
-??? kiwifruit
+ 50 kiwifruit
 120 banana
  20? green drink
 
@@ -3445,7 +3445,7 @@ nothing
 9:30 fruit snack
 120 banana
  80? large naval orange
-??? kiwifruit
+ 50 kiwifruit
  60? huge cosmic crisp apple
 
 11:30 beginning of lunch
@@ -3504,7 +3504,7 @@ weight was at 5:32
     Taos Hum (chocolate Trinidad moruga scorpion hot sauce)
  80 naval orange
 120 banana
-??? kiwifruit
+ 50 kiwifruit
  60? cosmic crisp apple (they're way too large though)
 
 3:50 nut snack
@@ -3657,7 +3657,7 @@ weight was at 6:08
 80 16 oz. rice milk
 
 10:23 fruit snack
-??? kiwifruit
+ 50 kiwifruit
  80 naval orange
 120 banana
 
@@ -3710,7 +3710,7 @@ weight was at 7:16
     carrot, pistachios, sweet peppers, cherry tomatoes, pickle, habanero
 
 1:00 more fruit
-??? kiwifruit
+ 50 kiwifruit
 120 banana
 
 1:43 more fruit
@@ -3746,7 +3746,7 @@ weight was at 6:29, well after core
 
 9:30 fruit snack
 160 two cara cara oranges
-??? kiwifruit
+ 50 kiwifruit
 240 two bananas
 
 10:00 crucifers and "recovery" beverage
@@ -3795,7 +3795,7 @@ weight was at 5:48
     cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
     carrot, pistachios, sweet peppers, cherry tomatoes, pickle, habanero
 120 24 oz. rice milk
-??? kiwifruit
+ 50 kiwifruit
 100 grapefruit
 ??? medium bowl of broccoli and cauliflower
     (steamed for five and a half minutes)
@@ -3836,7 +3836,7 @@ nothing
 120 banana
 100 grapefruit
 160 two cara cara oranges
-??? kiwifruit
+ 50 kiwifruit
 
 10:30? finally made it
  20? green drink
@@ -3886,7 +3886,7 @@ nothing
 100 grapefruit
 160 two cara cara oranges
 120 banana
-??? kiwifruit
+ 50 kiwifruit
 
 11:30 lunch
 ??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
@@ -3929,7 +3929,7 @@ weight was at 11:03
 11:05 breakfast
 533 fortified oatmeal
 225 3/4 avocado (it had a pretty large bad spot that I avoided)
-??? kiwifruit
+ 50 kiwifruit
 160 two cara cara oranges
 120 banana
 
@@ -3978,7 +3978,7 @@ weight was at 6:26
 
 9:00 fruit snack
 300 avocado
-??? kiwifruit
+ 50 kiwifruit
 120 banana
  80 cara cara orange
 100 grapefruit
@@ -4106,7 +4106,7 @@ back at 4744
  80 16 oz. rice milk
  60 rockit apple
  80 cara cara orange (the last)
-??? kiwifruit
+ 50 kiwifruit
 ??? medium bowl of broccoli and cauliflower
     (steamed for five and a half minutes)
 
@@ -4138,7 +4138,7 @@ weight was at 9:49
 533 fortified oatmeal
 
 10:30 fruit snack
-??? kiwifruit
+ 50 kiwifruit
 120 banana
  60 rockit apple
 100 grapefruit (out of oranges)
@@ -4210,7 +4210,7 @@ I didn't sleep through the night; I was awake from about 9:20 to 10:20
 160 two cara cara oranges
  60 rockit apple
 100 grapefruit
-??? kiwifruit
+ 50 kiwifruit
 
 2:30 finally made it
  20? green drink (but with spring mix instead of spinach)
@@ -4279,7 +4279,7 @@ noon finishing lunch
  60 rockit apple
 300 avocado
 160 two cara cara oranges
-??? kiwifruit
+ 50 kiwifruit
 
 2:43 fresh out of the oven
 ??? three small slices of take-and-bake sourdough
@@ -4377,9 +4377,323 @@ Sunday 20250406 weight 165.0
 3:30 fruit snack
 300 avocado
  60 rockit apple
-??? kiwifruit 
+ 50 kiwifruit 
 160 two cara cara oranges
 100 grapefruit
 
 4:45 dinner
 480 2/3rd cup quinoa, Hatch green chile
+
+5:55
+600 3 oz. dry roasted mixed nuts
+
+6:41 still hungry
+160 2 oz. dried persimmon slices
+250 5 figs
+
+7:32 final calories
+357 1.7 oz. macadamia nuts
+
+Monday 20250407 weight 162.9
+weight was 164.5 at 5:53
+weight was at 11:27
+
+5:15 wake (to alarm)
+10 double espresso
+
+11:30 no exercise (yet?) breakfast
+533 fortified oatmeal
+  ??? medium salad: spring mix, shiitake mushrooms, onion,
+    cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
+    carrot, pistachios, sweet peppers, cherry tomatoes, pickle,
+    (out of habanero)
+
+11:54 lunch
+300 avocado
+??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
+    Taos Hum (chocolate Trinidad moruga scorpion hot sauce)
+
+~2:00 during writing my NM complaint
+??? medium bowl of broccoli and cauliflower
+    (steamed for five and a half minutes)
+ 20? green drink (but with spring mix instead of spinach, and sweet peppers
+                  instead of cucumbers)
+
+3:57 late fruit snack
+120 two rockit apples
+120 banana
+160 two cara cara oranges
+100 grapefruit
+ 50 kiwifruit
+
+4:36 nut snack
+480 2.4 oz. dry roasted mixed nuts
+
+5:18 no dinner, just snack
+200 2 oz. dragon fruit
+420 2 oz. macadamia nuts
+
+8:00? final? calories
+??? 1/3 to 1/4 loaf (the rest) of take-and-bake sourdough batard leftover from
+    Academy of Pain
+
+9:20 woke-up hungry
+??? a lot (the rest) of white corn tortilla chips leftover from AoP
+
+Tuesday 20250408 weight 163.9 35.8F, 39% at 7:14 sundagger
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ1267
+52.3F, 23% humidity at 9:28 (? minutes after "run")
+
+
+weight was at 6:13
+
+5:15 wake-up
+10 double espresso
+
+during
+280 two bags of edamame
+
+7:00 
+533 fortified oatmeal (freshly made)
+
+10:44 back from Dr. Matte's office
+ 20? green drink (but with spring mix instead of spinach, and sweet peppers
+                  instead of cucumbers)
+??? medium bowl of broccoli and (cauliflower (the rest))
+    (steamed for five and a half minutes)
+ 80 12 oz.? (the rest) rice milk (heavy on the rice)
+160 two cara cara oranges
+ 60 rockit apple
+120 banana
+100 grapefruit
+
+11:30 lunch
+??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
+    (too much) Taos Hum (chocolate Trinidad moruga scorpion hot sauce)
+
+2:45 finally eating it (stomach was a bit upset earlier from the Taos Hum)
+??? medium salad: spring mix, shiitake mushrooms, onion,
+    cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
+    carrot, pistachios, sweet peppers, cherry tomatoes, pickle,
+    (out of habanero)
+??? seven! slices of San Francisco sourdough, each with mustard (mom noticed
+    some mold growing on the loaf, so I'm eating slices where I've torn the
+    mold off
+
+3:34 nut snack
+620 3.1 oz. (the rest) dry roasted mixed nuts
+
+4:10 date snack
+230 10 dates
+
+5:49 nut snack
+420 2 oz. dry roasted macadamia nuts
+
+8:10 final? calories
+200 2 oz. dragon fruit
+500 10 dates
+
+Wednesday 20250409 weight 162.2
+weight was at 7:33 after eating half a banana and a forkful of oatmeal
+
+5:15 wake-up
+10 double espresso
+
+7:30 mom didn't eat it
+ 60 half a banana
+
+7:33 no exercise (yet) breakfast
+533 fortified oatmeal (ate one forkful, then remembered to weigh myself)
+
+during run
+nothing
+
+post run to Sprouts and back
+??? four (the rest) small slices of San Francisco sourdough bread with mustard
+
+10:50 beginning of lunch
+ 20? green drink (but with spring mix instead of spinach)
+??? medium bowl of broccoli and cauliflower
+    (steamed for five and a half minutes)
+
+11:25 lunch continues (still haven't finished my green drink)
+??? medium salad: spring mix, shiitake mushrooms, onion,
+    cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
+    carrot, pistachios, sweet peppers, cherry tomatoes, pickle,
+    (out of habanero)
+??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
+    Taos Hum (the rest) (chocolate Trinidad moruga scorpion hot sauce)
+ 80 16 oz. rice milk
+
+12:49 fruit snack
+120 banana
+ 80 cara cara orange
+ 50 kiwifruit
+
+2:23 snacking
+200 2 oz. dragon fruit
+
+2:50 more snacking
+600 3 oz. dry roasted mixed nuts
+
+?:?? - ?:?? during walk with mom
+200 2 oz. permission
+
+3:58 fig snack, while quinoa cooks
+400 8 figs
+
+
+
+8:07 final calories
+500 10 figs
+230 10 dates
+
+Thursday 20250410 weight 163.4
+weight was at 6:11
+
+5:15 wake-up
+10 double espresso
+
+5:15 - 6:03 during core
+nothing
+
+during walk with mom
+280 two bags of edamame
+
+43.9F 37% @ 7:25
+
+during
+0 40 oz. water
+
+10:14 "breakfast"
+ 20? green drink (but with spring mix instead of spinach)
+533 fortified oatmeal
+ 80 16 oz. rice milk
+
+10:53 lunch begins
+??? medium bowl of broccoli and cauliflower
+    (steamed for five and a half minutes)
+
+12:30 fruit snack
+120 banana
+300* (*huge and probably > 300 calories) avocado
+ 40 most of small rockit apple (cut away the spoiled bottom)
+ 80 naval orange
+100 grapefruit 
+
+1:43 finally
+??? medium salad: spring mix, shiitake mushrooms, onion,
+    cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
+    carrot, pistachios, sweet peppers, cherry tomatoes, pickle,
+    (out of habanero)
+
+2:55 walking with mom
+??? 16 oz. 7.5% ABV La Cumbre Malpais Stout
+
+4:30 waiting for quinoa to cook
+600 3 oz. dry roasted mixed nuts
+
+6:58 snack during game
+300 6 figs
+
+7:23 beginning of final calories
+200 4 figs
+
+8:07 final final calories
+230 10 dates
+
+Friday 20250411 weight 165.4
+weight was around 5:00, before my espresso, but after a big poop
+
+5:15 wake-up
+10 double espresso
+
+5:34 - 9:20 during 16.78 mile "run"
+0 20 oz. water
+
+9:34 - 10:26 during 0.69 mile 45.3# walk with mom
+nothing
+
+10:40 breakfast
+533 fortified oatmeal
+
+12:40 late lunch
+??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
+    Taos Hum (the rest) (chocolate Trinidad moruga scorpion hot sauce)
+300 3/4 of a huge avocado (Sophie had the other 1/4)
+ 50 kiwifruit
+120 banana
+??? medium salad: spring mix, shiitake mushrooms, onion,
+    cucumber, garlic, ginger, 4 jalapeño & garlic stuffed olives,
+    carrot, pistachios, sweet peppers, cherry tomatoes, pickle,
+    (out of habanero)
+
+3:55 nut snack
+600 3 oz. mixed nuts
+
+4:30 dinner
+350 brick of tofu with Hatch green chile
+
+5:24 fig snack
+500 10 figs
+
+6:56 Happy Birthday Hayek
+??? 12 oz. 9.5% ABV Santa Fe Socialer Hour
+
+8:30 final calories
+??? three large slices of San Francisco sourdough bread with mustard
+230 10 dates
+
+Saturday 20250413 weight 164.5
+weight was at 5:28
+
+6:28am - 6:26pm during Chimney Canyon Threepeat
+0 ~100 oz. water
+200mg ibuprofen taken at "the Y" after our first ascent and partial descent
+
+7:15? back at 4744
+??? 16 oz. 6% Bow and Arrow Savage TImes
+
+7:30 more beer.  Food "soon"
+??? 16 oz. 7.4% ABV Ex Novo Suns of Scotland
+533 fortified oatmeal
+
+8:30 still eating
+350 brick of tofu with Hatch green chile
+
+8:45 nut snack
+600 3 oz. dry roasted mixed nuts
+
+8:55 more eating
+160 2 oz. dried persimmon slices
+
+9:04 more eating
+200 2 oz. dragon fruit
+
+9:19 final? calories
+420 2 oz. mixed nuts
+
+11:28 woke up hungry
+230 10 dates
+
+1:20 woke up with left leg cramp (forgot to stretch after CCx3)
+120 banana
+
+Sunday 20250413 weight 159.7
+weight was at 11:52
+
+11:53 post bike ride breakfast
+ 20? green drink (but with spring mix instead of spinach)
+533 fortified oatmeal
+ 80 16 oz. rice milk
+
+12:30 fruit snack and lunch
+160 two cara cara oramges
+120 bamnama
+??? 2/3rd cup lentils cooked in 2 1/2 cups water for forty minutes,
+    Taos Hum (new bottle) (chocolate Trinidad moruga scorpion hot sauce),
+    2 teaspoons turmeric, 1/2 teaspoons black pepper
+ 60 rockit apple
+
+1:40 snacking instead of making salad
+350 7 figs
