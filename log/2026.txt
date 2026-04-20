@@ -325,7 +325,7 @@ nothing
 854 wok
 230 10 dates
 
-Wednesday 20260107 162.3
+Wednesday 20260107 weight 162.3
 weight was at 5:31
 
 5:15 wake-up (to alarm)
@@ -384,7 +384,7 @@ Tailwind
     4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios
 230 10 dates
 
-163.5
+Thursday 20260108 weight 163.5
 weight was at 8:08
 
 5:15 wake-up (woke up to 5:05 pre-core alarm)
@@ -568,7 +568,7 @@ nothing
 936 woke up hungary
 230 10 dates
 
-Monday 20270112 weight 162.1
+Monday 20260112 weight 162.1
 weight was at 7:03
 
 5:15 wake-up
@@ -987,7 +987,7 @@ weight was at 9:00
 10:04 woke up hungry
 340 2 oz. pistachios
 
-Tuesday 20210120 weight 163.3
+Tuesday 20260120 weight 163.3
 weight was at 5:20?
 
 5:15 wake-up (woke up to 5:05 pre-core alarm)
@@ -1384,7 +1384,7 @@ noon more lunch
 8:15 final? calories
 300 3 oz. dried mango
 
-162.9
+Wednesday 20260128 weight 162.9
 weight was at 5:34
 
 5:15 wake-up
@@ -3596,7 +3596,7 @@ weight was at 5:36
 00:12 woke up hot, hungry and sore
 693 13 oreos (entire stack)
 
-didn't weighmyself due to timing
+Saturday 20260314 didn't weigh myself due to timing
 4:00 30 hex espresso
 
 during run
@@ -4137,7 +4137,9 @@ nothing
 7:54 final? calories
 340 2 oz. pistachios
 
-Wednesday 20260326 weight 163.0
+Wednesday 20260325 appears to have been lost
+
+Thursday 20260326 weight 163.0
 weight was at 5:30
 
 5:15 wake-up
@@ -4148,3 +4150,719 @@ weight was at 5:30
 
 1:20 at 8808
 840 two bricks of Tempeh
+
+THE ENTRIES HERE WERE LOST WHEN MY LAPTOP BROKE
+
+========================================================================
+Start of info on backup laptop
+
+I had not pushed in a long time when I dropped my laptop, so there's going
+to be a huge gap.
+
+Wednesday 20260415 weight 15?.?
+weight was at ?:??
+
+5:20? "wake-up" (I woke up to my alarm at 5:15 but didn't have any espresso
+      or even black coffee on hand)
+0 cup of black coffee
+
+... TODO: I have some notes and photos post drop in Messages and Photos.
+
+5:58 poker fuel
+360? 12 oz. 12.2% ABV Founders KBS
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, plain
+    Bean setting for foty-five minutes, natural release.
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    out of habanero, Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+
+6:50 finally!
+100? green drink (with 3/4 rockit apple, other 1/4 to mom)
+
+8:08 final calories
+600 3 oz. dry roasted mixed nuts
+230 10 dates
+300 3 oz. dried mango
+
+Thursday 20260416 weight 159.7
+weight was at 9:48
+
+5:15 wake-up
+10 double espresso
+
+5:15 - 5:58 during core exercise
+nothing
+
+during run to Michael Thomas
+nothing
+
+?:?? free with mom's coffee
+0 Michael Thomas dark roast black coffee
+
+during run from Michael Thomas
+nothing
+
+9:50 breakfast
+533 fortified oatmeal
+
+10:46 post core protein
+280 two bags of edamame
+
+11:08 fruit snack
+525 1 3/4 avocado (other 1/4 to mom)
+90 3/4 banana (other 1/4 to mom)
+60 3/4 cara cara orange (other 1/4 to mom)
+90 most of grapefruit (some to mom)
+
+5:07 dinner
+??? 12 oz. 8.4% ABV Bosque Brewing Scotia scotch ale
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    out of habanero, Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, plain
+    Bean setting for foty-five minutes, natural release.
+
+7:26 celebratory more dinner
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+8:30 staying up late
+??? broccoli and cauliflower (some to mom)
+
+9:18 final calories (finished eating all of this at 9:43)
+600 3 oz. dry roasted mixed nuts
+100 1 oz. (the rest) dried mango
+240 2.4 oz. dried dragon fruit
+230 10 dates
+
+Friday 20260417 weight 159.4
+weight was 159.6 at 6:11
+weight was at 7:58
+
+5:15 wake-up (to alarm)
+10 double espresso
+
+during walk with mom
+nothing
+
+8:26 low fiber breakfast
+??? 5 slices of freshly baked garlic batard
+??? large bowl of spaghetti with 1/4 brick of tofu, 1/2 tablespoon of Udo's Oil
+
+10:49 more carbs
+??? two large bowls of spaghetti, each with 1/4 brick of tofu
+
+12:19 pre-lunch at 4744
+ 80 16 oz. rice milk
+340 2 oz. pistachios
+
+12:35 lunch at Flock of Moons
+??? bowl of spaghetti with remining brick of tofu
+??? 16 oz. 4.5% ABV Flock of Moons The Grey Havens (Grisette)
+
+2:04 still hanging out
+??? 16 oz. 4.8% ABV Flock of Moons Azulito (Mexican Lager)
+
+4:42 at Cedro Peak
+??? 12 oz. 6.9% ABV Anderson Valley Bourbon Barrel Stout
+
+5:19 still hanging with Peter
+??? 6 oz. 12.2% ABV Founders KBS (split with Pete)
+??? some Krogers peanut butter pretzels
+??? some Blue Diamond almonds
+??? bowl of the remaining spaghetti, plain
+
+5:49 last call for alcohol
+??? 6 oz.? (perhaps 12 oz., but I don't think so) 8.0% ABV Kentucky Bourbon
+    Barrel Cocoa Porter
+
+7:42 final calories
+340 2 oz. pistachios
+
+Saturday 20260418 weight 1??.? (did not bring scale)
+
+5:15 "wake-up" (ha!)
+0 a couple ounces of water, because I had forgotten to bring espresso
+
+~5:30 pre-race calories
+533 fortified
+
+7:00 - 3:36 during race (I did not bring *any* of my own calories)
+??? Had a bunch of Tailwind, at least two of Geoff Tweed's homemade
+    (non-vegan) salted chocolate-chip cookies, one tiny tub of
+    avocado, a bunch of avocado wraps, a 12 oz. Mexican Lager (thanks
+    Perky and Joachin!), a bunch of pringles, some crinkle cut potato
+    chips, several cups of Coke, a small can of coke.  I was grazing
+    and chatting at most aid stations, I made *no* attempt to optimize
+    my choices or caloric intake. I normally wouldn't have had the non-vegan
+    cookies, but Geoff made them.
+
+3:40 post race calories
+??? ~12 oz. 12.2% ABV Founders KBS (two bottles, each split with Pete)
+??? vegan? tortilla wrap
+    tortilla (that I think was vegan) with a bunch of subway extras
+    onion, lettuce, yellow peppers, jalapeños
+
+5:52 back at 4744
+120 24 oz. rice milk
+533 fortified oatmeal
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    habanero, Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+
+7:44 it was there (and tasty)
+300 3 oz. dragon fruit
+
+8:38 quick froot
+120 banana
+ 80 cara cara orange
+
+8:46 final calories
+230 10 dates
+
+Sunday 20260419 weight 161.0
+weight was at 5:40
+
+5:15 wake-up
+10 double espresso
+
+6:36 - 12:03 during 75 mile ride
+0 ~44 oz. water
+
+1:10 breakfast back at 4744
+1066 2x fortified oatmeal
+ 80 16 oz. rice milk
+ 50 kiwifruit
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    habanero, Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+ 
+1:52 eating continues
+225 3/4 avocado (other 1/4 to mom)
+60 1/4 banana (other 1/2 to mom)
+40 1/2 cara cara orange (other 1/2 to mom)
+90 most of grapefruit (some to mom)
+
+2:09 lunch
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, plain
+    Bean setting for foty-five minutes, natural release.
+
+4:56 dinner
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+5:36 nut snack
+600 3 oz. dry roasted mixed nuts
+
+5:56 poker fuel
+350 3.5 oz. (it was all stuck together in a clump) dragon fruit
+
+7:50 final? calories
+230 10 dates
+340 2 oz. pistachios
+
+Monday 20260420 weight 160.0
+weight was at 5:29
+
+5:15 wake-up (to alarm)
+10 double espresso
+
+5:43 pre-running calories
+533 fortified oatmeal
+
+bonus caffeine (check photo for timestamp)
+10 double espresso
+
+6:18 - 8:30 during 10.7 mile "run"
+ 0 ? oz. water
+
+58.F @ 8:53
+
+~8:40 post run recovery food
+533 fortified oatmeal
+
+12:30 making salads and finishing up a bottle of mustard
+ 50 kiwifruit
+??? two slices of garlic batard, each with mustard (the rest, some from new
+    container)
+100? green drink (with 3/4 rockit apple, other 1/4 to mom, mustard wash)
+
+12:52 more stuff (still making salads)
+ 80 16 oz. rice milk
+225 3/4 avocado (other 1/4 to mom)
+
+1:15 more fruit
+90 3/4 banana (other 1/4 to mom)
+60 3/4 cara cara orange (other 1/4 to mom)
+
+1:23 "lunch"
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+2:48 final fruit of the day (still haven't finished making my salads)
+100 grapefruit
+
+3:00 mom walking fuel
+??? ~2 oz. 5.0% ABV Prairie Artisan Spicy Watermelon Girlfriend
+
+3:43 finally finished making them
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+
+3:56 cold
+??? broccoli and cauliflower (some to mom)
+
+4:01 sweet
+300 3 oz. dried dragon fruit
+
+5:19 (slightly) spicy
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, 5 lqrge squirts of Tabasco
+    Bean setting for foty-five minutes, natural release.
+
+7:14 nut snack
+600 2 oz. dry roasted mixed nuts
+
+7:32 beginning of final? calories
+300 3 oz. dried mango
+
+8:29 hungry and not too sleepy
+500 (Kirkland) tofu with (Costco) Hatch Green Chile
+
+8:46 (late) final? calries
+230 10 dates
+
+Tuesday 20260421 weight 158.7
+weight was 160.6 at 6:17
+weight was at 10:01
+
+5:15 wake-up
+10 double espresso
+
+5:15 - 5:59 during core exercise
+nothing
+
+during "run"
+0 ~20 oz. water
+
+10:15 post core protein, breakfast
+280 2 bags of edamame
+533 fortified oatmeal
+ 80 16 oz. rice milk
+225 3/4 avocado (other 1/4 to mom)
+
+12:30 most of fruit
+ 50 kiwifruit
+80 2/3 banana (other 1/4 to mom)
+60 3/4 cara cara orange (other 1/4 to mom)
+
+12:42 rest of fruit, and more
+100 grapefruit
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    2x lion's mane mushrooms (to make up for not adding any yesterday)
+??? broccoli and cauliflower (some to mom)
+
+1:01 fresh out of the oven (baked for mom)
+??? five thin slices of garlic batard, each with mustard
+
+2:09 late lunch
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+3:10 getting peckish
+230 2.3 oz. (the rest) dragon fruit
+600 3 oz. dry roasted mixed nuts
+
+4:32 dinner?
+300 3 oz. dried mango
+
+5:45 finally made it
+100? green drink (with 3/4 rockit apple, other 1/4 to mom)
+
+7:53 final? calories
+720 1 cup quinoa, 2 cups of water cooked for 18 minutes in a
+    saucepan on the stove, then let rest for five minutes before fluffing up.
+    Added hatch green chile.
+230 10 dates
+
+161.8
+weight was at 5:15
+
+5:15 wake-up
+10 double espresso
+
+during
+0 ? calories
+
+12:17 breakfast
+1066 2x fortified oatmeal
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    2x lion's mane mushrooms (to make up for not adding any yesterday)
+120 24 oz. rice milk
+
+4:46 back at 4744
+??? 16.9 oz. 12% ABV Ex Novo Kill the Sun Dirty Chai (2006?)
+
+5:17 protein snack
+??? brick of tempeh with mustard
+
+5:35 kind of late, but better than never
+??? broccoli and cauliflower (some to mom)
+
+5:47 more sides for mom
+80 2/3 banana (other 1/4 to mom)
+60 3/4 cara cara orange (other 1/4 to mom)
+225 3/4 avocado (other 1/4 to mom)
+ 50 kiwifruit
+ 
+7:13 sweet
+300 3 oz. dried mango
+
+7:26 made earlier, cold now
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+8:05 final? calories
+230 10 dates
+221 1.3 oz. (the rest) pistachios
+
+Thursday 20260423 weight 160.0
+weight was 160.8 at 5:38
+weight was at 7:54
+
+5:15 wake-up
+10 double espresso
+
+5:25 bonus caffeine
+ 6? most of a double espresso (I spilled some of it yesterday when I was
+    making espresso and I didn't want to leave a misleading partial double
+    around and shortchange myself on caffeine accidentally in the future)
+
+8:00 breakfast
+533 fortified oatmeal
+
+8:21 post core protein snack
+280 two bags of edamame
+
+8:37 warmth
+??? medium sweet potato
+
+11:15 fruit snack
+ 80 2/3 banana (other 1/4 to mom)
+ 50 kiwifruit
+ 60 3/4 cara cara orange (other 1/4 to mom)
+225 3/4 avocado (other 1/4 to mom)
+??? broccoli and cauliflower (some to mom)
+
+12:19 lunch
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+2:37 post nap calories
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, 5 lqrge squirts of Tabasco
+    Bean setting for foty-five minutes, natural release.
+
+5:18 making salads
+100? green drink (with 3/4 rockit apple, other 1/4 to mom)
+300 3 oz. dried mango
+
+5:52 freshly made
+ 80 16 oz. rice milk
+??? leftover basmati rice (not much leftover)
+
+6:58 break fuel
+230 10 dates
+
+7:27 finally made them
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, (out of garlic),
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+
+7:45 final calories
+340 2 oz. pistachios
+
+Friday 20260424 weight 158.8
+weight was 160.7 at 5:13
+weight was at 10:17
+
+5:15 wake-up
+10 double espresso
+
+5:34 - during 16.7 mile run
+0 ~25 oz. water
+
+
+nothing
+
+10:22 breakfast
+533 fortified oatmeal
+
+11:30 lunch
+ 80 16 oz. rice milk
+225 3/4 avocado (other 1/4 to mom)
+ 50 kiwifruit
+ 80 2/3 banana (other 1/3 to mom)
+
+11:54 more lunch
+60 3/4 cara cara orange (other 1/4 to mom)
+??? broccoli and cauliflower (some to mom)
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, (out of garlic),
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+
+12:39 final lunch
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+1:39 protein snack
+280 two bags of edamame
+
+2:35 walking with mom fuel
+??? 16.9 oz. 8.0% ABV La Chouffe Belgian Blonde Ale with Coriander
+
+5:10 nut snack
+800 4 oz. dry roasted mixed nuts
+
+5:45 while the lentils cook
+??? brick of tempeh, with thick coating of peanut butter and mustard
+
+6:05 late dinner
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco
+
+7:05 final? calories
+460 20 dates
+
+Saturday 20260425 weight 156.8
+weight was 160.2 at 5:02
+weight was 160.0 at 5:28
+weight was at 7:47pm
+
+54.1F @ 5:01 Sandia Heights
+https://www.wunderground.com/weather/us/nm/albuquerque/KNMALBUQ1942
+
+5:15 wake-up
+10 double espresso
+
+during hike
+0 ? oz. water
+
+~7:55 breakfast (chilled)
+533 fortified oatmeal
+
+8:10 warm protein
+500 (Kirkland) tofu with (Costco) Hatch Green Chile
+
+8:18 fruit snack (room temperature)
+120 banana
+ 50 kiwifruit
+ 80 cara cara orange
+100 grapefruit
+
+8:34 chilled
+300 avocado
+
+8:39 final? calories
+340 2 oz. pistachios
+
+Sunday 20260426 weight 156.9
+weight was 157.6 at 5:36
+weight was at 7:15
+
+5:15 wake-up
+10 double espresso
+
+7:18 (no cardio, yet?) breakfast
+533 fortified oatmeal
+
+8:30 didn't eat yesterday
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, (out of garlic),
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+
+8:50 quick calories
+ 50 kiwifruit
+ 60 3/4 cara cara orange (1/4 to mom)
+600 3 oz. dry roasted mixed nuts
+
+10:45 early lunch
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    (just slightly too much) Apollo hot sauce
+
+10:59 made for mom
+??? three very thin slices of garlic batard, each with mustard
+
+11:48 more lunch
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, plain
+    Bean setting for foty-five minutes, natural release.
+
+12:07 it was there
+300 3 oz. dried mango
+
+12:41 hungry
+340 2 oz. pistachios
+
+2:04 snack
+??? two slices of garlic batard, each with mustard
+
+3:16 back from Sprouts
+120 banana
+100 grapefruit (Costco)
+
+3:37 post Chimney Canyon Threepeat celebratory beer
+??? 16.9 oz. 8.0% ABV La Chouffe Belgian Blonde Ale with Coriander
+
+4:44 more celebration
+??? 16 oz. 5.1% ABV Ex Novo Perle Haggard
+
+5:30 made it while making salads for tomorrow, Tuesday and Wednesday
+100? green drink (with rockit apple)
+
+5:58 poker fuel
+600 3 oz. dry roasted mixed nuts
+
+7:00 more poker fuel
+??? brick of tempeh, with thick coating of peanut butter and mustard
+
+7:30 final? calories
+230 10 dates
+
+7:49 final calories
+340 2 oz. pistachios
+
+1:43 woke up too hot and decided to have some food
+230 10 dates
+
+Monday 20260427 weight 156.0
+weight was 159.8 at 5:34
+weight was at 10:32
+
+5:15 wake-up
+10 double espresso
+
+5:46 - 7:50 during 10.65 mile run
+0 ~4 oz. water
+
+8:05 pre interval bonus caffeine
+10 double espresso
+
+8:26 - 8:59 during intervals
+0 ~3 oz. ice water
+
+9:14 - 10:15 during walk with mom
+nothing
+
+10:39 breakfast
+533 fortified oatmeal
+
+11:00 recovery stuff
+ 50 kiwifruit
+100? green drink (with 3/4 rockit apple, other 1/4 to mom) 
+
+11:27 lunch begins
+ 80 2/3 banana (other 1/3 to mom)
+ 80 16 oz. rice milk
+225 3/4 avocado (other 1/4 to mom)
+ 60 3/4 cara cara orange (1/4 to mom)
+??? broccoli and cauliflower (some to mom)
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    Taos Hum (chocolate Trinidad moruga scorpion hot sauce)
+
+2:19 cold snack (made earlier)
+ ??? 2/3 cup of pinto beans, 1 1/2 cups of water, 5 lqrge squirts of Tabasco
+    Bean setting for foty-five minutes, natural release.
+
+3:13 snacking
+300 3 oz. dried mango
+
+4:25 dinner
+720 1 cup quinoa, 2 cups of water cooked for 18 minutes in a
+    saucepan on the stove, then let rest for five minutes before fluffing up.
+    Added hatch green chile.
+
+6:59 break fuel
+600 3 oz. dry roasted mixed nuts
+
+7:56 final? calories
+340 2 oz. pistachios
+230 10 dates
+
+Tuesday 20260428 weight 156.4
+weight was at 10:34
+
+5:15 wake-up
+~10 ~double espresso (eyeballed half of quad)
+
+5:24 bonus caffeine
+~10 rest of quad
+
+during run
+0 ~32 oz. water (two 500ml tubes, but one wasn't quite full)
+
+10:43 breakfast
+533 fortified oatmeal
+
+11:07 finally shucked
+280 2 bags of edamame
+
+11:30 fruit snack
+ 50 kiwifruit
+ 80 2/3 banana (other 1/3 to mom)
+ 60 3/4 cara cara orange (1/4 to mom)
+225 3/4 avocado (other 1/4 to mom)
+ ??? medium salad: spinach, cucumber, carrot, onion, ginger, garlic,
+    (out of habanero), Costco shiitake mushrooms, sweet peppers, Sprouts pickle,
+    4 jalapeño & garlic stuffed olives, cherry tomatoes, pistachios,
+    lion's mane mushrooms
+
+11:56 more lunch
+??? broccoli and cauliflower (some to mom)
+ 80 16 oz. rice milk
+300 3 oz. dried mango
+
+12:40 final lunch
+??? 2/3rd cup lentils (green) cooked in 2.? cups water for an hour,
+    5 large squirts of Tabasco (the rest)
+
+2:40 finally made it
+100? green drink (with 3/4 rockit apple, other 1/4 to mom, Tabasco wash)
+600 3 oz. dry roasted mixed nuts
+
+5:13 poker fuel
+340 2 oz. pistachios
+
+5:28 freshly baked
+??? 4 thin slices and 2 medium slices of focaccia
+
+7:55 final? calories
+??? four medium slices of focaccia, each with mustard
+230 10 dates
+
+8:15 final? calories
+600 3 oz. dry roasted mixed nuts
+
+10:08 woke up hot
+ 80 16 oz. rice milk
+
+11:23 woke up to turn cooler off
+230 10 dates
+
+Wednesday 20260429 weight 158.8
+weight was at 5:28
+
+5:15 wake-up
+~10 half (eyeballed) a quad espresso 
